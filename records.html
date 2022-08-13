@@ -1,0 +1,89 @@
+<style>
+
+.recordhead{
+    columns: 3;
+}
+.recordhead.hand {
+    padding: 20px;
+}
+.detail {
+    border-bottom: 1px solid lightblue;
+    font-size: 9px;
+    padding: 0 0 20px;
+    margin: 0 20px 20px;
+    font-family: lemon;
+}
+.number {
+    margin: 0 0 0 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.recordhead {
+    background: linear-gradient(45deg, #02cfe9, #00b7cf);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+</style>
+<div class="w100">
+    <div class="buttons">
+        <button id="rtoday" value="Today" class="b-active">Today</button>
+        <button id="rweek" value="This week">This week</button>
+        <button id="rmonth" value="This month">This month</button>
+        <button id="ryear" value="This year">This year</button>
+        <button id="rlifetime" value="Lifetime">Lifetime</button>
+        <button id="rcustom" value="This time">Custom time</button>
+        <div id="cusdate">
+            <div class="subcon"></div>
+            <div class="subcon">
+                <label>From :</label>
+                <input id="cusfrom" type="date">
+                <label>To :</label>
+                <input id="custo" type="date">
+            </div>
+        </div>
+    </div>
+    <div class="recordviewer">
+        <div class="recordhead">
+            <div class="hand">
+                <div id="TInv" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total invoices</div>
+            </div>
+            <div class="hand">
+                <div id="TPinv" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total purchase invoices</div>
+            </div>
+            <div class="hand">
+                <div id="TIA" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total shop items value</div>
+            </div>
+
+            <div class="hand">
+                <div id="TCAcus" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total credit with customers</div>
+            </div>
+            <div class="hand">
+                <div id="TCAcom" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total credit with companies</div>
+            </div>
+            <div class="hand">
+                <div id="TNC" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total net cash</div>
+            </div>
+
+            <div class="hand">
+                <div id="TSA" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total sale</div>
+            </div>
+            <div class="hand">
+                <div id="TPA" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total purchase</div>
+            </div>
+            <div class="hand">
+                <div id="profit" class="number"></div>
+                <div class="detail"><span class="days">Today</span> total profit</div>
+            </div>
+        </div>
+    </div>
+</div>

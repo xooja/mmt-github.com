@@ -1,0 +1,6 @@
+{
+    "name": "MMT offline",
+    "short_name": "MMT",
+    "start_url":"/",
+    "display":"browser"
+}

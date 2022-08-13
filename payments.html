@@ -1,0 +1,191 @@
+<style>
+    .invoiceVeiwer .div , .cusVeiwer .div ,.pinvoiceVeiwer .div , .comVeiwer .div {
+    float: left;
+    padding: 20px;
+    width: 20%;
+}
+.invoiceVeiwer , .cusVeiwer, .pinvoiceVeiwer , .comVeiwer{
+    background: whitesmoke;
+    cursor: pointer;
+    border-radius: 1px;
+    outline: 2px solid #dddddd;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.invnumber{
+    width: 25px;
+    height: 25px;
+    background-color: #003b57;
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 50%;
+    padding: 3px;
+    font-family: fantasy;
+    margin-top: 2%
+}
+.namecus{
+    text-align: center;
+}
+@keyframes open {
+    from{height: 0px;}
+    to{height: 400px;}
+}
+.invExpand , .cusExpand,.pinvExpand , .comExpand{
+    background-color: white;
+    padding: 5px;
+    width: 97%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px dashed #898989;
+    text-align: left;
+    display: none;
+    overflow: hidden;
+    cursor: default;
+    animation: open 0.2s;
+}
+.inside{
+    padding: 5px 10px;
+    margin-right: 20px;
+    background-color: #3e3e3e;
+    font-size: 12px;
+    font-family: revert;
+}
+.para{
+    padding: 20px;
+}
+.topnav .topnav-for-inner-button{
+    width: 25%;
+}
+.subactive{
+    animation: none;
+}
+</style>
+
+<div class="w100">
+    <div class="subcon CCtab CCactive" id="receivedBtn" style="text-align: center;">Received</div>
+    <div class="subcon CCtab" id="sentBtn" style="text-align: center;">Sent</div>
+
+    <div class="CCtabCon w100" id="receivedTab">
+        <div class="hand topnav-for-inner">
+            <div class="topnav-for-inner-button subactive" id="customerpybtn">Coustomer</div>
+            <div class="topnav-for-inner-button" id="invoicepybtn">Invoice</div>
+            <div class="topnav-for-inner-button" id="homepybtn">House</div>
+            <div class="topnav-for-inner-button" id="shoppybtn">Shop</div>
+        </div>
+        <div class="CCsubClass w100" id="customerpy">
+            <div id="cushendler">
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="invoicepy" style="display: none;">
+            <div id="invhendler">
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="homepy" style="display: none;">
+            <div class="margin10px">
+                <div class="heading">
+                    Received payment from home.
+                </div>
+                <div class="hand">
+                    <div class="subcon para">Payment detail</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="detailrhp" placeholder="Detail">
+                    </div>
+                    <div class="subcon para">Ammount</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="ammountrhp" placeholder="Received ammount">
+                    </div>
+                    
+                    <div class="subcon"></div>
+                    <div class="subcon noprint">
+                        <button class="btn_2" id="submitrhp">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="shoppy" style="display: none;">
+            <div class="margin10px">
+                <div class="heading">
+                    Received payment from shop.
+                </div>
+                <div class="hand">
+                    <div class="subcon para">Payment detail</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="detailrsp" class="special" placeholder="Detail">
+                    </div>
+                    <div class="subcon para">Ammount</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="ammountrsp" class="special" placeholder="Received ammount">
+                    </div>
+                    
+                    <div class="subcon"></div>
+                    <div class="subcon noprint">
+                        <button class="btn_2" id="submitrsp">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="CCtabCon w100" id="sentTab" style="display: none;">
+        <div class="hand topnav-for-inner">
+            <div class="topnav-for-inner-button subactive" id="companypybtn">Company</div>
+            <div class="topnav-for-inner-button" id="sinvoicepybtn">Purchase Invoice</div>
+            <div class="topnav-for-inner-button" id="shomepybtn">House</div>
+            <div class="topnav-for-inner-button" id="sshoppybtn">Shop</div>
+        </div>
+        <div class="CCsubClass w100" id="companypy">
+            <div id="comhendler">
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="sinvoicepy" style="display: none;">
+            <div id="pinvhendler">
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="shomepy" style="display: none;">
+            <div class="margin10px">
+                <div class="heading">
+                    Spend payment in home.
+                </div>
+                <div class="hand">
+                    <div class="subcon para">Payment detail</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="detailshp" placeholder="Detail">
+                    </div>
+                    <div class="subcon para">Ammount</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="ammountshp" placeholder="Received ammount">
+                    </div>
+                    
+                    <div class="subcon"></div>
+                    <div class="subcon noprint">
+                        <button class="btn_2" id="submitshp">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="CCsubClass w100" id="sshoppy" style="display: none;">
+            <div class="margin10px">
+                <div class="heading">
+                    Spend payment on shop.
+                </div>
+                <div class="hand">
+                    <div class="subcon para">Payment detail</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="detailssp" class="special" placeholder="Detail">
+                    </div>
+                    <div class="subcon para">Ammount</div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="ammountssp" class="special" placeholder="Received ammount">
+                    </div>
+                    
+                    <div class="subcon"></div>
+                    <div class="subcon noprint">
+                        <button class="btn_2" id="submitssp">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

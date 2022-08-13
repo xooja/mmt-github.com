@@ -1,0 +1,110 @@
+
+
+<div class="w100">
+    <div class="subcon CCtab CCactive" id="customerBtn" style="text-align: center;">Customers</div>
+    <div class="subcon CCtab" id="companiesBtn" style="text-align: center;">Companies</div>
+
+    <div class="CCtabCon w100" id="customerTab">
+        <div class="subcon"></div>
+        <div class="subcon">
+            <button class="btn_2" id="Addcus">Add Customer</button>
+        </div>
+        <table>
+            <tbody id="custable">
+              <tr>
+                <th class="left"></th>
+                <th>Last update</th>
+                <th>Name</th>
+                <th>Number</th>
+                <th>Credit Amount</th>
+                <th>Limit</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="CCtabCon w100" id="companiesTab" style="display: none;">
+        <div class="subcon"></div>
+        <div class="subcon"><button class="btn_2" id="Addcom">Add Company</button></div>
+        <table>
+            <tbody id="Comtable">
+              <tr>
+                <th class="left"></th>
+                <th>Last update</th>
+                <th>Name</th>
+                <th>Number</th>
+                <th>Payable Amount</th>
+                </tr>
+            </tbody>
+          </table>
+    </div>
+    <div class="cowindow" id="customerDetail" style="display: none;">
+        <div class="cowincontent" style="--name : cowindow">
+            <div class="btopnav">
+                <a>Add Customer Details</a>
+                <a class="close right C_Btn">&times;</a>
+            </div>
+                <div class="content">
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="CusName" value="" placeholder="Customer name">
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="text" id="CusNum" placeholder="Customer Number">
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="Cusadd" placeholder="Customer Address">
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="number" id="Cuslimit" placeholder="Credit Limit">
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="number" id="CusCredit" placeholder="Current Credit">
+                        </div>
+                    </div>
+                <div class="subcon"></div>
+                <div class="subcon">
+                    <button class="btn_2" id="addCustomer">Add</button>
+                    <button class="btn_2" id="updCustomer" style="display: none;">Update</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cowindow" id="companyDetail" style="display: none;">
+        <div class="cowincontent" style="--name : cowindow">
+            <div class="btopnav">
+                <a>Add Customer Details</a>
+                <a class="close right C_Btn">&times;</a>
+            </div>
+                <div class="content">
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="ComName" placeholder="Company name">
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="text" id="ComNum" placeholder="Company Number">
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="Comadd" placeholder="Company Address">
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="text" id="ComCredit" placeholder="Current Credit">
+                        </div>
+                    </div>
+                
+                <div class="subcon"></div>
+                <div class="subcon">
+                    <button class="btn_2" id="addCompany">Add</button>
+                    <button class="btn_2" id="updCompany" style="display: none;">Update</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

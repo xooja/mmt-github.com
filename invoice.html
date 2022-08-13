@@ -1,0 +1,258 @@
+<style>
+    .header{
+        border-bottom: 1px solid lightgray;
+        padding: 10px 4px 0 4px;
+    }
+    .header td{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: small;
+        padding: 7px;
+        margin: 5px;
+    }
+    .subcon td{
+        border: none;
+        background-color: white;
+        color: black;
+        font-size: small;
+        padding: 7px;
+        margin: 5px;
+    }
+    .invoice td input{
+        width: 100%;
+    }
+    .invoice td button{
+        width: 60px;
+        height: 50px;
+        border-radius: 10px;
+        margin-bottom: -10px;
+        border: none;
+        cursor: pointer;
+        background-color: #333;
+        color: white;
+    }
+    .invoice td button:active{
+        color: black;
+        background-color: white;
+        border: 1px solid #333;
+    }
+
+.amttab .subcon{
+    font-size: 13px;
+    padding: 3px;
+}
+.amttab input{
+    font-size: 13px;
+}
+
+
+</style>
+
+<div class="invoice" style="width:100%;padding: 10px;">
+    <div class="buttons">
+        <button id="newInvBtn" class="b-active">New invoice</button>
+        <button id="printInvBtn">Print invoice</button>
+    </div>
+    <div class="invoiceMiddle">
+        <div class="subcon">
+            <div class="heading">Customer Information</div>
+            <div class="suggest_input_mini" style="margin: 0px;">
+                <input type="text" id="cusName" class="special" placeholder="Customer name" autocomplete="off" tabindex="5">
+                <div id="suggestCus">
+                </div>
+            </div>
+            <div class="para"><input type="text" class="special" tabindex="2" id="cusNum" placeholder="Number"></div>
+            <div class="para"><textarea rows="3" type="text" tabindex="3" class="special" id="cusAddress" placeholder="Address"></textarea></div>
+        </div>
+        <div class="subcon" id="noTab" style="margin-top: 82px;display: none;">
+            <select id="invoiceNO" class="special">
+                
+            </select>
+            <div class="para">
+                <input type="number" style="display: none;" class="special" id="cosNum" placeholder="Number">
+            </div>
+        </div>
+    </div>
+    <div class="hand noprint">
+        <div class="subcon">
+            <button class="classic-btn" id="holdinv" style="display:none;">Hold this invoice</button>
+            <select id="loadHoldedinv" tabindex="4" style="display: none;">
+                <option selected disabled>Load panding invoice..</option>
+            </select>
+        </div>
+        <div class="subcon">
+            <select id="billctg" tabindex="4">
+                <option value="1">Purchoon rate</option>
+                <option value="2">Hole sale rate</option>
+            </select>
+        </div>
+    </div>
+    <div id="middleinv">
+        <div class="table-class">
+            <table>
+                <tbody id="itemstable">
+                <tr>
+                    <th class="left"></th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>Amount</th>
+                    </tr>
+                </tbody>
+                <tbody class="noboder">
+                    <tr>
+                        <td class="left" colspan="2"></td>
+                        <td id="tQ"></td>
+                        <td>Total</td>
+                        <td id="t">0</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="table-class" style="display: none;">
+            <table>
+                <tbody id="printtable">
+                <tr>
+                    <th class="left"></th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>Amount</th>
+                    </tr>
+                </tbody>
+                <tbody class="noboder">
+                    <tr>
+                        <td class="left" colspan="2"></td>
+                        <td id="tQ2"></td>
+                        <td>Total</td>
+                        <td id="t2">0</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <input type="text" id='searchitems' class='searchitems search-input noprint' style="margin:0 5px 10px 0;">
+        <div class="header noprint">
+            <div class="suggest_input" style="margin: 0px;">
+                <input type="text" id="Item_name" placeholder="Item name..." autocomplete="off" tabindex="5">
+                <div id="autosuggest_list">
+                </div>
+            </div>
+            <table>
+                <tr>
+                    <td>Quantity</td>
+                    <td>Rate</td>
+                    <td rowspan="2">
+                        <button id="action" tabindex="8">Add</button>
+                        <button id="actionupdate" style="display: none;" tabindex="8">Update</button></td>
+                </tr>
+                <tr>
+                    <td><input type="number" id="quantity" tabindex="6"></td>
+                    <td><input type="number" id="Rate" tabindex="7"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="margin10px" id="itemsholder">
+    </div>
+    <div class="hand amttab">
+        <div class="hand">
+            <div class="subcon amttab">
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Total Ammount</div>
+                <div class="subcon"><input class="special cen" type="number" id="totalAmount" disabled value="0"></div>
+            </div>
+        </div>
+        <div class="hand" id="paidtab" style="display: none;">
+            <div class="subcon">
+                <div class="subcon right">Discount</div>
+                <div class="subcon"><input class="special cen" type="number" id="discount" tabindex="9" value="0"></div>
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Ammount Received</div>
+                <div class="subcon" style="position: relative;"><input class="special cen" type="text" id="paidAmount" tabindex="10" value="0">
+                    <span id="culsum">0</span></div>
+            </div>
+        </div>
+
+        <div class="hand" id="Extra">
+            <div class="subcon">
+                <div class="subcon right">Previous Credit</div>
+                <div class="subcon"><input class="special cen" type="number" id="precredit" disabled value="0"></div>
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Total Credit</div>
+                <div class="subcon"><input class="special cen" type="number" id="creditAmount" disabled value="0"></div>
+            </div>
+        </div>
+    </div>
+    <div class="hand noprint">
+        <div class="subcon"></div>
+        <div class="subcon">
+            <button id="genratePurchaseBill" class="btn_2">Create</button>
+            <button id="ClearPage" class="btn_2">Clear</button>
+        </div>
+    </div>
+
+    <div class="cowindow" id="creditlimitDetail" style="display: none;">
+        <div class="cowincontent" style="--name : cowindow2; width: 400px;">
+            <div class="btopnav">
+                <a>Credit Limit</a>
+                <a class="close right C_Btn">&times;</a>
+            </div>
+            <style>
+                .cowincontent .alert{
+                    text-align: center;
+                }
+                .cowincontent .alert .massage{
+                    margin: 40px 0;
+                }
+            </style>
+            <div class="alert">
+                <div class="massage">This customer credit limit has been reached <br>
+                Do you wish to increase limit</div>
+                <div class="hand">
+                    <button class="btn_2" id="increaseLimit">Increse</button>
+                    <button class="btn_2" id="cancelIncrease">Cancel</button>
+                </div>
+            </div>
+                <div class="content Detailcus" style="display: none;">
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" value="" disabled>
+                            <span class="before">Customer name</span>
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="text" >
+                            <span class="before">Customer number</span>
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text">
+                            <span class="before">Customer address</span>
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="number">
+                            <span class="before">Credit Limit</span>
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="number" disabled>
+                            <span class="before">Current Credit</span>
+                        </div>
+                    </div>
+                <div class="subcon"></div>
+                <div class="subcon">
+                    <button class="btn_2" id="increaseLimitok">Increse</button>
+                    <button class="btn_2" id="cancelIncreaseAgain">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

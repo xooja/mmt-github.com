@@ -1,0 +1,241 @@
+<style>
+:root{
+    --orange: rgb(230 115 0);
+}
+#InvoiceHeader td{
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: small;
+    padding: 7px;
+    margin: 5px;
+}
+.invnew .invoicetitle{
+    font-size: 20px;
+    color: rgb(153, 153, 153);
+    display: inline-block;
+    text-align: center;
+    background-color: transparent;
+    margin: 0;
+}
+table .ra {text-align: right;}
+table .la {text-align: left;padding-right: 70px;}
+.amttab .subcon{
+    font-size: 13px;
+    padding: 3px;
+}
+.amttab input{
+    font-size: 13px;
+}
+.bordertop{
+    border-top: 10px solid var(--orange);
+    background-color: gainsboro;
+}
+.invnew .bordertop td{
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: transparent;
+}
+.invnew .bordertop th{
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: transparent;
+}
+.invnew-para{
+    padding: 0;
+    width: 70%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 11px;
+}
+.head-para{
+    font-size: 14px;
+}
+.invnew{
+    position: relative;
+}
+.invnew .logo{
+    float: left;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.invnew-para2{
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 11px;
+}
+.head-para2{
+    font-size: 14px;
+}
+.invnew-heading{
+    border-bottom: 1px solid gray;
+    padding:2px;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 15px;
+    color: gray;
+}
+.invnew-top-table td{
+    padding: 0;
+    padding-top: 8px;
+    font-size: 16px;
+}
+.invnew .middle{
+    padding: 5px;
+}
+.invnew .middle th,.invnew .middle td{
+    padding: 2px;
+}
+.invnew .middle th{
+    background-color: var(--orange);
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.invnew .middle td.dsp{
+    padding-left: 20px;
+}
+.invnew .middle tr td:last-child{
+    text-align: right;
+    padding-right:5px;
+}
+.invnew .special{
+    text-align: right;
+    padding-right:3px;
+    margin-right: 5px;
+    border-bottom: 1px solid gray;
+    width: 95%;
+    float: right;
+}
+.invnew .amttab div{
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+</style>
+
+<div class="hand invnew">
+    <div class="hand bordertop">
+        <div class="subcon ">
+            <div class="islogo lo" id="logo"></div>
+            <div class="invnew-para head-para" id="shopName">Shop Name</div> 
+            <div class="invnew-para" id="shopNum">Shop Number</div>
+            <div class="invnew-para" id="shopAddress">Shop address</div>
+        </div>
+        <div class = "subcon">
+            <table class="right invnew-top-table" style="zoom: .7;float: right;width: 40%;">
+                <tr>
+                    <th colspan="2"><div class="invoicetitle uppercase">INVOICE</div></th>
+                </tr>
+                <tr>
+                    <td class="la">Dated </td>
+                    <td class="ra"><span id="invoiceTime"></span> &nbsp &nbsp <span id="invoiceDate">01:01:2000</span></td>
+                </tr>
+                <tr>
+                    <td class="la">Number </td>
+                    <td class="ra" id="invoiceNum">00</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="invoiceMiddle">
+        <div class="subcon">
+            <div class="invnew-heading rightside uppercase">cus information</div>
+            <div class="invnew-para2 head-para2"><span id="nameOT">Customer Name</span>
+            </div>
+            <div class="invnew-para2"><span id="numOT">Customer Number</span></div>
+            <div class="invnew-para2"><span id="addressOT">Customer Address</span></div>
+        </div>
+    </div>
+    <div class="middle">
+        <table>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td class="dsp">Item 1 name</td>
+                <td>2Pack</td>
+                <td>50</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <th>2</th>
+                <td class="dsp">Item 2 name</td>
+                <td>1Pack</td>
+                <td>60</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <th>3</th>
+                <td class="dsp">Item 3 name</td>
+                <td>5Pack</td>
+                <td>30</td>
+                <td>150</td>
+            </tr>
+            <tr>
+                <td class="left" colspan="2"></td>
+                <td id="tQ"></td>
+                <td>Total</td>
+                <td id="t">310</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="hand amttab">
+        <div class="subcon">
+        </div>
+        <div class="hand">
+            <div>
+                <div class="subcon right">Total Ammount</div>
+                <div class="subcon"><div class="special" id="tAmt">310</div></div>
+            </div>
+            <div>
+                <div class="subcon right">Discount</div>
+                <div class="subcon"><div class="special" id="dAmt">0</div></div>
+            </div>
+            <div>
+                <div class="subcon right">Previous Credit</div>
+                <div class="subcon"><div class="special" id="precreditAmt">10</div></div>
+            </div>
+            <div>
+                <div class="subcon right">Ammount Received</div>
+                <div class="subcon"><div class="special" id="paidAmt">0</div></div>
+            </div>
+            <div>
+                <div class="subcon right">Total Credit</div>
+                <div class="subcon"><div class="special" id="creditAmt">320</div></div>
+            </div>
+        </div>
+    </div>
+    <div class="ph-footer">
+        Mudassar Software House copyright <strong>&copy;</strong> <strong id="cpyear">2022-</strong>
+        Contact <strong>+9230-88-77-66-93</strong>
+        <span class="right">Make me trader</span>
+    </div>
+</div>
+
+<script>
+    HTMLElement.prototype.qr = qr;
+    function qr(x){
+        return document.querySelector(x);
+    }
+    function $(x){
+        return document.getElementById(x);
+    }
+
+    dateforyear = new Date();
+    qr("#printHandle").querySelector("#cpyear").innerHTML += dateforyear.getFullYear()+1;
+    
+
+</script>

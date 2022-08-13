@@ -1,0 +1,189 @@
+<style>
+
+.amttab .subcon{
+    font-size: 13px;
+    padding: 3px;
+}
+.amttab input{
+    font-size: 13px;
+}
+.classic td, .classic th {
+  border: 1px solid #000000;
+  padding: 5px;
+  color: black;
+}
+.classic th {
+  background-color: white;
+  font-weight: bold;
+  font-size: normal;
+}
+td.dsp{
+    text-align: left;
+    padding-left: 20px;
+}
+.classic #InvoiceHeader ,.classic .invoicetitle,.classic #InvoiceHeader table td{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.classic .invoicetitle{
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+.classic-title , .classic-para{
+    text-align: center;
+    color: #000000;
+}
+.classic-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.classic-para-cus{
+    padding: 3px;
+}
+.custab{
+    margin-top: 5px;
+}
+.classic-logo{
+    position:absolute;
+    top: 5px;
+    left: 5px;
+    width: 60px;
+    height: 60px;
+}
+.classic{
+ position: relative;
+}
+.classic .middle{
+    padding: 0 10px;
+}
+table .ra {text-align: right;}
+table .la {text-align: left;padding-right: 70px;}
+</style>
+
+<div class="hand classic">
+    <div class="islogo classic-logo" id="logo"></div>
+    <div class="ph-top">
+        <div class="classic-title" id="shopName"><span class="">Shop Name</span></div> 
+        <div class="classic-para" id="shopNum"><span class="">Contact : 000000000</span></div>
+        <div class="classic-para" id="shopAddress"><span class="">Address : City Country State Nation</span></div>
+        <div class="hand" style="margin-top: 5px;">
+            <div class="subcon custab">
+                <div class="classic-para-cus"><span id="nameOT"><span class="">Customer Name</span></span>
+                </div>
+                <div class="classic-para-cus"><span id="numOT"><span class="">Customer Number</span></span></div>
+                <div class="classic-para-cus"><span id="addressOT"><span class="">Customer Address</span></span></div>
+            </div>
+
+            <div class = "subcon" id="InvoiceHeader">
+                <table class="right" style="margin-top: 10px;">
+                    <tr>
+                        <th colspan="2"><div class="invoicetitle">Invoice</div></th>
+                    </tr>
+                    <tr>
+                        <td class="la">Number </td>
+                        <td class="ra" id="invoiceNum">00</td>
+                    </tr>
+                    <tbody>
+                        <tr>
+                            <td class="la">Dated </td>
+                            <td class="ra"><span id="invoiceTime"></span> &nbsp &nbsp <span id="invoiceDate">01:01:2000</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <div class="middle">
+        <table>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td class="dsp">Item 1 name</td>
+                <td>2Pack</td>
+                <td>50</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <th>2</th>
+                <td class="dsp">Item 2 name</td>
+                <td>1Pack</td>
+                <td>60</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <th>3</th>
+                <td class="dsp">Item 3 name</td>
+                <td>5Pack</td>
+                <td>30</td>
+                <td>150</td>
+            </tr>
+            <tr>
+                <td class="left" colspan="2"></td>
+                <td id="tQ"></td>
+                <td>Total</td>
+                <td id="t">310</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="hand amttab">
+        <div class="hand">
+            <div class="subcon amttab">
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Total Ammount</div>
+                <div class="subcon"><div class="special cen" id="tAmt">310</div></div>
+            </div>
+        </div>
+        <div class="hand">
+            <div class="subcon">
+                <div class="subcon right">Discount</div>
+                <div class="subcon"><div class="special cen" id="dAmt">0</div></div>
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Ammount Received</div>
+                <div class="subcon"><div class="special cen" id="paidAmt">0</div></div>
+            </div>
+        </div>
+
+        <div class="hand" id="Extra">
+            <div class="subcon">
+                <div class="subcon right">Previous Credit</div>
+                <div class="subcon"><div class="special cen" id="precreditAmt">10</div></div>
+            </div>
+            <div class="subcon">
+                <div class="subcon right">Total Credit</div>
+                <div class="subcon"><div class="special cen" id="creditAmt">320</div></div>
+            </div>
+        </div>
+    </div>
+    <div class="ph-footer">
+        Mudassar Software House copyright <strong>&copy;</strong> <strong id="cpyear">2022-</strong>
+        Contact <strong>+9230-88-77-66-93</strong>
+        <span class="right">Make me trader</span>
+    </div>
+</div>
+
+<script>
+     HTMLElement.prototype.qr = qr;
+    function qr(x){
+        return document.querySelector(x);
+    }
+    function $(x){
+        return document.getElementById(x);
+    }
+
+    dateforyear = new Date();
+    qr("#printHandle").querySelector("#cpyear").innerHTML += dateforyear.getFullYear()+1;
+    
+
+</script>

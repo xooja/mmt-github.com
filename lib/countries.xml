@@ -1,0 +1,4723 @@
+<?xml version="1.0"?>
+<countries>
+  <country id="1" cc-ios-2="AF" m49-code="4" num-code="93">
+    <en-name>Afghanistan</en-name>
+    <name>Afghanistan</name>
+    <cc-ios-3>AFG</cc-ios-3>
+    <cr-name>Afghani</cr-name>
+    <cr-code>AFN</cr-code>
+    <cr-number>971</cr-number>
+    <cr-symbel>&#x60B;</cr-symbel>
+    <subunit>P&#x16B;l</subunit>
+    <central-bank>Da Afghanistan Bank</central-bank>
+    <capital-city>Kabul</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>29,121,286</population>
+    <area-km2>647,500</area-km2>
+    <gdp-usd>20.65 Billion</gdp-usd>
+  </country>
+  <country id="2" cc-ios-2="AX" m49-code="248" num-code="358">
+    <en-name>Aland Islands</en-name>
+    <name>Aland Islands</name>
+    <cc-ios-3>ALA</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Mariehamn</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>29,789</population>
+    <area-km2>1,580</area-km2>
+    <gdp-usd>1.282 Billion</gdp-usd>
+  </country>
+  <country id="3" cc-ios-2="AL" m49-code="8" num-code="355">
+    <en-name>Albania</en-name>
+    <name>Albania</name>
+    <cc-ios-3>ALB</cc-ios-3>
+    <cr-name>Lek</cr-name>
+    <cr-code>ALL</cr-code>
+    <cr-number>9</cr-number>
+    <cr-symbel>L</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Bank of Albania</central-bank>
+    <capital-city>Tirana</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>2,986,952</population>
+    <area-km2>28,748</area-km2>
+    <gdp-usd>12.8 Billion</gdp-usd>
+  </country>
+  <country id="4" cc-ios-2="DZ" m49-code="12" num-code="213">
+    <en-name>Algeria</en-name>
+    <name>Algeria</name>
+    <cc-ios-3>DZA</cc-ios-3>
+    <cr-name>Algerian Dinar</cr-name>
+    <cr-code>DZD</cr-code>
+    <cr-number>12</cr-number>
+    <cr-symbel>&#x62F;.&#x62C;</cr-symbel>
+    <subunit>santeem</subunit>
+    <central-bank>Bank of Algeria</central-bank>
+    <capital-city>Algiers</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>34,586,184</population>
+    <area-km2>2,381,740</area-km2>
+    <gdp-usd>215.7 Billion</gdp-usd>
+  </country>
+  <country id="5" cc-ios-2="AS" m49-code="16" num-code="1-684">
+    <en-name>American Samoa</en-name>
+    <name>American Samoa</name>
+    <cc-ios-3>ASM</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Pago Pago</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>57,881</population>
+    <area-km2>199</area-km2>
+    <gdp-usd>462.2 Million</gdp-usd>
+  </country>
+  <country id="6" cc-ios-2="AD" m49-code="20" num-code="376">
+    <en-name>Andorra</en-name>
+    <name>Andorra</name>
+    <cc-ios-3>AND</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Andorra la Vella</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>84,000</population>
+    <area-km2>468</area-km2>
+    <gdp-usd>4.8 Billion</gdp-usd>
+  </country>
+  <country id="7" cc-ios-2="AO" m49-code="24" num-code="244">
+    <en-name>Angola</en-name>
+    <name>Angola</name>
+    <cc-ios-3>AGO</cc-ios-3>
+    <cr-name>Kwanza</cr-name>
+    <cr-code>AOA</cr-code>
+    <cr-number>973</cr-number>
+    <cr-symbel>Kz</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>National Bank of Angola</central-bank>
+    <capital-city>Luanda</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>13,068,161</population>
+    <area-km2>1,246,700</area-km2>
+    <gdp-usd>124 Billion</gdp-usd>
+  </country>
+  <country id="8" cc-ios-2="AI" m49-code="660" num-code="1-264">
+    <en-name>Anguilla</en-name>
+    <name>Anguilla</name>
+    <cc-ios-3>AIA</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>The Valley</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>13,254</population>
+    <area-km2>102</area-km2>
+    <gdp-usd>175.4 Million</gdp-usd>
+  </country>
+  <country id="9" cc-ios-2="AG" m49-code="28" num-code="1-268">
+    <en-name>Antigua and Barbuda</en-name>
+    <name>Antigua and Barbuda</name>
+    <cc-ios-3>ATG</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>St. John's</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>86,754</population>
+    <area-km2>443</area-km2>
+    <gdp-usd>1.22 Billion</gdp-usd>
+  </country>
+  <country id="10" cc-ios-2="AR" m49-code="32" num-code="54">
+    <en-name>Argentina</en-name>
+    <name>Argentina</name>
+    <cc-ios-3>ARG</cc-ios-3>
+    <cr-name>Argentine Peso</cr-name>
+    <cr-code>ARS</cr-code>
+    <cr-number>32</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Argentina</central-bank>
+    <capital-city>Buenos Aires</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>41,343,201</population>
+    <area-km2>2,766,890</area-km2>
+    <gdp-usd>484.6 Billion</gdp-usd>
+  </country>
+  <country id="11" cc-ios-2="AM" m49-code="51" num-code="374">
+    <en-name>Armenia</en-name>
+    <name>Armenia</name>
+    <cc-ios-3>ARM</cc-ios-3>
+    <cr-name>Armenian Dram</cr-name>
+    <cr-code>AMD</cr-code>
+    <cr-number>51</cr-number>
+    <cr-symbel>&#x534;</cr-symbel>
+    <subunit>Luma</subunit>
+    <central-bank>Central Bank</central-bank>
+    <capital-city>Yerevan</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>2,968,000</population>
+    <area-km2>29,800</area-km2>
+    <gdp-usd>10.44 Billion</gdp-usd>
+  </country>
+  <country id="12" cc-ios-2="AW" m49-code="533" num-code="297">
+    <en-name>Aruba</en-name>
+    <name>Aruba</name>
+    <cc-ios-3>ABW</cc-ios-3>
+    <cr-name>Aruban Florin</cr-name>
+    <cr-code>AWG</cr-code>
+    <cr-number>533</cr-number>
+    <cr-symbel>&#x192;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>&#xA0;Central Bank of Aruba</central-bank>
+    <capital-city>Oranjestad</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>71,566</population>
+    <area-km2>193</area-km2>
+    <gdp-usd>2.516 Billion</gdp-usd>
+  </country>
+  <country id="13" cc-ios-2="AU" m49-code="36" num-code="61">
+    <en-name>Australia</en-name>
+    <name>Australia</name>
+    <cc-ios-3>AUS</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Canberra</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>21,515,754</population>
+    <area-km2>7,686,850</area-km2>
+    <gdp-usd>1.488 Trillion</gdp-usd>
+  </country>
+  <country id="14" cc-ios-2="AT" m49-code="40" num-code="43">
+    <en-name>Austria</en-name>
+    <name>Austria</name>
+    <cc-ios-3>AUT</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Vienna</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>8,205,000</population>
+    <area-km2>83,858</area-km2>
+    <gdp-usd>417.9 Billion</gdp-usd>
+  </country>
+  <country id="15" cc-ios-2="AZ" m49-code="31" num-code="994">
+    <en-name>Azerbaijan</en-name>
+    <name>Azerbaijan</name>
+    <cc-ios-3>AZE</cc-ios-3>
+    <cr-name>Azerbaijanian Manat</cr-name>
+    <cr-code>AZN</cr-code>
+    <cr-number>944</cr-number>
+    <cr-symbel>&#x43C;&#x430;&#x43D;</cr-symbel>
+    <subunit>Qapik</subunit>
+    <central-bank>Az&#x259;rbaycan Respublikas&#x131; M&#x259;rk&#x259;zi Bank&#x131;</central-bank>
+    <capital-city>Baku</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>8,303,512</population>
+    <area-km2>86,600</area-km2>
+    <gdp-usd>76.01 Billion</gdp-usd>
+  </country>
+  <country id="16" cc-ios-2="BS" m49-code="44" num-code="1-242">
+    <en-name>Bahamas</en-name>
+    <name>Bahamas (the)</name>
+    <cc-ios-3>BHS</cc-ios-3>
+    <cr-name>Bahamian Dollar</cr-name>
+    <cr-code>BSD</cr-code>
+    <cr-number>44</cr-number>
+    <cr-symbel>B$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of The Bahamas</central-bank>
+    <capital-city>Nassau</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>301,790</population>
+    <area-km2>13,940</area-km2>
+    <gdp-usd>8.373 Billion</gdp-usd>
+  </country>
+  <country id="17" cc-ios-2="BH" m49-code="48" num-code="973">
+    <en-name>Bahrain</en-name>
+    <name>Bahrain</name>
+    <cc-ios-3>BHR</cc-ios-3>
+    <cr-name>Bahraini Dinar</cr-name>
+    <cr-code>BHD</cr-code>
+    <cr-number>48</cr-number>
+    <cr-symbel>&#x628;.&#x62F;</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of Bahrain</central-bank>
+    <capital-city>Manama</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>738,004</population>
+    <area-km2>665</area-km2>
+    <gdp-usd>28.36 Billion</gdp-usd>
+  </country>
+  <country id="18" cc-ios-2="BD" m49-code="50" num-code="880">
+    <en-name>Bangladesh</en-name>
+    <name>Bangladesh</name>
+    <cc-ios-3>BGD</cc-ios-3>
+    <cr-name>Taka</cr-name>
+    <cr-code>BDT</cr-code>
+    <cr-number>50</cr-number>
+    <cr-symbel>&#x9F3;</cr-symbel>
+    <subunit>Paisa</subunit>
+    <central-bank>Bangladesh Bank</central-bank>
+    <capital-city>Dhaka</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>156,118,464</population>
+    <area-km2>144,000</area-km2>
+    <gdp-usd>140.2 Billion</gdp-usd>
+  </country>
+  <country id="19" cc-ios-2="BB" m49-code="52" num-code="1-246">
+    <en-name>Barbados</en-name>
+    <name>Barbados</name>
+    <cc-ios-3>BRB</cc-ios-3>
+    <cr-name>Barbados Dollar</cr-name>
+    <cr-code>BBD</cr-code>
+    <cr-number>52</cr-number>
+    <cr-symbel>Bds$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Barbados</central-bank>
+    <capital-city>Bridgetown</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>285,653</population>
+    <area-km2>431</area-km2>
+    <gdp-usd>4.262 Billion</gdp-usd>
+  </country>
+  <country id="20" cc-ios-2="BY" m49-code="112" num-code="375">
+    <en-name>Belarus</en-name>
+    <name>Belarus</name>
+    <cc-ios-3>BLR</cc-ios-3>
+    <cr-name>Belarussian Ruble</cr-name>
+    <cr-code>BYN</cr-code>
+    <cr-number>933</cr-number>
+    <cr-symbel>BYN</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>National Bank of the Republic of Belarus</central-bank>
+    <capital-city>Minsk</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>9,685,000</population>
+    <area-km2>207,600</area-km2>
+    <gdp-usd>69.24 Billion</gdp-usd>
+  </country>
+  <country id="21" cc-ios-2="BE" m49-code="56" num-code="32">
+    <en-name>Belgium</en-name>
+    <name>Belgium</name>
+    <cc-ios-3>BEL</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Brussels</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>10,403,000</population>
+    <area-km2>30,510</area-km2>
+    <gdp-usd>507.4 Billion</gdp-usd>
+  </country>
+  <country id="22" cc-ios-2="BZ" m49-code="84" num-code="501">
+    <en-name>Belize</en-name>
+    <name>Belize</name>
+    <cc-ios-3>BLZ</cc-ios-3>
+    <cr-name>Belize Dollar</cr-name>
+    <cr-code>BZD</cr-code>
+    <cr-number>84</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>&#xA0;Central Bank of Belize</central-bank>
+    <capital-city>Belmopan</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>314,522</population>
+    <area-km2>22,966</area-km2>
+    <gdp-usd>1.637 Billion</gdp-usd>
+  </country>
+  <country id="23" cc-ios-2="BJ" m49-code="204" num-code="229">
+    <en-name>Benin</en-name>
+    <name>Benin</name>
+    <cc-ios-3>BEN</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Porto-Novo</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>9,056,010</population>
+    <area-km2>112,620</area-km2>
+    <gdp-usd>8.359 Billion</gdp-usd>
+  </country>
+  <country id="24" cc-ios-2="BM" m49-code="60" num-code="1-441">
+    <en-name>Bermuda</en-name>
+    <name>Bermuda</name>
+    <cc-ios-3>BMU</cc-ios-3>
+    <cr-name>Bermudian Dollar</cr-name>
+    <cr-code>BMD</cr-code>
+    <cr-number>60</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bermuda Monetary Authority</central-bank>
+    <capital-city>Hamilton</capital-city>
+    <region>Northern America</region>
+    <continent>North America</continent>
+    <population>65,365</population>
+    <area-km2>53</area-km2>
+    <gdp-usd>5.6 Billion</gdp-usd>
+  </country>
+  <country id="25" cc-ios-2="BT" m49-code="64" num-code="975">
+    <en-name>Bhutan</en-name>
+    <name>Bhutan</name>
+    <cc-ios-3>BTN</cc-ios-3>
+    <cr-name>Ngultrum</cr-name>
+    <cr-code>BTN</cr-code>
+    <cr-number>64</cr-number>
+    <cr-symbel>Nu.</cr-symbel>
+    <subunit>Chhetrum</subunit>
+    <central-bank>Royal Monetary Authority of Bhutan</central-bank>
+    <capital-city>Thimphu</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>699,847</population>
+    <area-km2>47,000</area-km2>
+    <gdp-usd>2.133 Billion</gdp-usd>
+  </country>
+  <country id="26" cc-ios-2="BO" m49-code="68" num-code="591">
+    <en-name>Bolivia</en-name>
+    <name>Bolivia (Plurinational State of)</name>
+    <cc-ios-3>BOL</cc-ios-3>
+    <cr-name>Boliviano</cr-name>
+    <cr-code>BOB</cr-code>
+    <cr-number>68</cr-number>
+    <cr-symbel>Bs.</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Bolivia</central-bank>
+    <capital-city>Sucre</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>9,947,418</population>
+    <area-km2>1,098,580</area-km2>
+    <gdp-usd>30.79 Billion</gdp-usd>
+  </country>
+  <country id="27" cc-ios-2="BQ" m49-code="535" num-code="599">
+    <en-name>Bonaire, Saint Eustatius and Saba</en-name>
+    <name>Bonaire, Sint Eustatius and Saba</name>
+    <cc-ios-3>BES</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>No City</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>25,987</population>
+    <area-km2>328</area-km2>
+    <gdp-usd>628.88 Million</gdp-usd>
+  </country>
+  <country id="28" cc-ios-2="BA" m49-code="70" num-code="387">
+    <en-name>Bosnia and Herzegovina</en-name>
+    <name>Bosnia and Herzegovina</name>
+    <cc-ios-3>BIH</cc-ios-3>
+    <cr-name>Convertible Mark</cr-name>
+    <cr-code>BAM</cr-code>
+    <cr-number>977</cr-number>
+    <cr-symbel>&#x41A;&#x41C;</cr-symbel>
+    <subunit>Pfenig</subunit>
+    <central-bank>Central Bank of Bosnia and Herzegovina</central-bank>
+    <capital-city>Sarajevo</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>4,590,000</population>
+    <area-km2>51,129</area-km2>
+    <gdp-usd>18.87 Billion</gdp-usd>
+  </country>
+  <country id="29" cc-ios-2="BW" m49-code="72" num-code="267">
+    <en-name>Botswana</en-name>
+    <name>Botswana</name>
+    <cc-ios-3>BWA</cc-ios-3>
+    <cr-name>Pula</cr-name>
+    <cr-code>BWP</cr-code>
+    <cr-number>72</cr-number>
+    <cr-symbel>P</cr-symbel>
+    <subunit>thebe</subunit>
+    <central-bank>Bank of Botswana</central-bank>
+    <capital-city>Gaborone</capital-city>
+    <region>Southern Africa</region>
+    <continent>Africa</continent>
+    <population>2,029,307</population>
+    <area-km2>600,370</area-km2>
+    <gdp-usd>15.53 Billion</gdp-usd>
+  </country>
+  <country id="30" cc-ios-2="BV" m49-code="74" num-code="55">
+    <en-name>Bouvet Island</en-name>
+    <name>Bouvet Island</name>
+    <cc-ios-3>BVT</cc-ios-3>
+    <cr-name>Norwegian Krone</cr-name>
+    <cr-code>NOK</cr-code>
+    <cr-number>578</cr-number>
+    <cr-symbel>Kr</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>none</central-bank>
+    <capital-city>Oslo</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>0</population>
+    <area-km2>49</area-km2>
+    <gdp-usd>0</gdp-usd>
+  </country>
+  <country id="31" cc-ios-2="BR" m49-code="76" num-code="55">
+    <en-name>Brazil</en-name>
+    <name>Brazil</name>
+    <cc-ios-3>BRA</cc-ios-3>
+    <cr-name>Brazilian Real</cr-name>
+    <cr-code>BRL</cr-code>
+    <cr-number>986</cr-number>
+    <cr-symbel>R$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Brazil</central-bank>
+    <capital-city>Brasilia</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>201,103,330</population>
+    <area-km2>8,511,965</area-km2>
+    <gdp-usd>2.19 Trillion</gdp-usd>
+  </country>
+  <country id="32" cc-ios-2="IO" m49-code="86" num-code="246">
+    <en-name>British Indian Ocean Territory</en-name>
+    <name>British Indian Ocean Territory (the)</name>
+    <cc-ios-3>IOT</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of British Indian Ocean Territory   </central-bank>
+    <capital-city>Diego Garcia</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>4,000</population>
+    <area-km2>60</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="244" cc-ios-2="VG" m49-code="92" num-code="1-284">
+    <en-name>British Virgin Islands</en-name>
+    <name>Virgin Islands (British)</name>
+    <cc-ios-3>VGB</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Road Town</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>21,730</population>
+    <area-km2>153</area-km2>
+    <gdp-usd>1.095 Billion</gdp-usd>
+  </country>
+  <country id="33" cc-ios-2="BN" m49-code="96" num-code="673">
+    <en-name>Brunei</en-name>
+    <name>Brunei Darussalam</name>
+    <cc-ios-3>BRN</cc-ios-3>
+    <cr-name>Brunei Dollar</cr-name>
+    <cr-code>BND</cr-code>
+    <cr-number>96</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Brunei Darussalam Central Bank</central-bank>
+    <capital-city>Bandar Seri Begawan</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>395,027</population>
+    <area-km2>5,770</area-km2>
+    <gdp-usd>16.56 Billion</gdp-usd>
+  </country>
+  <country id="34" cc-ios-2="BG" m49-code="100" num-code="359">
+    <en-name>Bulgaria</en-name>
+    <name>Bulgaria</name>
+    <cc-ios-3>BGR</cc-ios-3>
+    <cr-name>Bulgarian Lev</cr-name>
+    <cr-code>BGN</cr-code>
+    <cr-number>975</cr-number>
+    <cr-symbel>&#x43B;&#x432;</cr-symbel>
+    <subunit>stotinka</subunit>
+    <central-bank>Bulgarian National Bank</central-bank>
+    <capital-city>Sofia</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>7,148,785</population>
+    <area-km2>110,910</area-km2>
+    <gdp-usd>53.7 Billion</gdp-usd>
+  </country>
+  <country id="35" cc-ios-2="BF" m49-code="854" num-code="226">
+    <en-name>Burkina Faso</en-name>
+    <name>Burkina Faso</name>
+    <cc-ios-3>BFA</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>&#x20A3;</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Ouagadougou</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>16,241,811</population>
+    <area-km2>274,200</area-km2>
+    <gdp-usd>12.13 Billion</gdp-usd>
+  </country>
+  <country id="36" cc-ios-2="BI" m49-code="108" num-code="257">
+    <en-name>Burundi</en-name>
+    <name>Burundi</name>
+    <cc-ios-3>BDI</cc-ios-3>
+    <cr-name>Burundi Franc</cr-name>
+    <cr-code>BIF</cr-code>
+    <cr-number>108</cr-number>
+    <cr-symbel>Fbu</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of the Republic of Burundi</central-bank>
+    <capital-city>Bujumbura</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>9,863,117</population>
+    <area-km2>27,830</area-km2>
+    <gdp-usd>2.676 Billion</gdp-usd>
+  </country>
+  <country id="37" cc-ios-2="CV" m49-code="132" num-code="238">
+    <en-name>Cabo Verde</en-name>
+    <name>Cabo Verde</name>
+    <cc-ios-3>CPV</cc-ios-3>
+    <cr-name>Cabo Verde Escudo</cr-name>
+    <cr-code>CVE</cr-code>
+    <cr-number>132</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Cape Verde</central-bank>
+    <capital-city>Praia</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>508,659</population>
+    <area-km2>4,033</area-km2>
+    <gdp-usd>1.955 Billion</gdp-usd>
+  </country>
+  <country id="38" cc-ios-2="KH" m49-code="116" num-code="855">
+    <en-name>Cambodia</en-name>
+    <name>Cambodia</name>
+    <cc-ios-3>KHM</cc-ios-3>
+    <cr-name>Riel</cr-name>
+    <cr-code>KHR</cr-code>
+    <cr-number>116</cr-number>
+    <cr-symbel>&#x17DB;</cr-symbel>
+    <subunit>Sen</subunit>
+    <central-bank>National Bank of Cambodia</central-bank>
+    <capital-city>Phnom Penh</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>14,453,680</population>
+    <area-km2>181,040</area-km2>
+    <gdp-usd>15.64 Billion</gdp-usd>
+  </country>
+  <country id="39" cc-ios-2="CM" m49-code="120" num-code="237">
+    <en-name>Cameroon</en-name>
+    <name>Cameroon</name>
+    <cc-ios-3>CMR</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FCFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of Central African States</central-bank>
+    <capital-city>Yaounde</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>19,294,149</population>
+    <area-km2>475,440</area-km2>
+    <gdp-usd>27.88 Billion</gdp-usd>
+  </country>
+  <country id="40" cc-ios-2="CA" m49-code="124" num-code="1">
+    <en-name>Canada</en-name>
+    <name>Canada</name>
+    <cc-ios-3>CAN</cc-ios-3>
+    <cr-name>Canadian Dollar</cr-name>
+    <cr-code>CAD</cr-code>
+    <cr-number>124</cr-number>
+    <cr-symbel>C$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Canada - Banque du Canada</central-bank>
+    <capital-city>Ottawa</capital-city>
+    <region>Northern America</region>
+    <continent>North America</continent>
+    <population>33,679,000</population>
+    <area-km2>9,984,670</area-km2>
+    <gdp-usd>1.825 Trillion</gdp-usd>
+  </country>
+  <country id="41" cc-ios-2="KY" m49-code="136" num-code="1-345">
+    <en-name>Cayman Islands</en-name>
+    <name>Cayman Islands (the)</name>
+    <cc-ios-3>CYM</cc-ios-3>
+    <cr-name>Cayman Islands Dollar</cr-name>
+    <cr-code>KYD</cr-code>
+    <cr-number>136</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Cayman Islands Monetary Authority</central-bank>
+    <capital-city>George Town</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>44,270</population>
+    <area-km2>262</area-km2>
+    <gdp-usd>2.25 Billion</gdp-usd>
+  </country>
+  <country id="42" cc-ios-2="CF" m49-code="140" num-code="236">
+    <en-name>Central African Republic</en-name>
+    <name>Central African Republic (the)</name>
+    <cc-ios-3>CAF</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FCFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of Central African States</central-bank>
+    <capital-city>Bangui</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>4,844,927</population>
+    <area-km2>622,984</area-km2>
+    <gdp-usd>2.05 Billion</gdp-usd>
+  </country>
+  <country id="43" cc-ios-2="TD" m49-code="148" num-code="235">
+    <en-name>Chad</en-name>
+    <name>Chad</name>
+    <cc-ios-3>TCD</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FCFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of Central African States</central-bank>
+    <capital-city>N'Djamena</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>10,543,464</population>
+    <area-km2>1,284,000</area-km2>
+    <gdp-usd>13.59 Billion</gdp-usd>
+  </country>
+  <country id="44" cc-ios-2="CL" m49-code="152" num-code="56">
+    <en-name>Chile</en-name>
+    <name>Chile</name>
+    <cc-ios-3>CHL</cc-ios-3>
+    <cr-name>Unidad de Fomento</cr-name>
+    <cr-code>CLF</cr-code>
+    <cr-number>990</cr-number>
+    <cr-symbel>UF</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Banco Central de Chile</central-bank>
+    <capital-city>Santiago</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>16,746,491</population>
+    <area-km2>756,950</area-km2>
+    <gdp-usd>281.7 Billion</gdp-usd>
+  </country>
+  <country id="45" cc-ios-2="CN" m49-code="156" num-code="86">
+    <en-name>China</en-name>
+    <name>China</name>
+    <cc-ios-3>CHN</cc-ios-3>
+    <cr-name>Yuan Renminbi</cr-name>
+    <cr-code>CNY</cr-code>
+    <cr-number>156</cr-number>
+    <cr-symbel>&#xA5;</cr-symbel>
+    <subunit>Fen</subunit>
+    <central-bank>People's Bank of China</central-bank>
+    <capital-city>Beijing</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>1,330,044,000</population>
+    <area-km2>9,596,960</area-km2>
+    <gdp-usd>9.33 Trillion</gdp-usd>
+  </country>
+  <country id="46" cc-ios-2="CX" m49-code="162" num-code="61">
+    <en-name>Christmas Island</en-name>
+    <name>Christmas Island</name>
+    <cc-ios-3>CXR</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Flying Fish Cove</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>1,500</population>
+    <area-km2>135</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="47" cc-ios-2="CC" m49-code="166" num-code="61">
+    <en-name>Cocos Islands</en-name>
+    <name>Cocos (Keeling) Islands (the)</name>
+    <cc-ios-3>CCK</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel/>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>West Island</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>628</population>
+    <area-km2>14</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="48" cc-ios-2="CO" m49-code="170" num-code="57">
+    <en-name>Colombia</en-name>
+    <name>Colombia</name>
+    <cc-ios-3>COL</cc-ios-3>
+    <cr-name>Colombian Peso</cr-name>
+    <cr-code>COP</cr-code>
+    <cr-number>170</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Colombia</central-bank>
+    <capital-city>Bogota</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>47,790,000</population>
+    <area-km2>1,138,910</area-km2>
+    <gdp-usd>369.2 Billion</gdp-usd>
+  </country>
+  <country id="49" cc-ios-2="KM" m49-code="174" num-code="269">
+    <en-name>Comoros</en-name>
+    <name>Comoros (the)</name>
+    <cc-ios-3>COM</cc-ios-3>
+    <cr-name>Comoro Franc</cr-name>
+    <cr-code>KMF</cr-code>
+    <cr-number>174</cr-number>
+    <cr-symbel>CF</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of the Comoros</central-bank>
+    <capital-city>Moroni</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>773,407</population>
+    <area-km2>2,170</area-km2>
+    <gdp-usd>658 Million</gdp-usd>
+  </country>
+  <country id="52" cc-ios-2="CK" m49-code="184" num-code="682">
+    <en-name>Cook Islands</en-name>
+    <name>Cook Islands (the)</name>
+    <cc-ios-3>COK</cc-ios-3>
+    <cr-name>New Zealand Dollar</cr-name>
+    <cr-code>NZD</cr-code>
+    <cr-number>554</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Cook islands</central-bank>
+    <capital-city>Avarua</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>21,388</population>
+    <area-km2>240</area-km2>
+    <gdp-usd>183.2 Million</gdp-usd>
+  </country>
+  <country id="53" cc-ios-2="CR" m49-code="188" num-code="506">
+    <en-name>Costa Rica</en-name>
+    <name>Costa Rica</name>
+    <cc-ios-3>CRI</cc-ios-3>
+    <cr-name>Costa Rican Colon</cr-name>
+    <cr-code>CRC</cr-code>
+    <cr-number>188</cr-number>
+    <cr-symbel>&#x20A1;</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>Central Bank of Costa Rica</central-bank>
+    <capital-city>San Jose</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>4,516,220</population>
+    <area-km2>51,100</area-km2>
+    <gdp-usd>48.51 Billion</gdp-usd>
+  </country>
+  <country id="54" cc-ios-2="HR" m49-code="191" num-code="385">
+    <en-name>Croatia</en-name>
+    <name>Croatia</name>
+    <cc-ios-3>HRV</cc-ios-3>
+    <cr-name>Kuna</cr-name>
+    <cr-code>HRK</cr-code>
+    <cr-number>191</cr-number>
+    <cr-symbel>Kn</cr-symbel>
+    <subunit>Lipa</subunit>
+    <central-bank>Croatian National Bank</central-bank>
+    <capital-city>Zagreb</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>4,491,000</population>
+    <area-km2>56,542</area-km2>
+    <gdp-usd>59.14 Billion</gdp-usd>
+  </country>
+  <country id="55" cc-ios-2="CU" m49-code="192" num-code="53">
+    <en-name>Cuba</en-name>
+    <name>Cuba</name>
+    <cc-ios-3>CUB</cc-ios-3>
+    <cr-name>Peso Convertible</cr-name>
+    <cr-code>CUC</cr-code>
+    <cr-number>931</cr-number>
+    <cr-symbel>$MN</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Cuba</central-bank>
+    <capital-city>Havana</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>11,423,000</population>
+    <area-km2>110,860</area-km2>
+    <gdp-usd>72.3 Billion</gdp-usd>
+  </country>
+  <country id="56" cc-ios-2="CW" m49-code="531" num-code="599">
+    <en-name>Curacao</en-name>
+    <name>Cura&#xE7;ao</name>
+    <cc-ios-3>CUW</cc-ios-3>
+    <cr-name>Netherlands Antillean Guilder</cr-name>
+    <cr-code>ANG</cr-code>
+    <cr-number>532</cr-number>
+    <cr-symbel>NA&#x192;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Cura&#xE7;ao and Sint Maarten</central-bank>
+    <capital-city>Willemstad</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>141,766</population>
+    <area-km2>444</area-km2>
+    <gdp-usd>5.6 Billion</gdp-usd>
+  </country>
+  <country id="57" cc-ios-2="CY" m49-code="196" num-code="357">
+    <en-name>Cyprus</en-name>
+    <name>Cyprus</name>
+    <cc-ios-3>CYP</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Nicosia</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>1,102,677</population>
+    <area-km2>9,250</area-km2>
+    <gdp-usd>21.78 Billion</gdp-usd>
+  </country>
+  <country id="58" cc-ios-2="CZ" m49-code="203" num-code="420">
+    <en-name>Czechia</en-name>
+    <name>Czechia</name>
+    <cc-ios-3>CZE</cc-ios-3>
+    <cr-name>Czech Koruna</cr-name>
+    <cr-code>CZK</cr-code>
+    <cr-number>203</cr-number>
+    <cr-symbel>K&#x10D;</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Czech National Bank</central-bank>
+    <capital-city>Prague</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>10,476,000</population>
+    <area-km2>78,866</area-km2>
+    <gdp-usd>194.8 Billion</gdp-usd>
+  </country>
+  <country id="50" cc-ios-2="CD" m49-code="180" num-code="243">
+    <en-name>Democratic Republic of the Congo</en-name>
+    <name>Congo (the Democratic Republic of the)</name>
+    <cc-ios-3>COD</cc-ios-3>
+    <cr-name>Congolese Franc</cr-name>
+    <cr-code>CDF</cr-code>
+    <cr-number>976</cr-number>
+    <cr-symbel>FC</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of the Congo</central-bank>
+    <capital-city>Kinshasa</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>70,916,439</population>
+    <area-km2>2,345,410</area-km2>
+    <gdp-usd>18.56 Billion</gdp-usd>
+  </country>
+  <country id="60" cc-ios-2="DK" m49-code="208" num-code="45">
+    <en-name>Denmark</en-name>
+    <name>Denmark</name>
+    <cc-ios-3>DNK</cc-ios-3>
+    <cr-name>Danish Krone</cr-name>
+    <cr-code>DKK</cr-code>
+    <cr-number>208</cr-number>
+    <cr-symbel>kr</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Danmarks Nationalbank</central-bank>
+    <capital-city>Copenhagen</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>5,484,000</population>
+    <area-km2>43,094</area-km2>
+    <gdp-usd>324.3 Billion</gdp-usd>
+  </country>
+  <country id="61" cc-ios-2="DJ" m49-code="262" num-code="253">
+    <en-name>Djibouti</en-name>
+    <name>Djibouti</name>
+    <cc-ios-3>DJI</cc-ios-3>
+    <cr-name>Djibouti Franc</cr-name>
+    <cr-code>DJF</cr-code>
+    <cr-number>262</cr-number>
+    <cr-symbel>Fdj</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of Djibouti</central-bank>
+    <capital-city>Djibouti</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>740,528</population>
+    <area-km2>23,000</area-km2>
+    <gdp-usd>1.459 Billion</gdp-usd>
+  </country>
+  <country id="62" cc-ios-2="DM" m49-code="212" num-code="1-767">
+    <en-name>Dominica</en-name>
+    <name>Dominica</name>
+    <cc-ios-3>DMA</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>Roseau</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>72,813</population>
+    <area-km2>754</area-km2>
+    <gdp-usd>495 Million</gdp-usd>
+  </country>
+  <country id="63" cc-ios-2="DO" m49-code="214" num-code="1-809, 1-829, 1-849">
+    <en-name>Dominican Republic</en-name>
+    <name>Dominican Republic (the)</name>
+    <cc-ios-3>DOM</cc-ios-3>
+    <cr-name>Dominican Peso</cr-name>
+    <cr-code>DOP</cr-code>
+    <cr-number>214</cr-number>
+    <cr-symbel>RD$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of the Dominican Republic</central-bank>
+    <capital-city>Santo Domingo</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>9,823,821</population>
+    <area-km2>48,730</area-km2>
+    <gdp-usd>59.27 Billion</gdp-usd>
+  </country>
+  <country id="64" cc-ios-2="EC" m49-code="218" num-code="593">
+    <en-name>Ecuador</en-name>
+    <name>Ecuador</name>
+    <cc-ios-3>ECU</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Quito</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>14,790,608</population>
+    <area-km2>283,560</area-km2>
+    <gdp-usd>91.41 Billion</gdp-usd>
+  </country>
+  <country id="65" cc-ios-2="EG" m49-code="818" num-code="20">
+    <en-name>Egypt</en-name>
+    <name>Egypt</name>
+    <cc-ios-3>EGY</cc-ios-3>
+    <cr-name>Egyptian Pound</cr-name>
+    <cr-code>EGP</cr-code>
+    <cr-number>818</cr-number>
+    <cr-symbel>E&#xA3;</cr-symbel>
+    <subunit>Piastre</subunit>
+    <central-bank>Central Bank of Egypt</central-bank>
+    <capital-city>Cairo</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>80,471,869</population>
+    <area-km2>1,001,450</area-km2>
+    <gdp-usd>262 Billion</gdp-usd>
+  </country>
+  <country id="66" cc-ios-2="SV" m49-code="222" num-code="503">
+    <en-name>El Salvador</en-name>
+    <name>El Salvador</name>
+    <cc-ios-3>SLV</cc-ios-3>
+    <cr-name>El Salvador Colon</cr-name>
+    <cr-code>SVC</cr-code>
+    <cr-number>222</cr-number>
+    <cr-symbel>SVC</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Reserve Bank of El Salvador</central-bank>
+    <capital-city>San Salvador</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>6,052,064</population>
+    <area-km2>21,040</area-km2>
+    <gdp-usd>24.67 Billion</gdp-usd>
+  </country>
+  <country id="67" cc-ios-2="GQ" m49-code="226" num-code="240">
+    <en-name>Equatorial Guinea</en-name>
+    <name>Equatorial Guinea</name>
+    <cc-ios-3>GNQ</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FCFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of Central African States</central-bank>
+    <capital-city>Malabo</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>1,014,999</population>
+    <area-km2>28,051</area-km2>
+    <gdp-usd>17.08 Billion</gdp-usd>
+  </country>
+  <country id="68" cc-ios-2="ER" m49-code="232" num-code="291">
+    <en-name>Eritrea</en-name>
+    <name>Eritrea</name>
+    <cc-ios-3>ERI</cc-ios-3>
+    <cr-name>Nakfa</cr-name>
+    <cr-code>ERN</cr-code>
+    <cr-number>232</cr-number>
+    <cr-symbel>Nfk</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Eritrea</central-bank>
+    <capital-city>Asmara</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>5,792,984</population>
+    <area-km2>121,320</area-km2>
+    <gdp-usd>3.438 Billion</gdp-usd>
+  </country>
+  <country id="69" cc-ios-2="EE" m49-code="233" num-code="372">
+    <en-name>Estonia</en-name>
+    <name>Estonia</name>
+    <cc-ios-3>EST</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Tallinn</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>1,291,170</population>
+    <area-km2>45,226</area-km2>
+    <gdp-usd>24.28 Billion</gdp-usd>
+  </country>
+  <country id="70" cc-ios-2="SZ" m49-code="748" num-code="268">
+    <en-name>Eswatini</en-name>
+    <name>Eswatini</name>
+    <cc-ios-3>SWZ</cc-ios-3>
+    <cr-name>Swazi lilangeni</cr-name>
+    <cr-code>SZL</cr-code>
+    <cr-number>230</cr-number>
+    <cr-symbel>E</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Swaziland</central-bank>
+    <capital-city>Mbabane</capital-city>
+    <region>Southern Africa</region>
+    <continent>Africa</continent>
+    <population>1,354,051</population>
+    <area-km2>17,363</area-km2>
+    <gdp-usd>3.807 Billion</gdp-usd>
+  </country>
+  <country id="71" cc-ios-2="ET" m49-code="231" num-code="251">
+    <en-name>Ethiopia</en-name>
+    <name>Ethiopia</name>
+    <cc-ios-3>ETH</cc-ios-3>
+    <cr-name>Ethiopian Birr</cr-name>
+    <cr-code>ETB</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>Br</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>National Bank of Ethiopia</central-bank>
+    <capital-city>Addis Ababa</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>88,013,491</population>
+    <area-km2>1,127,127</area-km2>
+    <gdp-usd>47.34 Billion</gdp-usd>
+  </country>
+  <country id="72" cc-ios-2="FK" m49-code="238" num-code="500">
+    <en-name>Falkland Islands</en-name>
+    <name>Falkland Islands (the) [Malvinas]</name>
+    <cc-ios-3>FLK</cc-ios-3>
+    <cr-name>Falkland Islands Pound</cr-name>
+    <cr-code>FKP</cr-code>
+    <cr-number>238</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Falkland Islands (Malvinas) - Bank for International Settlements</central-bank>
+    <capital-city>Stanley</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>2,638</population>
+    <area-km2>12,173</area-km2>
+    <gdp-usd>164.5 Million</gdp-usd>
+  </country>
+  <country id="73" cc-ios-2="FO" m49-code="234" num-code="298">
+    <en-name>Faroe Islands</en-name>
+    <name>Faroe Islands (the)</name>
+    <cc-ios-3>FRO</cc-ios-3>
+    <cr-name>Danish Krone</cr-name>
+    <cr-code>DKK</cr-code>
+    <cr-number>208</cr-number>
+    <cr-symbel>Kr.</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Danmarks Nationalbank</central-bank>
+    <capital-city>Torshavn</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>48,228</population>
+    <area-km2>1,399</area-km2>
+    <gdp-usd>2.32 Billion</gdp-usd>
+  </country>
+  <country id="74" cc-ios-2="FJ" m49-code="242" num-code="679">
+    <en-name>Fiji</en-name>
+    <name>Fiji</name>
+    <cc-ios-3>FJI</cc-ios-3>
+    <cr-name>Fiji Dollar</cr-name>
+    <cr-code>FJD</cr-code>
+    <cr-number>242</cr-number>
+    <cr-symbel>FJ$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Fiji</central-bank>
+    <capital-city>Suva</capital-city>
+    <region>Melanesia</region>
+    <continent>Oceania</continent>
+    <population>875,983</population>
+    <area-km2>18,270</area-km2>
+    <gdp-usd>4.218 Billion</gdp-usd>
+  </country>
+  <country id="75" cc-ios-2="FI" m49-code="246" num-code="358">
+    <en-name>Finland</en-name>
+    <name>Finland</name>
+    <cc-ios-3>FIN</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Helsinki</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>5,244,000</population>
+    <area-km2>337,030</area-km2>
+    <gdp-usd>259.6 Billion</gdp-usd>
+  </country>
+  <country id="76" cc-ios-2="FR" m49-code="250" num-code="33">
+    <en-name>France</en-name>
+    <name>France</name>
+    <cc-ios-3>FRA</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Paris</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>64,768,389</population>
+    <area-km2>547,030</area-km2>
+    <gdp-usd>2.739 Trillion</gdp-usd>
+  </country>
+  <country id="77" cc-ios-2="GF" m49-code="254" num-code="594">
+    <en-name>French Guiana</en-name>
+    <name>French Guiana</name>
+    <cc-ios-3>GUF</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Cayenne</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>294,071</population>
+    <area-km2>83,846</area-km2>
+    <gdp-usd>4.93 Billion</gdp-usd>
+  </country>
+  <country id="78" cc-ios-2="PF" m49-code="258" num-code="689">
+    <en-name>French Polynesia</en-name>
+    <name>French Polynesia</name>
+    <cc-ios-3>PYF</cc-ios-3>
+    <cr-name>CFP Franc</cr-name>
+    <cr-code>XPF</cr-code>
+    <cr-number>953</cr-number>
+    <cr-symbel>&#x20A3;</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Institut d'&#xE9;mission d'outre-mer</central-bank>
+    <capital-city>Papeete</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>270,485</population>
+    <area-km2>4,167</area-km2>
+    <gdp-usd>5.65 Billion</gdp-usd>
+  </country>
+  <country id="79" cc-ios-2="TF" m49-code="260" num-code="262">
+    <en-name>French Southern Territories</en-name>
+    <name>French Southern Territories (the)</name>
+    <cc-ios-3>ATF</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Port-aux-Francais</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>310</population>
+    <area-km2>439,781</area-km2>
+    <gdp-usd>11.385 Million</gdp-usd>
+  </country>
+  <country id="80" cc-ios-2="GA" m49-code="266" num-code="241">
+    <en-name>Gabon</en-name>
+    <name>Gabon</name>
+    <cc-ios-3>GAB</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FCFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of Central African States</central-bank>
+    <capital-city>Libreville</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>1,545,255</population>
+    <area-km2>267,667</area-km2>
+    <gdp-usd>19.97 Billion</gdp-usd>
+  </country>
+  <country id="81" cc-ios-2="GM" m49-code="270" num-code="220">
+    <en-name>Gambia</en-name>
+    <name>Gambia (the)</name>
+    <cc-ios-3>GMB</cc-ios-3>
+    <cr-name>Dalasi</cr-name>
+    <cr-code>GMD</cr-code>
+    <cr-number>270</cr-number>
+    <cr-symbel>D</cr-symbel>
+    <subunit>Bututs</subunit>
+    <central-bank>Central Bank of The Gambia</central-bank>
+    <capital-city>Banjul</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>1,593,256</population>
+    <area-km2>11,300</area-km2>
+    <gdp-usd>896 Million</gdp-usd>
+  </country>
+  <country id="82" cc-ios-2="GE" m49-code="268" num-code="995">
+    <en-name>Georgia</en-name>
+    <name>Georgia</name>
+    <cc-ios-3>GEO</cc-ios-3>
+    <cr-name>Lari</cr-name>
+    <cr-code>GEL</cr-code>
+    <cr-number>981</cr-number>
+    <cr-symbel>&#x10DA;</cr-symbel>
+    <subunit>Tetri</subunit>
+    <central-bank>National Bank of Georgia</central-bank>
+    <capital-city>Tbilisi</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>4,630,000</population>
+    <area-km2>69,700</area-km2>
+    <gdp-usd>15.95 Billion</gdp-usd>
+  </country>
+  <country id="83" cc-ios-2="DE" m49-code="276" num-code="49">
+    <en-name>Germany</en-name>
+    <name>Germany</name>
+    <cc-ios-3>DEU</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Berlin</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>81,802,257</population>
+    <area-km2>357,021</area-km2>
+    <gdp-usd>3.593 Trillion</gdp-usd>
+  </country>
+  <country id="84" cc-ios-2="GH" m49-code="288" num-code="233">
+    <en-name>Ghana</en-name>
+    <name>Ghana</name>
+    <cc-ios-3>GHA</cc-ios-3>
+    <cr-name>Ghana Cedi</cr-name>
+    <cr-code>GHS</cr-code>
+    <cr-number>936</cr-number>
+    <cr-symbel>&#x20B5;</cr-symbel>
+    <subunit>Gp</subunit>
+    <central-bank>Bank of Ghana</central-bank>
+    <capital-city>Accra</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>24,339,838</population>
+    <area-km2>239,460</area-km2>
+    <gdp-usd>45.55 Billion</gdp-usd>
+  </country>
+  <country id="85" cc-ios-2="GI" m49-code="292" num-code="350">
+    <en-name>Gibraltar</en-name>
+    <name>Gibraltar</name>
+    <cc-ios-3>GIB</cc-ios-3>
+    <cr-name>Gibraltar Pound</cr-name>
+    <cr-code>GIP</cr-code>
+    <cr-number>292</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>The Gibraltar International Bank (GIB)</central-bank>
+    <capital-city>Gibraltar</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>27,884</population>
+    <area-km2>7</area-km2>
+    <gdp-usd>1.106 Billion</gdp-usd>
+  </country>
+  <country id="86" cc-ios-2="GR" m49-code="300" num-code="30">
+    <en-name>Greece</en-name>
+    <name>Greece</name>
+    <cc-ios-3>GRC</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Athens</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>11,000,000</population>
+    <area-km2>131,940</area-km2>
+    <gdp-usd>243.3 Billion</gdp-usd>
+  </country>
+  <country id="87" cc-ios-2="GL" m49-code="304" num-code="299">
+    <en-name>Greenland</en-name>
+    <name>Greenland</name>
+    <cc-ios-3>GRL</cc-ios-3>
+    <cr-name>Danish Krone</cr-name>
+    <cr-code>DKK</cr-code>
+    <cr-number>208</cr-number>
+    <cr-symbel>Kr.</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Danmarks Nationalbank</central-bank>
+    <capital-city>Nuuk</capital-city>
+    <region>Northern America</region>
+    <continent>North America</continent>
+    <population>56,375</population>
+    <area-km2>2,166,086</area-km2>
+    <gdp-usd>2.16 Billion</gdp-usd>
+  </country>
+  <country id="88" cc-ios-2="GD" m49-code="308" num-code="1-473">
+    <en-name>Grenada</en-name>
+    <name>Grenada</name>
+    <cc-ios-3>GRD</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>St. George's</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>107,818</population>
+    <area-km2>344</area-km2>
+    <gdp-usd>811 Million</gdp-usd>
+  </country>
+  <country id="89" cc-ios-2="GP" m49-code="312" num-code="590">
+    <en-name>Guadeloupe</en-name>
+    <name>Guadeloupe</name>
+    <cc-ios-3>GLP</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Basse-Terre</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>395,700</population>
+    <area-km2>1,628</area-km2>
+    <gdp-usd>8214.8 Million</gdp-usd>
+  </country>
+  <country id="90" cc-ios-2="GU" m49-code="316" num-code="1-671">
+    <en-name>Guam</en-name>
+    <name>Guam</name>
+    <cc-ios-3>GUM</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Hagatna</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>159,358</population>
+    <area-km2>549</area-km2>
+    <gdp-usd>4.6 Billion</gdp-usd>
+  </country>
+  <country id="91" cc-ios-2="GT" m49-code="320" num-code="502">
+    <en-name>Guatemala</en-name>
+    <name>Guatemala</name>
+    <cc-ios-3>GTM</cc-ios-3>
+    <cr-name>Quetzal</cr-name>
+    <cr-code>GTQ</cr-code>
+    <cr-number>320</cr-number>
+    <cr-symbel>Q</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Bank of Guatemala</central-bank>
+    <capital-city>Guatemala City</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>13,550,440</population>
+    <area-km2>108,890</area-km2>
+    <gdp-usd>53.9 Billion</gdp-usd>
+  </country>
+  <country id="92" cc-ios-2="GG" m49-code="831" num-code="44-1481">
+    <en-name>Guernsey</en-name>
+    <name>Guernsey</name>
+    <cc-ios-3>GGY</cc-ios-3>
+    <cr-name>Pound Sterling</cr-name>
+    <cr-code>GBP</cr-code>
+    <cr-number>826</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Bank of England</central-bank>
+    <capital-city>St Peter Port</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>65,228</population>
+    <area-km2>78</area-km2>
+    <gdp-usd>2.742 Billion</gdp-usd>
+  </country>
+  <country id="93" cc-ios-2="GN" m49-code="324" num-code="224">
+    <en-name>Guinea</en-name>
+    <name>Guinea</name>
+    <cc-ios-3>GIN</cc-ios-3>
+    <cr-name>Guinea Franc</cr-name>
+    <cr-code>GNF</cr-code>
+    <cr-number>324</cr-number>
+    <cr-symbel>GFr</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of the Republic of Guinea</central-bank>
+    <capital-city>Conakry</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>10,324,025</population>
+    <area-km2>245,857</area-km2>
+    <gdp-usd>6.544 Billion</gdp-usd>
+  </country>
+  <country id="94" cc-ios-2="GW" m49-code="624" num-code="245">
+    <en-name>Guinea-Bissau</en-name>
+    <name>Guinea-Bissau</name>
+    <cc-ios-3>GNB</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CAF</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Bissau</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>1,565,126</population>
+    <area-km2>36,120</area-km2>
+    <gdp-usd>880 Million</gdp-usd>
+  </country>
+  <country id="95" cc-ios-2="GY" m49-code="328" num-code="592">
+    <en-name>Guyana</en-name>
+    <name>Guyana</name>
+    <cc-ios-3>GUY</cc-ios-3>
+    <cr-name>Guyana Dollar</cr-name>
+    <cr-code>GYD</cr-code>
+    <cr-number>328</cr-number>
+    <cr-symbel>G$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Guyana</central-bank>
+    <capital-city>Georgetown</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>748,486</population>
+    <area-km2>214,970</area-km2>
+    <gdp-usd>3.02 Billion</gdp-usd>
+  </country>
+  <country id="96" cc-ios-2="HT" m49-code="332" num-code="509">
+    <en-name>Haiti</en-name>
+    <name>Haiti</name>
+    <cc-ios-3>HTI</cc-ios-3>
+    <cr-name>Gourde</cr-name>
+    <cr-code>HTG</cr-code>
+    <cr-number>332</cr-number>
+    <cr-symbel>G</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Bank of the Republic of Haiti</central-bank>
+    <capital-city>Port-au-Prince</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>9,648,924</population>
+    <area-km2>27,750</area-km2>
+    <gdp-usd>8.287 Billion</gdp-usd>
+  </country>
+  <country id="97" cc-ios-2="HM" m49-code="334" num-code="672">
+    <en-name>Heard Island and McDonald Islands</en-name>
+    <name>Heard Island and McDonald Islands</name>
+    <cc-ios-3>HMD</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>No City</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>0</population>
+    <area-km2>368</area-km2>
+    <gdp-usd>0</gdp-usd>
+  </country>
+  <country id="99" cc-ios-2="HN" m49-code="340" num-code="504">
+    <en-name>Honduras</en-name>
+    <name>Honduras</name>
+    <cc-ios-3>HND</cc-ios-3>
+    <cr-name>Lempira</cr-name>
+    <cr-code>HNL</cr-code>
+    <cr-number>340</cr-number>
+    <cr-symbel>L</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Honduras</central-bank>
+    <capital-city>Tegucigalpa</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>7,989,415</population>
+    <area-km2>112,090</area-km2>
+    <gdp-usd>18.88 Billion</gdp-usd>
+  </country>
+  <country id="100" cc-ios-2="HK" m49-code="344" num-code="852">
+    <en-name>Hong Kong</en-name>
+    <name>Hong Kong</name>
+    <cc-ios-3>HKG</cc-ios-3>
+    <cr-name>Hong Kong Dollar</cr-name>
+    <cr-code>HKD</cr-code>
+    <cr-number>344</cr-number>
+    <cr-symbel>HK$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Hong Kong Monetary Authority</central-bank>
+    <capital-city>Hong Kong</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>6,898,686</population>
+    <area-km2>1,092</area-km2>
+    <gdp-usd>272.1 Billion</gdp-usd>
+  </country>
+  <country id="101" cc-ios-2="HU" m49-code="348" num-code="36">
+    <en-name>Hungary</en-name>
+    <name>Hungary</name>
+    <cc-ios-3>HUN</cc-ios-3>
+    <cr-name>Forint</cr-name>
+    <cr-code>HUF</cr-code>
+    <cr-number>348</cr-number>
+    <cr-symbel>Ft</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Nemzeti Bank</central-bank>
+    <capital-city>Budapest</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>9,982,000</population>
+    <area-km2>93,030</area-km2>
+    <gdp-usd>130.6 Billion</gdp-usd>
+  </country>
+  <country id="102" cc-ios-2="IS" m49-code="352" num-code="354">
+    <en-name>Iceland</en-name>
+    <name>Iceland</name>
+    <cc-ios-3>ISL</cc-ios-3>
+    <cr-name>Iceland Krona</cr-name>
+    <cr-code>ISK</cr-code>
+    <cr-number>352</cr-number>
+    <cr-symbel>Kr</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of Iceland</central-bank>
+    <capital-city>Reykjavik</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>308,910</population>
+    <area-km2>103,000</area-km2>
+    <gdp-usd>14.59 Billion</gdp-usd>
+  </country>
+  <country id="103" cc-ios-2="IN" m49-code="356" num-code="91">
+    <en-name>India</en-name>
+    <name>India</name>
+    <cc-ios-3>IND</cc-ios-3>
+    <cr-name>Indian Rupee</cr-name>
+    <cr-code>INR</cr-code>
+    <cr-number>356</cr-number>
+    <cr-symbel>&#x20B9;</cr-symbel>
+    <subunit>Paisa</subunit>
+    <central-bank>Reserve Bank of India</central-bank>
+    <capital-city>New Delhi</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>1,173,108,018</population>
+    <area-km2>3,287,590</area-km2>
+    <gdp-usd>1.67 Trillion</gdp-usd>
+  </country>
+  <country id="104" cc-ios-2="ID" m49-code="360" num-code="62">
+    <en-name>Indonesia</en-name>
+    <name>Indonesia</name>
+    <cc-ios-3>IDN</cc-ios-3>
+    <cr-name>Rupiah</cr-name>
+    <cr-code>IDR</cr-code>
+    <cr-number>360</cr-number>
+    <cr-symbel>Rp</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Bank Indonesia</central-bank>
+    <capital-city>Jakarta</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>242,968,342</population>
+    <area-km2>1,919,440</area-km2>
+    <gdp-usd>867.5 Billion</gdp-usd>
+  </country>
+  <country id="105" cc-ios-2="IR" m49-code="364" num-code="98">
+    <en-name>Iran</en-name>
+    <name>Iran (Islamic Republic of)</name>
+    <cc-ios-3>IRN</cc-ios-3>
+    <cr-name>Iranian Rial</cr-name>
+    <cr-code>IRR</cr-code>
+    <cr-number>364</cr-number>
+    <cr-symbel>&#xFDFC;</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of the Islamic Republic of Iran</central-bank>
+    <capital-city>Tehran</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>76,923,300</population>
+    <area-km2>1,648,000</area-km2>
+    <gdp-usd>411.9 Billion</gdp-usd>
+  </country>
+  <country id="106" cc-ios-2="IQ" m49-code="368" num-code="964">
+    <en-name>Iraq</en-name>
+    <name>Iraq</name>
+    <cc-ios-3>IRQ</cc-ios-3>
+    <cr-name>Iraqi Dinar</cr-name>
+    <cr-code>IQD</cr-code>
+    <cr-number>368</cr-number>
+    <cr-symbel>&#x639;.&#x62F;</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of Iraq</central-bank>
+    <capital-city>Baghdad</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>29,671,605</population>
+    <area-km2>437,072</area-km2>
+    <gdp-usd>221.8 Billion</gdp-usd>
+  </country>
+  <country id="107" cc-ios-2="IE" m49-code="372" num-code="353">
+    <en-name>Ireland</en-name>
+    <name>Ireland</name>
+    <cc-ios-3>IRL</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Dublin</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>4,622,917</population>
+    <area-km2>70,280</area-km2>
+    <gdp-usd>220.9 Billion</gdp-usd>
+  </country>
+  <country id="108" cc-ios-2="IM" m49-code="833" num-code="44-1624">
+    <en-name>Isle of Man</en-name>
+    <name>Isle of Man</name>
+    <cc-ios-3>IMN</cc-ios-3>
+    <cr-name>Pound Sterling</cr-name>
+    <cr-code>GBP</cr-code>
+    <cr-number>826</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Bank of England</central-bank>
+    <capital-city>Douglas</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>75,049</population>
+    <area-km2>572</area-km2>
+    <gdp-usd>4.076 Billion</gdp-usd>
+  </country>
+  <country id="109" cc-ios-2="IT" m49-code="380" num-code="39">
+    <en-name>Italy</en-name>
+    <name>Italy</name>
+    <cc-ios-3>ITA</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Rome</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>60,340,328</population>
+    <area-km2>301,230</area-km2>
+    <gdp-usd>2.068 Trillion</gdp-usd>
+  </country>
+  <country id="59" cc-ios-2="CI" m49-code="384" num-code="225">
+    <en-name>Ivory Coast</en-name>
+    <name>C&#xF4;te d'Ivoire</name>
+    <cc-ios-3>CIV</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Yamoussoukro</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>21,058,798</population>
+    <area-km2>322,460</area-km2>
+    <gdp-usd>28.28 Billion</gdp-usd>
+  </country>
+  <country id="110" cc-ios-2="JM" m49-code="388" num-code="1-876">
+    <en-name>Jamaica</en-name>
+    <name>Jamaica</name>
+    <cc-ios-3>JAM</cc-ios-3>
+    <cr-name>Jamaican Dollar</cr-name>
+    <cr-code>JMD</cr-code>
+    <cr-number>388</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Jamaica</central-bank>
+    <capital-city>Kingston</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>2,847,232</population>
+    <area-km2>10,991</area-km2>
+    <gdp-usd>14.39 Billion</gdp-usd>
+  </country>
+  <country id="111" cc-ios-2="JP" m49-code="392" num-code="81">
+    <en-name>Japan</en-name>
+    <name>Japan</name>
+    <cc-ios-3>JPN</cc-ios-3>
+    <cr-name>Yen</cr-name>
+    <cr-code>JPY</cr-code>
+    <cr-number>392</cr-number>
+    <cr-symbel>&#xA5;</cr-symbel>
+    <subunit>Sen</subunit>
+    <central-bank>Bank of Japan</central-bank>
+    <capital-city>Tokyo</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>127,288,000</population>
+    <area-km2>377,835</area-km2>
+    <gdp-usd>5.007 Trillion</gdp-usd>
+  </country>
+  <country id="112" cc-ios-2="JE" m49-code="832" num-code="44-1534">
+    <en-name>Jersey</en-name>
+    <name>Jersey</name>
+    <cc-ios-3>JEY</cc-ios-3>
+    <cr-name>Pound Sterling</cr-name>
+    <cr-code>GBP</cr-code>
+    <cr-number>826</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Bank of England</central-bank>
+    <capital-city>Saint Helier</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>90,812</population>
+    <area-km2>116</area-km2>
+    <gdp-usd>5.1 Billion</gdp-usd>
+  </country>
+  <country id="113" cc-ios-2="JO" m49-code="400" num-code="962">
+    <en-name>Jordan</en-name>
+    <name>Jordan</name>
+    <cc-ios-3>JOR</cc-ios-3>
+    <cr-name>Jordanian Dinar</cr-name>
+    <cr-code>JOD</cr-code>
+    <cr-number>400</cr-number>
+    <cr-symbel>&#x62F;.&#x627;</cr-symbel>
+    <subunit>Qirsh</subunit>
+    <central-bank>Central Bank of Jordan</central-bank>
+    <capital-city>Amman</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>6,407,085</population>
+    <area-km2>92,300</area-km2>
+    <gdp-usd>34.08 Billion</gdp-usd>
+  </country>
+  <country id="114" cc-ios-2="KZ" m49-code="398" num-code="7">
+    <en-name>Kazakhstan</en-name>
+    <name>Kazakhstan</name>
+    <cc-ios-3>KAZ</cc-ios-3>
+    <cr-name>Tenge</cr-name>
+    <cr-code>KZT</cr-code>
+    <cr-number>398</cr-number>
+    <cr-symbel>&#x3012;</cr-symbel>
+    <subunit>t&#xEF;&#x131;n</subunit>
+    <central-bank>National Bank of Kazakhstan</central-bank>
+    <capital-city>Nur-Sultan</capital-city>
+    <region>Central Asia</region>
+    <continent>Asia</continent>
+    <population>15,340,000</population>
+    <area-km2>2,717,300</area-km2>
+    <gdp-usd>224.9 Billion</gdp-usd>
+  </country>
+  <country id="115" cc-ios-2="KE" m49-code="404" num-code="254">
+    <en-name>Kenya</en-name>
+    <name>Kenya</name>
+    <cc-ios-3>KEN</cc-ios-3>
+    <cr-name>Kenyan Shilling</cr-name>
+    <cr-code>KES</cr-code>
+    <cr-number>404</cr-number>
+    <cr-symbel>Ksh</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Kenya</central-bank>
+    <capital-city>Nairobi</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>40,046,566</population>
+    <area-km2>582,650</area-km2>
+    <gdp-usd>45.31 Billion</gdp-usd>
+  </country>
+  <country id="116" cc-ios-2="KI" m49-code="296" num-code="686">
+    <en-name>Kiribati</en-name>
+    <name>Kiribati</name>
+    <cc-ios-3>KIR</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Tarawa</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>92,533</population>
+    <area-km2>811</area-km2>
+    <gdp-usd>173 Million</gdp-usd>
+  </country>
+  <country id="117" cc-ios-2="XK" m49-code="688" num-code="383">
+    <en-name>Kosovo</en-name>
+    <name>Kosovo</name>
+    <cc-ios-3>XKX</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Pristina</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>1,800,000</population>
+    <area-km2>10,887</area-km2>
+    <gdp-usd>7.15 Billion</gdp-usd>
+  </country>
+  <country id="120" cc-ios-2="KW" m49-code="414" num-code="965">
+    <en-name>Kuwait</en-name>
+    <name>Kuwait</name>
+    <cc-ios-3>KWT</cc-ios-3>
+    <cr-name>Kuwaiti Dinar</cr-name>
+    <cr-code>KWD</cr-code>
+    <cr-number>414</cr-number>
+    <cr-symbel>&#x62F;.&#x643;</cr-symbel>
+    <subunit>Fils</subunit>
+    <central-bank>Central Bank of Kuwait</central-bank>
+    <capital-city>Kuwait City</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>2,789,132</population>
+    <area-km2>17,820</area-km2>
+    <gdp-usd>179.5 Billion</gdp-usd>
+  </country>
+  <country id="121" cc-ios-2="KG" m49-code="417" num-code="996">
+    <en-name>Kyrgyzstan</en-name>
+    <name>Kyrgyzstan</name>
+    <cc-ios-3>KGZ</cc-ios-3>
+    <cr-name>Som</cr-name>
+    <cr-code>KGS</cr-code>
+    <cr-number>417</cr-number>
+    <cr-symbel>&#x41B;&#x432;</cr-symbel>
+    <subunit>tyiyn</subunit>
+    <central-bank>National Bank of the Kyrgyz Republic</central-bank>
+    <capital-city>Bishkek</capital-city>
+    <region>Central Asia</region>
+    <continent>Asia</continent>
+    <population>5,508,626</population>
+    <area-km2>198,500</area-km2>
+    <gdp-usd>7.234 Billion</gdp-usd>
+  </country>
+  <country id="122" cc-ios-2="LA" m49-code="418" num-code="856">
+    <en-name>Laos</en-name>
+    <name>Lao People's Democratic Republic (the)</name>
+    <cc-ios-3>LAO</cc-ios-3>
+    <cr-name>Kip</cr-name>
+    <cr-code>LAK</cr-code>
+    <cr-number>418</cr-number>
+    <cr-symbel>&#x20AD;N</cr-symbel>
+    <subunit>Att</subunit>
+    <central-bank>Bank of the Lao P.D.R.</central-bank>
+    <capital-city>Vientiane</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>6,368,162</population>
+    <area-km2>236,800</area-km2>
+    <gdp-usd>10.1 Billion</gdp-usd>
+  </country>
+  <country id="123" cc-ios-2="LV" m49-code="428" num-code="371">
+    <en-name>Latvia</en-name>
+    <name>Latvia</name>
+    <cc-ios-3>LVA</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Riga</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>2,217,969</population>
+    <area-km2>64,589</area-km2>
+    <gdp-usd>30.38 Billion</gdp-usd>
+  </country>
+  <country id="124" cc-ios-2="LB" m49-code="422" num-code="961">
+    <en-name>Lebanon</en-name>
+    <name>Lebanon</name>
+    <cc-ios-3>LBN</cc-ios-3>
+    <cr-name>Lebanese Pound</cr-name>
+    <cr-code>LBP</cr-code>
+    <cr-number>422</cr-number>
+    <cr-symbel>&#x644;.&#x644;</cr-symbel>
+    <subunit>Paiastre</subunit>
+    <central-bank>Banque du Liban</central-bank>
+    <capital-city>Beirut</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>4,125,247</population>
+    <area-km2>10,400</area-km2>
+    <gdp-usd>43.49 Billion</gdp-usd>
+  </country>
+  <country id="125" cc-ios-2="LS" m49-code="426" num-code="266">
+    <en-name>Lesotho</en-name>
+    <name>Lesotho</name>
+    <cc-ios-3>LSO</cc-ios-3>
+    <cr-name>Loti</cr-name>
+    <cr-code>LSL</cr-code>
+    <cr-number>426</cr-number>
+    <cr-symbel>L</cr-symbel>
+    <subunit>sente</subunit>
+    <central-bank>Central Bank of Lesotho</central-bank>
+    <capital-city>Maseru</capital-city>
+    <region>Southern Africa</region>
+    <continent>Africa</continent>
+    <population>1,919,552</population>
+    <area-km2>30,355</area-km2>
+    <gdp-usd>2.457 Billion</gdp-usd>
+  </country>
+  <country id="126" cc-ios-2="LR" m49-code="430" num-code="231">
+    <en-name>Liberia</en-name>
+    <name>Liberia</name>
+    <cc-ios-3>LBR</cc-ios-3>
+    <cr-name>Liberian Dollar</cr-name>
+    <cr-code>LRD</cr-code>
+    <cr-number>430</cr-number>
+    <cr-symbel>L$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Liberia</central-bank>
+    <capital-city>Monrovia</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>3,685,076</population>
+    <area-km2>111,370</area-km2>
+    <gdp-usd>1.977 Billion</gdp-usd>
+  </country>
+  <country id="127" cc-ios-2="LY" m49-code="434" num-code="218">
+    <en-name>Libya</en-name>
+    <name>Libya</name>
+    <cc-ios-3>LBY</cc-ios-3>
+    <cr-name>Libyan Dinar</cr-name>
+    <cr-code>LYD</cr-code>
+    <cr-number>434</cr-number>
+    <cr-symbel>&#x644;.&#x62F;</cr-symbel>
+    <subunit>Dirham</subunit>
+    <central-bank>Central Bank of Libya</central-bank>
+    <capital-city>Tripoli</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>6,461,454</population>
+    <area-km2>1,759,540</area-km2>
+    <gdp-usd>70.92 Billion</gdp-usd>
+  </country>
+  <country id="128" cc-ios-2="LI" m49-code="438" num-code="423">
+    <en-name>Liechtenstein</en-name>
+    <name>Liechtenstein</name>
+    <cc-ios-3>LIE</cc-ios-3>
+    <cr-name>Swiss Franc</cr-name>
+    <cr-code>CHF</cr-code>
+    <cr-number>756</cr-number>
+    <cr-symbel>CHf</cr-symbel>
+    <subunit>Rappen</subunit>
+    <central-bank>Swiss National Bank</central-bank>
+    <capital-city>Vaduz</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>35,000</population>
+    <area-km2>160</area-km2>
+    <gdp-usd>5.113 Billion</gdp-usd>
+  </country>
+  <country id="129" cc-ios-2="LT" m49-code="440" num-code="370">
+    <en-name>Lithuania</en-name>
+    <name>Lithuania</name>
+    <cc-ios-3>LTU</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Lithuania</central-bank>
+    <capital-city>Vilnius</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>2,944,459</population>
+    <area-km2>65,200</area-km2>
+    <gdp-usd>46.71 Billion</gdp-usd>
+  </country>
+  <country id="130" cc-ios-2="LU" m49-code="442" num-code="352">
+    <en-name>Luxembourg</en-name>
+    <name>Luxembourg</name>
+    <cc-ios-3>LUX</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Luxembourg</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>497,538</population>
+    <area-km2>2,586</area-km2>
+    <gdp-usd>60.54 Billion</gdp-usd>
+  </country>
+  <country id="131" cc-ios-2="MO" m49-code="446" num-code="853">
+    <en-name>Macao</en-name>
+    <name>Macao</name>
+    <cc-ios-3>MAC</cc-ios-3>
+    <cr-name>Pataca</cr-name>
+    <cr-code>MOP</cr-code>
+    <cr-number>446</cr-number>
+    <cr-symbel>MOP$</cr-symbel>
+    <subunit>Sin</subunit>
+    <central-bank>Monetary Authority of Macao</central-bank>
+    <capital-city>Macao</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>449,198</population>
+    <area-km2>254</area-km2>
+    <gdp-usd>51.68 Billion</gdp-usd>
+  </country>
+  <country id="132" cc-ios-2="MG" m49-code="450" num-code="261">
+    <en-name>Madagascar</en-name>
+    <name>Madagascar</name>
+    <cc-ios-3>MDG</cc-ios-3>
+    <cr-name>Malagasy Ariary</cr-name>
+    <cr-code>MGA</cr-code>
+    <cr-number>969</cr-number>
+    <cr-symbel>Ar</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of Madagascar</central-bank>
+    <capital-city>Antananarivo</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>21,281,844</population>
+    <area-km2>587,040</area-km2>
+    <gdp-usd>10.53 Billion</gdp-usd>
+  </country>
+  <country id="133" cc-ios-2="MW" m49-code="454" num-code="265">
+    <en-name>Malawi</en-name>
+    <name>Malawi</name>
+    <cc-ios-3>MWI</cc-ios-3>
+    <cr-name>Kwacha</cr-name>
+    <cr-code>MWK</cr-code>
+    <cr-number>454</cr-number>
+    <cr-symbel>MK</cr-symbel>
+    <subunit>tambala</subunit>
+    <central-bank>Reserve Bank of Malawi</central-bank>
+    <capital-city>Lilongwe</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>15,447,500</population>
+    <area-km2>118,480</area-km2>
+    <gdp-usd>3.683 Billion</gdp-usd>
+  </country>
+  <country id="134" cc-ios-2="MY" m49-code="458" num-code="60">
+    <en-name>Malaysia</en-name>
+    <name>Malaysia</name>
+    <cc-ios-3>MYS</cc-ios-3>
+    <cr-name>Malaysian Ringgit</cr-name>
+    <cr-code>MYR</cr-code>
+    <cr-number>458</cr-number>
+    <cr-symbel>RM</cr-symbel>
+    <subunit>Sen</subunit>
+    <central-bank>Central Bank of Malaysia</central-bank>
+    <capital-city>Kuala Lumpur</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>28,274,729</population>
+    <area-km2>329,750</area-km2>
+    <gdp-usd>312.4 Billion</gdp-usd>
+  </country>
+  <country id="135" cc-ios-2="MV" m49-code="462" num-code="960">
+    <en-name>Maldives</en-name>
+    <name>Maldives</name>
+    <cc-ios-3>MDV</cc-ios-3>
+    <cr-name>Rufiyaa</cr-name>
+    <cr-code>MVR</cr-code>
+    <cr-number>462</cr-number>
+    <cr-symbel>&#x783;.</cr-symbel>
+    <subunit>Laari</subunit>
+    <central-bank>Maldives Monetary Authority</central-bank>
+    <capital-city>Male</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>395,650</population>
+    <area-km2>300</area-km2>
+    <gdp-usd>2.27 Billion</gdp-usd>
+  </country>
+  <country id="136" cc-ios-2="ML" m49-code="466" num-code="223">
+    <en-name>Mali</en-name>
+    <name>Mali</name>
+    <cc-ios-3>MLI</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CAF</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Bamako</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>13,796,354</population>
+    <area-km2>1,240,000</area-km2>
+    <gdp-usd>11.37 Billion</gdp-usd>
+  </country>
+  <country id="137" cc-ios-2="MT" m49-code="470" num-code="356">
+    <en-name>Malta</en-name>
+    <name>Malta</name>
+    <cc-ios-3>MLT</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Valletta</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>403,000</population>
+    <area-km2>316</area-km2>
+    <gdp-usd>9.541 Billion</gdp-usd>
+  </country>
+  <country id="138" cc-ios-2="MH" m49-code="584" num-code="692">
+    <en-name>Marshall Islands</en-name>
+    <name>Marshall Islands (the)</name>
+    <cc-ios-3>MHL</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Majuro</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>65,859</population>
+    <area-km2>181</area-km2>
+    <gdp-usd>193 Million</gdp-usd>
+  </country>
+  <country id="139" cc-ios-2="MQ" m49-code="474" num-code="596">
+    <en-name>Martinique</en-name>
+    <name>Martinique</name>
+    <cc-ios-3>MTQ</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Fort-de-France</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>376,480</population>
+    <area-km2>1128</area-km2>
+    <gdp-usd>9.10 Billion</gdp-usd>
+  </country>
+  <country id="140" cc-ios-2="MR" m49-code="478" num-code="222">
+    <en-name>Mauritania</en-name>
+    <name>Mauritania</name>
+    <cc-ios-3>MRT</cc-ios-3>
+    <cr-name>Ouguiya</cr-name>
+    <cr-code>MRU</cr-code>
+    <cr-number>929</cr-number>
+    <cr-symbel>UM</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Banque Centrale de Mauritanie</central-bank>
+    <capital-city>Nouakchott</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>3,205,060</population>
+    <area-km2>1,030,700</area-km2>
+    <gdp-usd>4.183 Billion</gdp-usd>
+  </country>
+  <country id="141" cc-ios-2="MU" m49-code="480" num-code="230">
+    <en-name>Mauritius</en-name>
+    <name>Mauritius</name>
+    <cc-ios-3>MUS</cc-ios-3>
+    <cr-name>Mauritius Rupee</cr-name>
+    <cr-code>MUR</cr-code>
+    <cr-number>480</cr-number>
+    <cr-symbel>&#x20A8;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Mauritius</central-bank>
+    <capital-city>Port Louis</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>1,294,104</population>
+    <area-km2>2,040</area-km2>
+    <gdp-usd>11.9 Billion</gdp-usd>
+  </country>
+  <country id="142" cc-ios-2="YT" m49-code="175" num-code="262">
+    <en-name>Mayotte</en-name>
+    <name>Mayotte</name>
+    <cc-ios-3>MYT</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Mamoudzou</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>159,042</population>
+    <area-km2>374</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="143" cc-ios-2="MX" m49-code="484" num-code="52">
+    <en-name>Mexico</en-name>
+    <name>Mexico</name>
+    <cc-ios-3>MEX</cc-ios-3>
+    <cr-name>Mexican Peso</cr-name>
+    <cr-code>MXN</cr-code>
+    <cr-number>484</cr-number>
+    <cr-symbel>Mex$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Bank of Mexico</central-bank>
+    <capital-city>Mexico City</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>112,468,855</population>
+    <area-km2>1,972,550</area-km2>
+    <gdp-usd>1.327 Trillion</gdp-usd>
+  </country>
+  <country id="144" cc-ios-2="FM" m49-code="583" num-code="691">
+    <en-name>Micronesia</en-name>
+    <name>Micronesia (Federated States of)</name>
+    <cc-ios-3>FSM</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Palikir</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>107,708</population>
+    <area-km2>702</area-km2>
+    <gdp-usd>339 Million</gdp-usd>
+  </country>
+  <country id="145" cc-ios-2="MD" m49-code="498" num-code="373">
+    <en-name>Moldova</en-name>
+    <name>Moldova (the Republic of)</name>
+    <cc-ios-3>MDA</cc-ios-3>
+    <cr-name>Moldovan Leu</cr-name>
+    <cr-code>MDL</cr-code>
+    <cr-number>498</cr-number>
+    <cr-symbel>L</cr-symbel>
+    <subunit>Ban</subunit>
+    <central-bank>National Bank of Moldova</central-bank>
+    <capital-city>Chisinau</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>4,324,000</population>
+    <area-km2>33,843</area-km2>
+    <gdp-usd>7.932 Billion</gdp-usd>
+  </country>
+  <country id="146" cc-ios-2="MC" m49-code="492" num-code="377">
+    <en-name>Monaco</en-name>
+    <name>Monaco</name>
+    <cc-ios-3>MCO</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Monaco</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>32,965</population>
+    <area-km2>2</area-km2>
+    <gdp-usd>5.748 Billion</gdp-usd>
+  </country>
+  <country id="147" cc-ios-2="MN" m49-code="496" num-code="976">
+    <en-name>Mongolia</en-name>
+    <name>Mongolia</name>
+    <cc-ios-3>MNG</cc-ios-3>
+    <cr-name>Tugrik</cr-name>
+    <cr-code>MNT</cr-code>
+    <cr-number>496</cr-number>
+    <cr-symbel>&#x20AE;</cr-symbel>
+    <subunit>m&#x4E9;&#x43D;&#x433;&#x4E9;</subunit>
+    <central-bank>Bank of Mongolia</central-bank>
+    <capital-city>Ulaanbaatar</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>3,086,918</population>
+    <area-km2>1,565,000</area-km2>
+    <gdp-usd>11.14 Billion</gdp-usd>
+  </country>
+  <country id="148" cc-ios-2="ME" m49-code="499" num-code="382">
+    <en-name>Montenegro</en-name>
+    <name>Montenegro</name>
+    <cc-ios-3>MNE</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Podgorica</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>666,730</population>
+    <area-km2>14,026</area-km2>
+    <gdp-usd>4.518 Billion</gdp-usd>
+  </country>
+  <country id="149" cc-ios-2="MS" m49-code="500" num-code="1-664">
+    <en-name>Montserrat</en-name>
+    <name>Montserrat</name>
+    <cc-ios-3>MSR</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>Plymouth</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>9,341</population>
+    <area-km2>102</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="150" cc-ios-2="MA" m49-code="504" num-code="212">
+    <en-name>Morocco</en-name>
+    <name>Morocco</name>
+    <cc-ios-3>MAR</cc-ios-3>
+    <cr-name>Moroccan Dirham</cr-name>
+    <cr-code>MAD</cr-code>
+    <cr-number>504</cr-number>
+    <cr-symbel>&#x62F;.&#x645;.</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>&#xA0;Bank Al-Maghrib</central-bank>
+    <capital-city>Rabat</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>31,627,428</population>
+    <area-km2>446,550</area-km2>
+    <gdp-usd>104.8 Billion</gdp-usd>
+  </country>
+  <country id="151" cc-ios-2="MZ" m49-code="508" num-code="258">
+    <en-name>Mozambique</en-name>
+    <name>Mozambique</name>
+    <cc-ios-3>MOZ</cc-ios-3>
+    <cr-name>Mozambique Metical</cr-name>
+    <cr-code>MZN</cr-code>
+    <cr-number>943</cr-number>
+    <cr-symbel>MT</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Bank of Mozambique</central-bank>
+    <capital-city>Maputo</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>22,061,451</population>
+    <area-km2>801,590</area-km2>
+    <gdp-usd>14.67 Billion</gdp-usd>
+  </country>
+  <country id="152" cc-ios-2="MM" m49-code="104" num-code="95">
+    <en-name>Myanmar</en-name>
+    <name>Myanmar</name>
+    <cc-ios-3>MMR</cc-ios-3>
+    <cr-name>Kyat</cr-name>
+    <cr-code>MMK</cr-code>
+    <cr-number>104</cr-number>
+    <cr-symbel>K</cr-symbel>
+    <subunit>Pya</subunit>
+    <central-bank>Central Bank of Myanmar</central-bank>
+    <capital-city>Nay Pyi Taw</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>53,414,374</population>
+    <area-km2>678,500</area-km2>
+    <gdp-usd>59.43 Billion</gdp-usd>
+  </country>
+  <country id="153" cc-ios-2="NA" m49-code="516" num-code="264">
+    <en-name>Namibia</en-name>
+    <name>Namibia</name>
+    <cc-ios-3>NAM</cc-ios-3>
+    <cr-name>Namibia Dollar</cr-name>
+    <cr-code>NAD</cr-code>
+    <cr-number>516</cr-number>
+    <cr-symbel>N$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Namibia</central-bank>
+    <capital-city>Windhoek</capital-city>
+    <region>Southern Africa</region>
+    <continent>Africa</continent>
+    <population>2,128,471</population>
+    <area-km2>825,418</area-km2>
+    <gdp-usd>12.3 Billion</gdp-usd>
+  </country>
+  <country id="154" cc-ios-2="NR" m49-code="520" num-code="674">
+    <en-name>Nauru</en-name>
+    <name>Nauru</name>
+    <cc-ios-3>NRU</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>710</cr-number>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Yaren</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>10,065</population>
+    <area-km2>21</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="155" cc-ios-2="NP" m49-code="524" num-code="977">
+    <en-name>Nepal</en-name>
+    <name>Nepal</name>
+    <cc-ios-3>NPL</cc-ios-3>
+    <cr-name>Nepalese Rupee</cr-name>
+    <cr-code>NPR</cr-code>
+    <cr-number>524</cr-number>
+    <cr-symbel>&#x20A8;</cr-symbel>
+    <subunit>Paisa</subunit>
+    <central-bank>Nepal Rastra Bank</central-bank>
+    <capital-city>Kathmandu</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>28,951,852</population>
+    <area-km2>140,800</area-km2>
+    <gdp-usd>19.34 Billion</gdp-usd>
+  </country>
+  <country id="156" cc-ios-2="NL" m49-code="528" num-code="31">
+    <en-name>Netherlands</en-name>
+    <name>Netherlands (the)</name>
+    <cc-ios-3>NLD</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Amsterdam</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>16,645,000</population>
+    <area-km2>41,526</area-km2>
+    <gdp-usd>722.3 Billion</gdp-usd>
+  </country>
+  <country id="157" cc-ios-2="AN" m49-code="530" num-code="599">
+    <en-name>Netherlands Antilles</en-name>
+    <name>Netherlands Antilles</name>
+    <cc-ios-3>ANT</cc-ios-3>
+    <cr-name>Guilder</cr-name>
+    <cr-code>ANG</cr-code>
+    <cr-number>532</cr-number>
+    <cr-symbel>&#x192;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Cura&#xE7;ao and Sint Maarten</central-bank>
+    <capital-city>Willemstad</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>136,197</population>
+    <area-km2>960</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="158" cc-ios-2="NC" m49-code="540" num-code="687">
+    <en-name>New Caledonia</en-name>
+    <name>New Caledonia</name>
+    <cc-ios-3>NCL</cc-ios-3>
+    <cr-name>CFP Franc</cr-name>
+    <cr-code>XPF</cr-code>
+    <cr-number>953</cr-number>
+    <cr-symbel>&#x20A3;</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Institut d'&#xE9;mission d'outre-mer</central-bank>
+    <capital-city>Noumea</capital-city>
+    <region>Melanesia</region>
+    <continent>Oceania</continent>
+    <population>216,494</population>
+    <area-km2>19,060</area-km2>
+    <gdp-usd>9.28 Billion</gdp-usd>
+  </country>
+  <country id="159" cc-ios-2="NZ" m49-code="554" num-code="64">
+    <en-name>New Zealand</en-name>
+    <name>New Zealand</name>
+    <cc-ios-3>NZL</cc-ios-3>
+    <cr-name>New Zealand Dollar</cr-name>
+    <cr-code>NZD</cr-code>
+    <cr-number>554</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of New Zealand</central-bank>
+    <capital-city>Wellington</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>4,252,277</population>
+    <area-km2>268,680</area-km2>
+    <gdp-usd>181.1 Billion</gdp-usd>
+  </country>
+  <country id="160" cc-ios-2="NI" m49-code="558" num-code="505">
+    <en-name>Nicaragua</en-name>
+    <name>Nicaragua</name>
+    <cc-ios-3>NIC</cc-ios-3>
+    <cr-name>Cordoba Oro</cr-name>
+    <cr-code>NIO</cr-code>
+    <cr-number>558</cr-number>
+    <cr-symbel>C$</cr-symbel>
+    <subunit>Centavo</subunit>
+    <central-bank>Central Bank of Nicaragua</central-bank>
+    <capital-city>Managua</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>5,995,928</population>
+    <area-km2>129,494</area-km2>
+    <gdp-usd>11.26 Billion</gdp-usd>
+  </country>
+  <country id="161" cc-ios-2="NE" m49-code="562" num-code="227">
+    <en-name>Niger</en-name>
+    <name>Niger (the)</name>
+    <cc-ios-3>NER</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CFA</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Niamey</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>15,878,271</population>
+    <area-km2>1,267,000</area-km2>
+    <gdp-usd>7.304 Billion</gdp-usd>
+  </country>
+  <country id="162" cc-ios-2="NG" m49-code="566" num-code="234">
+    <en-name>Nigeria</en-name>
+    <name>Nigeria</name>
+    <cc-ios-3>NGA</cc-ios-3>
+    <cr-name>Naira</cr-name>
+    <cr-code>NGN</cr-code>
+    <cr-number>566</cr-number>
+    <cr-symbel>&#x20A6;</cr-symbel>
+    <subunit>Kobo</subunit>
+    <central-bank>Central Bank of Nigeria</central-bank>
+    <capital-city>Abuja</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>154,000,000</population>
+    <area-km2>923,768</area-km2>
+    <gdp-usd>502 Billion</gdp-usd>
+  </country>
+  <country id="163" cc-ios-2="NU" m49-code="570" num-code="683">
+    <en-name>Niue</en-name>
+    <name>Niue</name>
+    <cc-ios-3>NIU</cc-ios-3>
+    <cr-name>New Zealand Dollar</cr-name>
+    <cr-code>NZD</cr-code>
+    <cr-number>554</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of New Zealand</central-bank>
+    <capital-city>Alofi</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>2,166</population>
+    <area-km2>260</area-km2>
+    <gdp-usd>10.01 Million</gdp-usd>
+  </country>
+  <country id="164" cc-ios-2="NF" m49-code="574" num-code="672">
+    <en-name>Norfolk Island</en-name>
+    <name>Norfolk Island</name>
+    <cc-ios-3>NFK</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number/>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Kingston</capital-city>
+    <region>Australia and New Zealand</region>
+    <continent>Oceania</continent>
+    <population>2,169</population>
+    <area-km2>36</area-km2>
+    <gdp-usd>60.2 Million</gdp-usd>
+  </country>
+  <country id="118" cc-ios-2="KP" m49-code="408" num-code="850">
+    <en-name>North Korea</en-name>
+    <name>Korea (the Democratic People's Republic)</name>
+    <cc-ios-3>PRK</cc-ios-3>
+    <cr-name>North Korean Won</cr-name>
+    <cr-code>KPW</cr-code>
+    <cr-number>408</cr-number>
+    <cr-symbel>&#x20A9;</cr-symbel>
+    <subunit>Chon</subunit>
+    <central-bank>Central Bank of the Democratic People's Republic of Korea</central-bank>
+    <capital-city>Pyongyang</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>22,912,177</population>
+    <area-km2>120,540</area-km2>
+    <gdp-usd>28 Billion</gdp-usd>
+  </country>
+  <country id="165" cc-ios-2="MK" m49-code="807" num-code="389">
+    <en-name>North Macedonia</en-name>
+    <name>North Macedonia</name>
+    <cc-ios-3>MKD</cc-ios-3>
+    <cr-name>Denar</cr-name>
+    <cr-code>MKD</cr-code>
+    <cr-number/>
+    <cr-symbel>&#x414;&#x435;&#x43D;</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>National Bank of the Republic of Macedonia</central-bank>
+    <capital-city>Skopje</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>2,062,294</population>
+    <area-km2>25,333</area-km2>
+    <gdp-usd>10.65 Billion</gdp-usd>
+  </country>
+  <country id="166" cc-ios-2="MP" m49-code="580" num-code="1-670">
+    <en-name>Northern Mariana Islands</en-name>
+    <name>Northern Mariana Islands (the)</name>
+    <cc-ios-3>MNP</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Saipan</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>53,883</population>
+    <area-km2>477</area-km2>
+    <gdp-usd>733 Million</gdp-usd>
+  </country>
+  <country id="167" cc-ios-2="NO" m49-code="578" num-code="47">
+    <en-name>Norway</en-name>
+    <name>Norway</name>
+    <cc-ios-3>NOR</cc-ios-3>
+    <cr-name>Norwegian Krone</cr-name>
+    <cr-code>NOK</cr-code>
+    <cr-number>578</cr-number>
+    <cr-symbel>kr</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Norges Bank</central-bank>
+    <capital-city>Oslo</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>5,009,150</population>
+    <area-km2>324,220</area-km2>
+    <gdp-usd>515.8 Billion</gdp-usd>
+  </country>
+  <country id="168" cc-ios-2="OM" m49-code="512" num-code="968">
+    <en-name>Oman</en-name>
+    <name>Oman</name>
+    <cc-ios-3>OMN</cc-ios-3>
+    <cr-name>Rial Omani</cr-name>
+    <cr-code>OMR</cr-code>
+    <cr-number>512</cr-number>
+    <cr-symbel>&#x631;.&#x639;.</cr-symbel>
+    <subunit>Baisa</subunit>
+    <central-bank>Central Bank of Oman</central-bank>
+    <capital-city>Muscat</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>2,967,717</population>
+    <area-km2>212,460</area-km2>
+    <gdp-usd>81.95 Billion</gdp-usd>
+  </country>
+  <country id="169" cc-ios-2="PK" m49-code="586" num-code="92">
+    <en-name>Pakistan</en-name>
+    <name>Pakistan</name>
+    <cc-ios-3>PAK</cc-ios-3>
+    <cr-name>Pakistan Rupee</cr-name>
+    <cr-code>PKR</cr-code>
+    <cr-number>586</cr-number>
+    <cr-symbel>Rs</cr-symbel>
+    <subunit>Paisa</subunit>
+    <central-bank>State Bank of Pakistan</central-bank>
+    <capital-city>Islamabad</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>220,900,000</population>
+    <area-km2>803,940</area-km2>
+    <gdp-usd>236.5 Billion</gdp-usd>
+  </country>
+  <country id="170" cc-ios-2="PW" m49-code="585" num-code="680">
+    <en-name>Palau</en-name>
+    <name>Palau</name>
+    <cc-ios-3>PLW</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Melekeok</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>19,907</population>
+    <area-km2>458</area-km2>
+    <gdp-usd>221 Million</gdp-usd>
+  </country>
+  <country id="171" cc-ios-2="PS" m49-code="275" num-code="970">
+    <en-name>Palestinian Territory</en-name>
+    <name>Palestine</name>
+    <cc-ios-3>PSE</cc-ios-3>
+    <cr-name>Palestine pound</cr-name>
+    <cr-code>PSR</cr-code>
+    <cr-number>600</cr-number>
+    <cr-symbel>&#xA3;P</cr-symbel>
+    <subunit>Pruta</subunit>
+    <central-bank>Bank of Palestine</central-bank>
+    <capital-city>East Jerusalem</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>3,800,000</population>
+    <area-km2>5,970</area-km2>
+    <gdp-usd>6.641 Billion</gdp-usd>
+  </country>
+  <country id="172" cc-ios-2="PA" m49-code="591" num-code="507">
+    <en-name>Panama</en-name>
+    <name>Panama</name>
+    <cc-ios-3>PAN</cc-ios-3>
+    <cr-name>Balboa</cr-name>
+    <cr-code>PAB</cr-code>
+    <cr-number>590</cr-number>
+    <cr-symbel>B/.</cr-symbel>
+    <subunit>Centesimo</subunit>
+    <central-bank>Bank of Panama</central-bank>
+    <capital-city>Panama City</capital-city>
+    <region>Central America</region>
+    <continent>North America</continent>
+    <population>3,410,676</population>
+    <area-km2>78,200</area-km2>
+    <gdp-usd>40.62 Billion</gdp-usd>
+  </country>
+  <country id="173" cc-ios-2="PG" m49-code="598" num-code="675">
+    <en-name>Papua New Guinea</en-name>
+    <name>Papua New Guinea</name>
+    <cc-ios-3>PNG</cc-ios-3>
+    <cr-name>Kina</cr-name>
+    <cr-code>PGK</cr-code>
+    <cr-number>598</cr-number>
+    <cr-symbel>K</cr-symbel>
+    <subunit>Toea</subunit>
+    <central-bank>Bank of Papua New Guinea</central-bank>
+    <capital-city>Port Moresby</capital-city>
+    <region>Melanesia</region>
+    <continent>Oceania</continent>
+    <population>6,064,515</population>
+    <area-km2>462,840</area-km2>
+    <gdp-usd>16.1 Billion</gdp-usd>
+  </country>
+  <country id="174" cc-ios-2="PY" m49-code="600" num-code="595">
+    <en-name>Paraguay</en-name>
+    <name>Paraguay</name>
+    <cc-ios-3>PRY</cc-ios-3>
+    <cr-name>Guarani</cr-name>
+    <cr-code>PYG</cr-code>
+    <cr-number>600</cr-number>
+    <cr-symbel>&#x20B2;</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>Central Bank of Paraguay</central-bank>
+    <capital-city>Asuncion</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>6,375,830</population>
+    <area-km2>406,750</area-km2>
+    <gdp-usd>30.56 Billion</gdp-usd>
+  </country>
+  <country id="175" cc-ios-2="PE" m49-code="604" num-code="51">
+    <en-name>Peru</en-name>
+    <name>Peru</name>
+    <cc-ios-3>PER</cc-ios-3>
+    <cr-name>Nuevo Sol</cr-name>
+    <cr-code>PEN</cr-code>
+    <cr-number>604</cr-number>
+    <cr-symbel>S/.</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>Central Reserve Bank of Peru</central-bank>
+    <capital-city>Lima</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>29,907,003</population>
+    <area-km2>1,285,220</area-km2>
+    <gdp-usd>210.3 Billion</gdp-usd>
+  </country>
+  <country id="176" cc-ios-2="PH" m49-code="608" num-code="63">
+    <en-name>Philippines</en-name>
+    <name>Philippines (the)</name>
+    <cc-ios-3>PHL</cc-ios-3>
+    <cr-name>Philippine Peso</cr-name>
+    <cr-code>PHP</cr-code>
+    <cr-number>608</cr-number>
+    <cr-symbel>&#x20B1;</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>Bangko Sentral ng Pilipinas</central-bank>
+    <capital-city>Manila</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>99,900,177</population>
+    <area-km2>300,000</area-km2>
+    <gdp-usd>272.2 Billion</gdp-usd>
+  </country>
+  <country id="177" cc-ios-2="PN" m49-code="612" num-code="64">
+    <en-name>Pitcairn</en-name>
+    <name>Pitcairn</name>
+    <cc-ios-3>PCN</cc-ios-3>
+    <cr-name>New Zealand Dollar</cr-name>
+    <cr-code>NZD</cr-code>
+    <cr-number>554</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of New Zealand</central-bank>
+    <capital-city>Adamstown</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>46</population>
+    <area-km2>47</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="178" cc-ios-2="PL" m49-code="616" num-code="48">
+    <en-name>Poland</en-name>
+    <name>Poland</name>
+    <cc-ios-3>POL</cc-ios-3>
+    <cr-name>Zloty</cr-name>
+    <cr-code>PLN</cr-code>
+    <cr-number>985</cr-number>
+    <cr-symbel>z&#x142;</cr-symbel>
+    <subunit>Groschen</subunit>
+    <central-bank>National Bank of Poland</central-bank>
+    <capital-city>Warsaw</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>38,500,000</population>
+    <area-km2>312,685</area-km2>
+    <gdp-usd>513.9 Billion</gdp-usd>
+  </country>
+  <country id="179" cc-ios-2="PT" m49-code="620" num-code="351">
+    <en-name>Portugal</en-name>
+    <name>Portugal</name>
+    <cc-ios-3>PRT</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Lisbon</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>10,676,000</population>
+    <area-km2>92,391</area-km2>
+    <gdp-usd>219.3 Billion</gdp-usd>
+  </country>
+  <country id="180" cc-ios-2="PR" m49-code="630" num-code="1-787, 1-939">
+    <en-name>Puerto Rico</en-name>
+    <name>Puerto Rico</name>
+    <cc-ios-3>PRI</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>San Juan</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>3,916,632</population>
+    <area-km2>9,104</area-km2>
+    <gdp-usd>93.52 Billion</gdp-usd>
+  </country>
+  <country id="181" cc-ios-2="QA" m49-code="634" num-code="974">
+    <en-name>Qatar</en-name>
+    <name>Qatar</name>
+    <cc-ios-3>QAT</cc-ios-3>
+    <cr-name>Qatari Rial</cr-name>
+    <cr-code>QAR</cr-code>
+    <cr-number>634</cr-number>
+    <cr-symbel>&#x631;.&#x642;</cr-symbel>
+    <subunit>Dirham</subunit>
+    <central-bank>Qatar Central Bank</central-bank>
+    <capital-city>Doha</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>840,926</population>
+    <area-km2>11,437</area-km2>
+    <gdp-usd>213.1 Billion</gdp-usd>
+  </country>
+  <country id="51" cc-ios-2="CG" m49-code="178" num-code="242">
+    <en-name>Republic of the Congo</en-name>
+    <name>Congo (the)</name>
+    <cc-ios-3>COG</cc-ios-3>
+    <cr-name>CFA Franc BEAC</cr-name>
+    <cr-code>XAF</cr-code>
+    <cr-number>950</cr-number>
+    <cr-symbel>FC</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of the Congo</central-bank>
+    <capital-city>Brazzaville</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>3,039,126</population>
+    <area-km2>342,000</area-km2>
+    <gdp-usd>14.25 Billion</gdp-usd>
+  </country>
+  <country id="185" cc-ios-2="RE" m49-code="638" num-code="262">
+    <en-name>Reunion</en-name>
+    <name>R&#xE9;union</name>
+    <cc-ios-3>REU</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Saint-Denis</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>776,948</population>
+    <area-km2>2,517</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="182" cc-ios-2="RO" m49-code="642" num-code="40">
+    <en-name>Romania</en-name>
+    <name>Romania</name>
+    <cc-ios-3>ROU</cc-ios-3>
+    <cr-name>Romanian Leu</cr-name>
+    <cr-code>RON</cr-code>
+    <cr-number>946</cr-number>
+    <cr-symbel>L</cr-symbel>
+    <subunit>Ban</subunit>
+    <central-bank>National Bank of Romania</central-bank>
+    <capital-city>Bucharest</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>21,959,278</population>
+    <area-km2>237,500</area-km2>
+    <gdp-usd>188.9 Billion</gdp-usd>
+  </country>
+  <country id="183" cc-ios-2="RU" m49-code="643" num-code="7">
+    <en-name>Russia</en-name>
+    <name>Russian Federation (the)</name>
+    <cc-ios-3>RUS</cc-ios-3>
+    <cr-name>Russian Ruble</cr-name>
+    <cr-code>RUB</cr-code>
+    <cr-number>643</cr-number>
+    <cr-symbel>&#x20BD;</cr-symbel>
+    <subunit>kopeyka</subunit>
+    <central-bank>Central Bank of Russia</central-bank>
+    <capital-city>Moscow</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>140,702,000</population>
+    <area-km2>17,100,000</area-km2>
+    <gdp-usd>2.113 Trillion</gdp-usd>
+  </country>
+  <country id="184" cc-ios-2="RW" m49-code="646" num-code="250">
+    <en-name>Rwanda</en-name>
+    <name>Rwanda</name>
+    <cc-ios-3>RWA</cc-ios-3>
+    <cr-name>Rwanda Franc</cr-name>
+    <cr-code>RWF</cr-code>
+    <cr-number>646</cr-number>
+    <cr-symbel>&#x20A3;</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>National Bank of Rwanda</central-bank>
+    <capital-city>Kigali</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>11,055,976</population>
+    <area-km2>26,338</area-km2>
+    <gdp-usd>7.7 Billion</gdp-usd>
+  </country>
+  <country id="186" cc-ios-2="BL" m49-code="652" num-code="590">
+    <en-name>Saint Barthelemy</en-name>
+    <name>Saint Barth&#xE9;lemy</name>
+    <cc-ios-3>BLM</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Gustavia</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>8,450</population>
+    <area-km2>21</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="187" cc-ios-2="SH" m49-code="654" num-code="290">
+    <en-name>Saint Helena</en-name>
+    <name>Saint Helena</name>
+    <cc-ios-3>SHN</cc-ios-3>
+    <cr-name>Saint Helena Pound</cr-name>
+    <cr-code>SHP</cr-code>
+    <cr-number>654</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Government Of Saint Helena</central-bank>
+    <capital-city>Jamestown</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>7,460</population>
+    <area-km2>410</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="188" cc-ios-2="KN" m49-code="659" num-code="1-869">
+    <en-name>Saint Kitts and Nevis</en-name>
+    <name>Saint Kitts and Nevis</name>
+    <cc-ios-3>KNA</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>Basseterre</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>51,134</population>
+    <area-km2>261</area-km2>
+    <gdp-usd>767 Million</gdp-usd>
+  </country>
+  <country id="189" cc-ios-2="LC" m49-code="662" num-code="1-758">
+    <en-name>Saint Lucia</en-name>
+    <name>Saint Lucia</name>
+    <cc-ios-3>LCA</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>Castries</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>160,922</population>
+    <area-km2>616</area-km2>
+    <gdp-usd>1.377 Billion</gdp-usd>
+  </country>
+  <country id="190" cc-ios-2="MF" m49-code="663" num-code="590">
+    <en-name>Saint Martin</en-name>
+    <name>Saint Martin (French part)</name>
+    <cc-ios-3>MAF</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Marigot</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>35,925</population>
+    <area-km2>53</area-km2>
+    <gdp-usd>561.5 Million</gdp-usd>
+  </country>
+  <country id="191" cc-ios-2="PM" m49-code="666" num-code="508">
+    <en-name>Saint Pierre and Miquelon</en-name>
+    <name>Saint Pierre and Miquelon</name>
+    <cc-ios-3>SPM</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Saint-Pierre</capital-city>
+    <region>Northern America</region>
+    <continent>North America</continent>
+    <population>7,012</population>
+    <area-km2>242</area-km2>
+    <gdp-usd>215.3 Million</gdp-usd>
+  </country>
+  <country id="192" cc-ios-2="VC" m49-code="670" num-code="1-784">
+    <en-name>Saint Vincent and the Grenadines</en-name>
+    <name>Saint Vincent and the Grenadines</name>
+    <cc-ios-3>VCT</cc-ios-3>
+    <cr-name>East Caribbean Dollar</cr-name>
+    <cr-code>XCD</cr-code>
+    <cr-number>951</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Eastern Caribbean Central Bank</central-bank>
+    <capital-city>Kingstown</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>104,217</population>
+    <area-km2>389</area-km2>
+    <gdp-usd>742 Million</gdp-usd>
+  </country>
+  <country id="193" cc-ios-2="WS" m49-code="882" num-code="685">
+    <en-name>Samoa</en-name>
+    <name>Samoa</name>
+    <cc-ios-3>WSM</cc-ios-3>
+    <cr-name>Tala</cr-name>
+    <cr-code>WST</cr-code>
+    <cr-number>882</cr-number>
+    <cr-symbel>ST</cr-symbel>
+    <subunit>Sene</subunit>
+    <central-bank>Central Bank of Samoa</central-bank>
+    <capital-city>Apia</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>192,001</population>
+    <area-km2>2,944</area-km2>
+    <gdp-usd>705 Million</gdp-usd>
+  </country>
+  <country id="194" cc-ios-2="SM" m49-code="674" num-code="378">
+    <en-name>San Marino</en-name>
+    <name>San Marino</name>
+    <cc-ios-3>SMR</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>San Marino</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>31,477</population>
+    <area-km2>61</area-km2>
+    <gdp-usd>1.866 Billion</gdp-usd>
+  </country>
+  <country id="195" cc-ios-2="ST" m49-code="678" num-code="239">
+    <en-name>Sao Tome and Principe</en-name>
+    <name>Sao Tome and Principe</name>
+    <cc-ios-3>STP</cc-ios-3>
+    <cr-name>Dobra</cr-name>
+    <cr-code>STN</cr-code>
+    <cr-number>930</cr-number>
+    <cr-symbel>Db</cr-symbel>
+    <subunit>C&#xE9;ntimo</subunit>
+    <central-bank>Central Bank of S&#xE3;o Tom&#xE9; and Pr&#xED;ncipe</central-bank>
+    <capital-city>Sao Tome</capital-city>
+    <region>Middle Africa</region>
+    <continent>Africa</continent>
+    <population>175,808</population>
+    <area-km2>1,001</area-km2>
+    <gdp-usd>311 Million</gdp-usd>
+  </country>
+  <country id="196" cc-ios-2="SA" m49-code="682" num-code="966">
+    <en-name>Saudi Arabia</en-name>
+    <name>Saudi Arabia</name>
+    <cc-ios-3>SAU</cc-ios-3>
+    <cr-name>Saudi Riyal</cr-name>
+    <cr-code>SAR</cr-code>
+    <cr-number>682</cr-number>
+    <cr-symbel>&#x631;.&#x633;</cr-symbel>
+    <subunit>Halalah</subunit>
+    <central-bank>Saudi Central Bank</central-bank>
+    <capital-city>Riyadh</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>25,731,776</population>
+    <area-km2>1,960,582</area-km2>
+    <gdp-usd>718.5 Billion</gdp-usd>
+  </country>
+  <country id="197" cc-ios-2="SN" m49-code="686" num-code="221">
+    <en-name>Senegal</en-name>
+    <name>Senegal</name>
+    <cc-ios-3>SEN</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CAF</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Dakar</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>12,323,252</population>
+    <area-km2>196,190</area-km2>
+    <gdp-usd>15.36 Billion</gdp-usd>
+  </country>
+  <country id="198" cc-ios-2="RS" m49-code="688" num-code="381">
+    <en-name>Serbia</en-name>
+    <name>Serbia</name>
+    <cc-ios-3>SRB</cc-ios-3>
+    <cr-name>Serbian Dinar</cr-name>
+    <cr-code>RSD</cr-code>
+    <cr-number>941</cr-number>
+    <cr-symbel>din</cr-symbel>
+    <subunit>Para</subunit>
+    <central-bank>Narodna BankaSRB</central-bank>
+    <capital-city>Belgrade</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>7,344,847</population>
+    <area-km2>88,361</area-km2>
+    <gdp-usd>43.68 Billion</gdp-usd>
+  </country>
+  <country id="199" cc-ios-2="CS" m49-code="689" num-code="381,382">
+    <en-name>Serbia and Montenegro</en-name>
+    <name>Serbia and Montenegro</name>
+    <cc-ios-3>SCG</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Belgrade</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>8,011,577</population>
+    <area-km2>102,387</area-km2>
+    <gdp-usd>48.198 Billion</gdp-usd>
+  </country>
+  <country id="200" cc-ios-2="SC" m49-code="690" num-code="248">
+    <en-name>Seychelles</en-name>
+    <name>Seychelles</name>
+    <cc-ios-3>SYC</cc-ios-3>
+    <cr-name>Seychelles Rupee</cr-name>
+    <cr-code>SCR</cr-code>
+    <cr-number>690</cr-number>
+    <cr-symbel>SR.</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Seychelles</central-bank>
+    <capital-city>Victoria</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>88,340</population>
+    <area-km2>455</area-km2>
+    <gdp-usd>1.271 Billion</gdp-usd>
+  </country>
+  <country id="201" cc-ios-2="SL" m49-code="694" num-code="232">
+    <en-name>Sierra Leone</en-name>
+    <name>Sierra Leone</name>
+    <cc-ios-3>SLE</cc-ios-3>
+    <cr-name>Leone</cr-name>
+    <cr-code>SLL</cr-code>
+    <cr-number>694</cr-number>
+    <cr-symbel>Le</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Sierra Leone</central-bank>
+    <capital-city>Freetown</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>5,245,695</population>
+    <area-km2>71,740</area-km2>
+    <gdp-usd>4.607 Billion</gdp-usd>
+  </country>
+  <country id="202" cc-ios-2="SG" m49-code="702" num-code="65">
+    <en-name>Singapore</en-name>
+    <name>Singapore</name>
+    <cc-ios-3>SGP</cc-ios-3>
+    <cr-name>Singapore Dollar</cr-name>
+    <cr-code>SGD</cr-code>
+    <cr-number>702</cr-number>
+    <cr-symbel>S$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Monetary Authority of Singapore</central-bank>
+    <capital-city>Singapore</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>4,701,069</population>
+    <area-km2>693</area-km2>
+    <gdp-usd>295.7 Billion</gdp-usd>
+  </country>
+  <country id="203" cc-ios-2="SX" m49-code="534" num-code="1-721">
+    <en-name>Sint Maarten</en-name>
+    <name>Sint Maarten (Dutch part)</name>
+    <cc-ios-3>SXM</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>532</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Philipsburg</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>37,429</population>
+    <area-km2>34</area-km2>
+    <gdp-usd>794.7 Million</gdp-usd>
+  </country>
+  <country id="204" cc-ios-2="SK" m49-code="703" num-code="421">
+    <en-name>Slovakia</en-name>
+    <name>Slovakia</name>
+    <cc-ios-3>SVK</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Bratislava</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>5,455,000</population>
+    <area-km2>48,845</area-km2>
+    <gdp-usd>96.96 Billion</gdp-usd>
+  </country>
+  <country id="205" cc-ios-2="SI" m49-code="705" num-code="386">
+    <en-name>Slovenia</en-name>
+    <name>Slovenia</name>
+    <cc-ios-3>SVN</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Ljubljana</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>2,007,000</population>
+    <area-km2>20,273</area-km2>
+    <gdp-usd>46.82 Billion</gdp-usd>
+  </country>
+  <country id="206" cc-ios-2="SB" m49-code="90" num-code="677">
+    <en-name>Solomon Islands</en-name>
+    <name>Solomon Islands</name>
+    <cc-ios-3>SLB</cc-ios-3>
+    <cr-name>Solomon Islands Dollar</cr-name>
+    <cr-code>SBD</cr-code>
+    <cr-number>90</cr-number>
+    <cr-symbel>Si$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Solomon Islands</central-bank>
+    <capital-city>Honiara</capital-city>
+    <region>Melanesia</region>
+    <continent>Oceania</continent>
+    <population>559,198</population>
+    <area-km2>28,450</area-km2>
+    <gdp-usd>1.099 Billion</gdp-usd>
+  </country>
+  <country id="207" cc-ios-2="SO" m49-code="706" num-code="252">
+    <en-name>Somalia</en-name>
+    <name>Somalia</name>
+    <cc-ios-3>SOM</cc-ios-3>
+    <cr-name>Somali Shilling</cr-name>
+    <cr-code>SOS</cr-code>
+    <cr-number>706</cr-number>
+    <cr-symbel>Sh.so.</cr-symbel>
+    <subunit>Senti</subunit>
+    <central-bank>Central Bank of Somalia</central-bank>
+    <capital-city>Mogadishu</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>10,112,453</population>
+    <area-km2>637,657</area-km2>
+    <gdp-usd>2.372 Billion</gdp-usd>
+  </country>
+  <country id="208" cc-ios-2="ZA" m49-code="710" num-code="27">
+    <en-name>South Africa</en-name>
+    <name>South Africa</name>
+    <cc-ios-3>ZAF</cc-ios-3>
+    <cr-name>Rand</cr-name>
+    <cr-code>ZAR</cr-code>
+    <cr-number>710</cr-number>
+    <cr-symbel>R</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>South African Reserve Bank</central-bank>
+    <capital-city>Pretoria</capital-city>
+    <region>Southern Africa</region>
+    <continent>Africa</continent>
+    <population>49,000,000</population>
+    <area-km2>1,219,912</area-km2>
+    <gdp-usd>353.9 Billion</gdp-usd>
+  </country>
+  <country id="209" cc-ios-2="GS" m49-code="239" num-code="500">
+    <en-name>South Georgia and the South Sandwich Islands</en-name>
+    <name>South Georgia and the South Sandwich Islands</name>
+    <cc-ios-3>SGS</cc-ios-3>
+    <cr-name>Pound Sterling</cr-name>
+    <cr-code>GBP</cr-code>
+    <cr-number>826</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Bank of England</central-bank>
+    <capital-city>Grytviken</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>30</population>
+    <area-km2>3,903</area-km2>
+    <gdp-usd>0</gdp-usd>
+  </country>
+  <country id="119" cc-ios-2="KR" m49-code="410" num-code="82">
+    <en-name>South Korea</en-name>
+    <name>Korea (the Republic of south korea)</name>
+    <cc-ios-3>KOR</cc-ios-3>
+    <cr-name>Won</cr-name>
+    <cr-code>KRW</cr-code>
+    <cr-number>410</cr-number>
+    <cr-symbel>&#x20A9;</cr-symbel>
+    <subunit>Jeon</subunit>
+    <central-bank>Bank of Korea</central-bank>
+    <capital-city>Seoul</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>48,422,644</population>
+    <area-km2>98,480</area-km2>
+    <gdp-usd>1.198 Trillion</gdp-usd>
+  </country>
+  <country id="210" cc-ios-2="SS" m49-code="728" num-code="211">
+    <en-name>South Sudan</en-name>
+    <name>South Sudan</name>
+    <cc-ios-3>SSD</cc-ios-3>
+    <cr-name>South Sudanese Pound</cr-name>
+    <cr-code>SSP</cr-code>
+    <cr-number>728</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Piastre</subunit>
+    <central-bank>Bank of South Sudan</central-bank>
+    <capital-city>Juba</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>8,260,490</population>
+    <area-km2>644,329</area-km2>
+    <gdp-usd>11.77 Billion</gdp-usd>
+  </country>
+  <country id="211" cc-ios-2="ES" m49-code="724" num-code="34">
+    <en-name>Spain</en-name>
+    <name>Spain</name>
+    <cc-ios-3>ESP</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Madrid</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>46,505,963</population>
+    <area-km2>504,782</area-km2>
+    <gdp-usd>1.356 Trillion</gdp-usd>
+  </country>
+  <country id="212" cc-ios-2="LK" m49-code="144" num-code="94">
+    <en-name>Sri Lanka</en-name>
+    <name>Sri Lanka</name>
+    <cc-ios-3>LKA</cc-ios-3>
+    <cr-name>Sri Lanka Rupee</cr-name>
+    <cr-code>LKR</cr-code>
+    <cr-number>144</cr-number>
+    <cr-symbel>&#xDBB;&#xDD4;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Sri Lanka</central-bank>
+    <capital-city>Colombo</capital-city>
+    <region>Southern Asia</region>
+    <continent>Asia</continent>
+    <population>21,513,990</population>
+    <area-km2>65,610</area-km2>
+    <gdp-usd>65.12 Billion</gdp-usd>
+  </country>
+  <country id="213" cc-ios-2="SD" m49-code="729" num-code="249">
+    <en-name>Sudan</en-name>
+    <name>Sudan (the)</name>
+    <cc-ios-3>SDN</cc-ios-3>
+    <cr-name>Sudanese Pound</cr-name>
+    <cr-code>SDG</cr-code>
+    <cr-number>938</cr-number>
+    <cr-symbel>&#x62C;.&#x633;.</cr-symbel>
+    <subunit>Qirsh</subunit>
+    <central-bank>Central Bank of Sudan</central-bank>
+    <capital-city>Khartoum</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>35,000,000</population>
+    <area-km2>1,861,484</area-km2>
+    <gdp-usd>52.5 Billion</gdp-usd>
+  </country>
+  <country id="214" cc-ios-2="SR" m49-code="740" num-code="597">
+    <en-name>Suriname</en-name>
+    <name>Suriname</name>
+    <cc-ios-3>SUR</cc-ios-3>
+    <cr-name>Surinam Dollar</cr-name>
+    <cr-code>SRD</cr-code>
+    <cr-number>968</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Suriname</central-bank>
+    <capital-city>Paramaribo</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>492,829</population>
+    <area-km2>163,270</area-km2>
+    <gdp-usd>5.009 Billion</gdp-usd>
+  </country>
+  <country id="215" cc-ios-2="SJ" m49-code="744" num-code="47">
+    <en-name>Svalbard and Jan Mayen</en-name>
+    <name>Svalbard and Jan Mayen</name>
+    <cc-ios-3>SJM</cc-ios-3>
+    <cr-name>Norwegian Krone</cr-name>
+    <cr-code>NOK</cr-code>
+    <cr-number>578</cr-number>
+    <cr-symbel>Kr</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Norges Bank</central-bank>
+    <capital-city>Longyearbyen</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>2,550</population>
+    <area-km2>62,049</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="216" cc-ios-2="SE" m49-code="752" num-code="46">
+    <en-name>Sweden</en-name>
+    <name>Sweden</name>
+    <cc-ios-3>SWE</cc-ios-3>
+    <cr-name>Swedish Krona</cr-name>
+    <cr-code>SEK</cr-code>
+    <cr-number>752</cr-number>
+    <cr-symbel>kr</cr-symbel>
+    <subunit>&#xD8;re</subunit>
+    <central-bank>Sveriges Riksbank</central-bank>
+    <capital-city>Stockholm</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>9,555,893</population>
+    <area-km2>449,964</area-km2>
+    <gdp-usd>552 Billion</gdp-usd>
+  </country>
+  <country id="217" cc-ios-2="CH" m49-code="756" num-code="41">
+    <en-name>Switzerland</en-name>
+    <name>Switzerland</name>
+    <cc-ios-3>CHE</cc-ios-3>
+    <cr-name>Swiss Franc</cr-name>
+    <cr-code>CHF</cr-code>
+    <cr-number>947</cr-number>
+    <cr-symbel>CHf</cr-symbel>
+    <subunit>Rappen</subunit>
+    <central-bank>Swiss National Bank</central-bank>
+    <capital-city>Bern</capital-city>
+    <region>Western Europe</region>
+    <continent>Europe</continent>
+    <population>7,581,000</population>
+    <area-km2>41,290</area-km2>
+    <gdp-usd>646.2 Billion</gdp-usd>
+  </country>
+  <country id="218" cc-ios-2="SY" m49-code="760" num-code="963">
+    <en-name>Syria</en-name>
+    <name>Syrian Arab Republic (the)</name>
+    <cc-ios-3>SYR</cc-ios-3>
+    <cr-name>Syrian Pound</cr-name>
+    <cr-code>SYP</cr-code>
+    <cr-number>760</cr-number>
+    <cr-symbel>LS</cr-symbel>
+    <subunit>Piastre</subunit>
+    <central-bank>Central Bank of Syria</central-bank>
+    <capital-city>Damascus</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>22,198,110</population>
+    <area-km2>185,180</area-km2>
+    <gdp-usd>64.7 Billion</gdp-usd>
+  </country>
+  <country id="219" cc-ios-2="TW" m49-code="000" num-code="886">
+    <en-name>Taiwan</en-name>
+    <name>Taiwan (Province of China)</name>
+    <cc-ios-3>TWN</cc-ios-3>
+    <cr-name>New Taiwan Dollar</cr-name>
+    <cr-code>TWD</cr-code>
+    <cr-number>901</cr-number>
+    <cr-symbel>NT$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of the Republic of China (Taiwan)</central-bank>
+    <capital-city>Taipei</capital-city>
+    <region>Eastern Asia</region>
+    <continent>Asia</continent>
+    <population>22,894,384</population>
+    <area-km2>35,980</area-km2>
+    <gdp-usd>484.7 Billion</gdp-usd>
+  </country>
+  <country id="220" cc-ios-2="TJ" m49-code="762" num-code="992">
+    <en-name>Tajikistan</en-name>
+    <name>Tajikistan</name>
+    <cc-ios-3>TJK</cc-ios-3>
+    <cr-name>Somoni</cr-name>
+    <cr-code>TJS</cr-code>
+    <cr-number>972</cr-number>
+    <cr-symbel>&#x405;&#x41C;</cr-symbel>
+    <subunit>Diram</subunit>
+    <central-bank>National Bank of Tajikistan</central-bank>
+    <capital-city>Dushanbe</capital-city>
+    <region>Central Asia</region>
+    <continent>Asia</continent>
+    <population>7,487,489</population>
+    <area-km2>143,100</area-km2>
+    <gdp-usd>8.513 Billion</gdp-usd>
+  </country>
+  <country id="221" cc-ios-2="TZ" m49-code="834" num-code="255">
+    <en-name>Tanzania</en-name>
+    <name>Tanzania, the United Republic of</name>
+    <cc-ios-3>TZA</cc-ios-3>
+    <cr-name>Tanzanian Shilling</cr-name>
+    <cr-code>TZS</cr-code>
+    <cr-number>834</cr-number>
+    <cr-symbel>TSh</cr-symbel>
+    <subunit>Senti</subunit>
+    <central-bank>Bank of Tanzania</central-bank>
+    <capital-city>Dodoma</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>41,892,895</population>
+    <area-km2>945,087</area-km2>
+    <gdp-usd>31.94 Billion</gdp-usd>
+  </country>
+  <country id="222" cc-ios-2="TH" m49-code="764" num-code="66">
+    <en-name>Thailand</en-name>
+    <name>Thailand</name>
+    <cc-ios-3>THA</cc-ios-3>
+    <cr-name>Baht</cr-name>
+    <cr-code>THB</cr-code>
+    <cr-number>764</cr-number>
+    <cr-symbel>&#xE3F;</cr-symbel>
+    <subunit>Satang</subunit>
+    <central-bank>Bank of Thailand</central-bank>
+    <capital-city>Bangkok</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>67,089,500</population>
+    <area-km2>514,000</area-km2>
+    <gdp-usd>400.9 Billion</gdp-usd>
+  </country>
+  <country id="223" cc-ios-2="TL" m49-code="626" num-code="670">
+    <en-name>Timor Leste</en-name>
+    <name>Timor-Leste</name>
+    <cc-ios-3>TLS</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Dili</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>1,154,625</population>
+    <area-km2>15,007</area-km2>
+    <gdp-usd>6.129 Billion</gdp-usd>
+  </country>
+  <country id="224" cc-ios-2="TG" m49-code="768" num-code="228">
+    <en-name>Togo</en-name>
+    <name>Togo</name>
+    <cc-ios-3>TGO</cc-ios-3>
+    <cr-name>CFA Franc BCEAO</cr-name>
+    <cr-code>XOF</cr-code>
+    <cr-number>952</cr-number>
+    <cr-symbel>CAF</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Central Bank of West African States</central-bank>
+    <capital-city>Lome</capital-city>
+    <region>Western Africa</region>
+    <continent>Africa</continent>
+    <population>6,587,239</population>
+    <area-km2>56,785</area-km2>
+    <gdp-usd>4.299 Billion</gdp-usd>
+  </country>
+  <country id="225" cc-ios-2="TK" m49-code="772" num-code="690">
+    <en-name>Tokelau</en-name>
+    <name>Tokelau</name>
+    <cc-ios-3>TKL</cc-ios-3>
+    <cr-name>New Zealand Dollar</cr-name>
+    <cr-code>NZD</cr-code>
+    <cr-number>554</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of New Zealand</central-bank>
+    <capital-city>Nukunonu</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>1,466</population>
+    <area-km2>10</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="226" cc-ios-2="TO" m49-code="776" num-code="676">
+    <en-name>Tonga</en-name>
+    <name>Tonga</name>
+    <cc-ios-3>TON</cc-ios-3>
+    <cr-name>Pa&#x2019;anga</cr-name>
+    <cr-code>TOP</cr-code>
+    <cr-number>776</cr-number>
+    <cr-symbel>T$</cr-symbel>
+    <subunit>seniti</subunit>
+    <central-bank>National Reserve Bank of Tonga</central-bank>
+    <capital-city>Nuku'alofa</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>122,580</population>
+    <area-km2>748</area-km2>
+    <gdp-usd>477 Million</gdp-usd>
+  </country>
+  <country id="227" cc-ios-2="TT" m49-code="780" num-code="1-868">
+    <en-name>Trinidad and Tobago</en-name>
+    <name>Trinidad and Tobago</name>
+    <cc-ios-3>TTO</cc-ios-3>
+    <cr-name>Trinidad and Tobago Dollar</cr-name>
+    <cr-code>TTD</cr-code>
+    <cr-number>780</cr-number>
+    <cr-symbel>TT$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Central Bank of Trinidad and Tobago</central-bank>
+    <capital-city>Port of Spain</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>1,228,691</population>
+    <area-km2>5,128</area-km2>
+    <gdp-usd>27.13 Billion</gdp-usd>
+  </country>
+  <country id="228" cc-ios-2="TN" m49-code="788" num-code="216">
+    <en-name>Tunisia</en-name>
+    <name>Tunisia</name>
+    <cc-ios-3>TUN</cc-ios-3>
+    <cr-name>Tunisian Dinar</cr-name>
+    <cr-code>TND</cr-code>
+    <cr-number>788</cr-number>
+    <cr-symbel>&#x62F;.&#x62A;</cr-symbel>
+    <subunit>milim</subunit>
+    <central-bank>Central Bank of Tunisia</central-bank>
+    <capital-city>Tunis</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>10,589,025</population>
+    <area-km2>163,610</area-km2>
+    <gdp-usd>48.38 Billion</gdp-usd>
+  </country>
+  <country id="229" cc-ios-2="TR" m49-code="792" num-code="90">
+    <en-name>Turkey</en-name>
+    <name>Turkey</name>
+    <cc-ios-3>TUR</cc-ios-3>
+    <cr-name>Turkish Lira</cr-name>
+    <cr-code>TRY</cr-code>
+    <cr-number>949</cr-number>
+    <cr-symbel>&#x20BA;</cr-symbel>
+    <subunit>Kuru&#x15F;</subunit>
+    <central-bank>Central Bank of the Republic of Turkey</central-bank>
+    <capital-city>Ankara</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>77,804,122</population>
+    <area-km2>780,580</area-km2>
+    <gdp-usd>821.8 Billion</gdp-usd>
+  </country>
+  <country id="230" cc-ios-2="TM" m49-code="795" num-code="993">
+    <en-name>Turkmenistan</en-name>
+    <name>Turkmenistan</name>
+    <cc-ios-3>TKM</cc-ios-3>
+    <cr-name>Turkmenistan New Manat</cr-name>
+    <cr-code>TMT</cr-code>
+    <cr-number>934</cr-number>
+    <cr-symbel>m</cr-symbel>
+    <subunit>Tenge</subunit>
+    <central-bank>Central Bank of Turkmenistan</central-bank>
+    <capital-city>Ashgabat</capital-city>
+    <region>Central Asia</region>
+    <continent>Asia</continent>
+    <population>4,940,916</population>
+    <area-km2>488,100</area-km2>
+    <gdp-usd>40.56 Billion</gdp-usd>
+  </country>
+  <country id="231" cc-ios-2="TC" m49-code="796" num-code="1-649">
+    <en-name>Turks and Caicos Islands</en-name>
+    <name>Turks and Caicos Islands (the)</name>
+    <cc-ios-3>TCA</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Cockburn Town</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>20,556</population>
+    <area-km2>430</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="232" cc-ios-2="TV" m49-code="798" num-code="688">
+    <en-name>Tuvalu</en-name>
+    <name>Tuvalu</name>
+    <cc-ios-3>TUV</cc-ios-3>
+    <cr-name>Australian Dollar</cr-name>
+    <cr-code>AUD</cr-code>
+    <cr-number>36</cr-number>
+    <cr-symbel>A$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Reserve Bank of Australia</central-bank>
+    <capital-city>Funafuti</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>10,472</population>
+    <area-km2>26</area-km2>
+    <gdp-usd>38 Million</gdp-usd>
+  </country>
+  <country id="245" cc-ios-2="VI" m49-code="850" num-code="1-340">
+    <en-name>U.S. Virgin Islands</en-name>
+    <name>Virgin Islands (U.S.)</name>
+    <cc-ios-3>VIR</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Charlotte Amalie</capital-city>
+    <region>Caribbean</region>
+    <continent>North America</continent>
+    <population>108,708</population>
+    <area-km2>352</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="233" cc-ios-2="UG" m49-code="800" num-code="256">
+    <en-name>Uganda</en-name>
+    <name>Uganda</name>
+    <cc-ios-3>UGA</cc-ios-3>
+    <cr-name>Uganda Shilling</cr-name>
+    <cr-code>UGX</cr-code>
+    <cr-number>800</cr-number>
+    <cr-symbel>Ush</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Bank of Uganda</central-bank>
+    <capital-city>Kampala</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>33,398,682</population>
+    <area-km2>236,040</area-km2>
+    <gdp-usd>22.6 Billion</gdp-usd>
+  </country>
+  <country id="234" cc-ios-2="UA" m49-code="804" num-code="380">
+    <en-name>Ukraine</en-name>
+    <name>Ukraine</name>
+    <cc-ios-3>UKR</cc-ios-3>
+    <cr-name>Hryvnia</cr-name>
+    <cr-code>UAH</cr-code>
+    <cr-number>980</cr-number>
+    <cr-symbel>&#x20B4;</cr-symbel>
+    <subunit>kopiyka</subunit>
+    <central-bank>National Bank of Ukraine</central-bank>
+    <capital-city>Kyiv</capital-city>
+    <region>Eastern Europe</region>
+    <continent>Europe</continent>
+    <population>45,415,596</population>
+    <area-km2>603,700</area-km2>
+    <gdp-usd>175.5 Billion</gdp-usd>
+  </country>
+  <country id="235" cc-ios-2="AE" m49-code="784" num-code="971">
+    <en-name>United Arab Emirates</en-name>
+    <name>United Arab Emirates (the)</name>
+    <cc-ios-3>ARE</cc-ios-3>
+    <cr-name>UAE Dirham</cr-name>
+    <cr-code>AED</cr-code>
+    <cr-number>784</cr-number>
+    <cr-symbel>&#x62F;.&#x625;</cr-symbel>
+    <subunit>Fils</subunit>
+    <central-bank>Central Bank of the United Arab Emirates</central-bank>
+    <capital-city>Abu Dhabi</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>4,975,593</population>
+    <area-km2>82,880</area-km2>
+    <gdp-usd>390 Billion</gdp-usd>
+  </country>
+  <country id="236" cc-ios-2="GB" m49-code="826" num-code="44">
+    <en-name>United Kingdom</en-name>
+    <name>United Kingdom of Great Britain and Northern Ireland (the)</name>
+    <cc-ios-3>GBR</cc-ios-3>
+    <cr-name>Pound Sterling</cr-name>
+    <cr-code>GBP</cr-code>
+    <cr-number>826</cr-number>
+    <cr-symbel>&#xA3;</cr-symbel>
+    <subunit>Penny</subunit>
+    <central-bank>Bank of England</central-bank>
+    <capital-city>London</capital-city>
+    <region>Northern Europe</region>
+    <continent>Europe</continent>
+    <population>62,348,447</population>
+    <area-km2>244,820</area-km2>
+    <gdp-usd>2.49 Trillion</gdp-usd>
+  </country>
+  <country id="238" cc-ios-2="US" m49-code="840" num-code="1">
+    <en-name>United States</en-name>
+    <name>United States of America (the)</name>
+    <cc-ios-3>USA</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Washington</capital-city>
+    <region>Northern America</region>
+    <continent>North America</continent>
+    <population>310,232,863</population>
+    <area-km2>9,629,091</area-km2>
+    <gdp-usd>16.72 Trillion</gdp-usd>
+  </country>
+  <country id="237" cc-ios-2="UM" m49-code="581" num-code="1">
+    <en-name>United States Minor Outlying Islands</en-name>
+    <name>United States Minor Outlying Islands (the)</name>
+    <cc-ios-3>UMI</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>840</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Washington, D.C.</capital-city>
+    <region>Micronesia</region>
+    <continent>Oceania</continent>
+    <population>300</population>
+    <area-km2>34.2</area-km2>
+    <gdp-usd>13.914 Million</gdp-usd>
+  </country>
+  <country id="239" cc-ios-2="UY" m49-code="858" num-code="598">
+    <en-name>Uruguay</en-name>
+    <name>Uruguay</name>
+    <cc-ios-3>URY</cc-ios-3>
+    <cr-name>Uruguay Peso en Unidades Indexadas (URUIURUI)</cr-name>
+    <cr-code>UYI</cr-code>
+    <cr-number>940</cr-number>
+    <cr-symbel>$U</cr-symbel>
+    <subunit>Centesimo</subunit>
+    <central-bank>Central Bank of Uruguay</central-bank>
+    <capital-city>Montevideo</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>3,477,000</population>
+    <area-km2>176,220</area-km2>
+    <gdp-usd>57.11 Billion</gdp-usd>
+  </country>
+  <country id="240" cc-ios-2="UZ" m49-code="860" num-code="998">
+    <en-name>Uzbekistan</en-name>
+    <name>Uzbekistan</name>
+    <cc-ios-3>UZB</cc-ios-3>
+    <cr-name>Uzbekistan Sum</cr-name>
+    <cr-code>UZS</cr-code>
+    <cr-number>860</cr-number>
+    <cr-symbel>so'm</cr-symbel>
+    <subunit>Tiyin</subunit>
+    <central-bank>Central Bank of Uzbekistan</central-bank>
+    <capital-city>Tashkent</capital-city>
+    <region>Central Asia</region>
+    <continent>Asia</continent>
+    <population>27,865,738</population>
+    <area-km2>447,400</area-km2>
+    <gdp-usd>55.18 Billion</gdp-usd>
+  </country>
+  <country id="241" cc-ios-2="VU" m49-code="548" num-code="678">
+    <en-name>Vanuatu</en-name>
+    <name>Vanuatu</name>
+    <cc-ios-3>VUT</cc-ios-3>
+    <cr-name>Vatu</cr-name>
+    <cr-code>VUV</cr-code>
+    <cr-number>548</cr-number>
+    <cr-symbel>Vt</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Reserve Bank of Vanuatu</central-bank>
+    <capital-city>Port Vila</capital-city>
+    <region>Melanesia</region>
+    <continent>Oceania</continent>
+    <population>221,552</population>
+    <area-km2>12,200</area-km2>
+    <gdp-usd>828 Million</gdp-usd>
+  </country>
+  <country id="98" cc-ios-2="VA" m49-code="336" num-code="379">
+    <en-name>Vatican</en-name>
+    <name>Holy See (the)</name>
+    <cc-ios-3>VAT</cc-ios-3>
+    <cr-name>Euro</cr-name>
+    <cr-code>EUR</cr-code>
+    <cr-number>978</cr-number>
+    <cr-symbel>&#x20AC;</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>European Central Bank</central-bank>
+    <capital-city>Vatican City</capital-city>
+    <region>Southern Europe</region>
+    <continent>Europe</continent>
+    <population>921</population>
+    <area-km2>0</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="242" cc-ios-2="VE" m49-code="862" num-code="58">
+    <en-name>Venezuela</en-name>
+    <name>Venezuela (Bolivarian Republic of)</name>
+    <cc-ios-3>VEN</cc-ios-3>
+    <cr-name>Bolivar</cr-name>
+    <cr-code>VED</cr-code>
+    <cr-number>937</cr-number>
+    <cr-symbel>Bs F.</cr-symbel>
+    <subunit>none</subunit>
+    <central-bank>Central Bank of Venezuela</central-bank>
+    <capital-city>Caracas</capital-city>
+    <region>South America</region>
+    <continent>South America</continent>
+    <population>27,223,228</population>
+    <area-km2>912,050</area-km2>
+    <gdp-usd>367.5 Billion</gdp-usd>
+  </country>
+  <country id="243" cc-ios-2="VN" m49-code="704" num-code="84">
+    <en-name>Vietnam</en-name>
+    <name>Vietnam</name>
+    <cc-ios-3>VNM</cc-ios-3>
+    <cr-name>Dong</cr-name>
+    <cr-code>VND</cr-code>
+    <cr-number>704</cr-number>
+    <cr-symbel>&#x20AB;</cr-symbel>
+    <subunit>xu</subunit>
+    <central-bank>State Bank of Vietnam</central-bank>
+    <capital-city>Hanoi</capital-city>
+    <region>South-eastern Asia</region>
+    <continent>Asia</continent>
+    <population>89,571,130</population>
+    <area-km2>329,560</area-km2>
+    <gdp-usd>170 Billion</gdp-usd>
+  </country>
+  <country id="246" cc-ios-2="WF" m49-code="876" num-code="681">
+    <en-name>Wallis and Futuna</en-name>
+    <name>Wallis and Futuna</name>
+    <cc-ios-3>WLF</cc-ios-3>
+    <cr-name>CFP Franc</cr-name>
+    <cr-code>XPF</cr-code>
+    <cr-number>953</cr-number>
+    <cr-symbel>&#x20A3;</cr-symbel>
+    <subunit>Centime</subunit>
+    <central-bank>Institut d'&#xE9;mission d'outre-mer</central-bank>
+    <capital-city>Mata Utu</capital-city>
+    <region>Polynesia</region>
+    <continent>Oceania</continent>
+    <population>16,025</population>
+    <area-km2>274</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="247" cc-ios-2="EH" m49-code="732" num-code="212">
+    <en-name>Western Sahara</en-name>
+    <name>Western Sahara</name>
+    <cc-ios-3>ESH</cc-ios-3>
+    <cr-name>Moroccan Dirham</cr-name>
+    <cr-code>MAD</cr-code>
+    <cr-number>504</cr-number>
+    <cr-symbel>&#x62F;.&#x645;.</cr-symbel>
+    <subunit>centime</subunit>
+    <central-bank>Bank of Morocco</central-bank>
+    <capital-city>El-Aaiun</capital-city>
+    <region>Northern Africa</region>
+    <continent>Africa</continent>
+    <population>273,008</population>
+    <area-km2>266,000</area-km2>
+    <gdp-usd/>
+  </country>
+  <country id="248" cc-ios-2="YE" m49-code="887" num-code="967">
+    <en-name>Yemen</en-name>
+    <name>Yemen</name>
+    <cc-ios-3>YEM</cc-ios-3>
+    <cr-name>Yemeni Rial</cr-name>
+    <cr-code>YER</cr-code>
+    <cr-number>886</cr-number>
+    <cr-symbel>&#xFDFC;</cr-symbel>
+    <subunit>Fils</subunit>
+    <central-bank>Central Bank of Yemen</central-bank>
+    <capital-city>Sanaa</capital-city>
+    <region>Western Asia</region>
+    <continent>Asia</continent>
+    <population>23,495,361</population>
+    <area-km2>527,970</area-km2>
+    <gdp-usd>43.89 Billion</gdp-usd>
+  </country>
+  <country id="249" cc-ios-2="ZM" m49-code="894" num-code="260">
+    <en-name>Zambia</en-name>
+    <name>Zambia</name>
+    <cc-ios-3>ZMB</cc-ios-3>
+    <cr-name>Zambian Kwacha</cr-name>
+    <cr-code>ZMW</cr-code>
+    <cr-number>967</cr-number>
+    <cr-symbel>ZK</cr-symbel>
+    <subunit>ngwee</subunit>
+    <central-bank>Bank of Zambia</central-bank>
+    <capital-city>Lusaka</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>13,460,305</population>
+    <area-km2>752,614</area-km2>
+    <gdp-usd>22.24 Billion</gdp-usd>
+  </country>
+  <country id="250" cc-ios-2="ZW" m49-code="716" num-code="263">
+    <en-name>Zimbabwe</en-name>
+    <name>Zimbabwe</name>
+    <cc-ios-3>ZWE</cc-ios-3>
+    <cr-name>US Dollar</cr-name>
+    <cr-code>USD</cr-code>
+    <cr-number>932</cr-number>
+    <cr-symbel>$</cr-symbel>
+    <subunit>Cent</subunit>
+    <central-bank>Federal Reserve System</central-bank>
+    <capital-city>Harare</capital-city>
+    <region>Eastern Africa</region>
+    <continent>Africa</continent>
+    <population>11,651,858</population>
+    <area-km2>390,580</area-km2>
+    <gdp-usd>10.48 Billion</gdp-usd>
+  </country>
+  <time-zones>
+    <time-zone>Africa/Abidjan</time-zone>
+    <time-zone>Africa/Asmera</time-zone>
+    <time-zone>Africa/Blantyre</time-zone>
+    <time-zone>Africa/Ceuta</time-zone>
+    <time-zone>Africa/Douala</time-zone>
+    <time-zone>Africa/Johannesburg</time-zone>
+    <time-zone>Africa/Kinshasa</time-zone>
+    <time-zone>Africa/Lubumbashi</time-zone>
+    <time-zone>Africa/Mbabane</time-zone>
+    <time-zone>Africa/Niamey</time-zone>
+    <time-zone>Africa/Timbuktu</time-zone>
+    <time-zone>Africa/Accra</time-zone>
+    <time-zone>Africa/Bamako</time-zone>
+    <time-zone>Africa/Brazzaville</time-zone>
+    <time-zone>Africa/Conakry</time-zone>
+    <time-zone>Africa/El_Aaiun</time-zone>
+    <time-zone>Africa/Juba</time-zone>
+    <time-zone>Africa/Lagos</time-zone>
+    <time-zone>Africa/Lusaka</time-zone>
+    <time-zone>Africa/Mogadishu</time-zone>
+    <time-zone>Africa/Nouakchott</time-zone>
+    <time-zone>Africa/Tripoli</time-zone>
+    <time-zone>Africa/Addis_Ababa</time-zone>
+    <time-zone>Africa/Bangui</time-zone>
+    <time-zone>Africa/Bujumbura</time-zone>
+    <time-zone>Africa/Dakar</time-zone>
+    <time-zone>Africa/Freetown</time-zone>
+    <time-zone>Africa/Kampala</time-zone>
+    <time-zone>Africa/Libreville</time-zone>
+    <time-zone>Africa/Malabo</time-zone>
+    <time-zone>Africa/Monrovia</time-zone>
+    <time-zone>Africa/Ouagadougou</time-zone>
+    <time-zone>Africa/Tunis</time-zone>
+    <time-zone>Africa/Algiers</time-zone>
+    <time-zone>Africa/Banjul</time-zone>
+    <time-zone>Africa/Cairo</time-zone>
+    <time-zone>Africa/Dar_es_Salaam</time-zone>
+    <time-zone>Africa/Gaborone</time-zone>
+    <time-zone>Africa/Khartoum</time-zone>
+    <time-zone>Africa/Lome</time-zone>
+    <time-zone>Africa/Maputo</time-zone>
+    <time-zone>Africa/Nairobi</time-zone>
+    <time-zone>Africa/Porto-Novo</time-zone>
+    <time-zone>Africa/Windhoek</time-zone>
+    <time-zone>Africa/Asmara</time-zone>
+    <time-zone>Africa/Bissau</time-zone>
+    <time-zone>Africa/Casablanca</time-zone>
+    <time-zone>Africa/Djibouti</time-zone>
+    <time-zone>Africa/Harare</time-zone>
+    <time-zone>Africa/Kigali</time-zone>
+    <time-zone>Africa/Luanda</time-zone>
+    <time-zone>Africa/Maseru</time-zone>
+    <time-zone>Africa/Ndjamena</time-zone>
+    <time-zone>Africa/Sao_Tome</time-zone>
+    <time-zone>America/Adak</time-zone>
+    <time-zone>America/Antigua</time-zone>
+    <time-zone>America/Argentina/Catamarca</time-zone>
+    <time-zone>America/Argentina/Jujuy</time-zone>
+    <time-zone>America/Argentina/Rio_Gallegos</time-zone>
+    <time-zone>America/Argentina/San_Luis</time-zone>
+    <time-zone>America/Aruba</time-zone>
+    <time-zone>America/Atka</time-zone>
+    <time-zone>America/Barbados</time-zone>
+    <time-zone>America/Blanc-Sablon</time-zone>
+    <time-zone>America/Boise</time-zone>
+    <time-zone>America/Campo_Grande</time-zone>
+    <time-zone>America/Catamarca</time-zone>
+    <time-zone>America/Chicago</time-zone>
+    <time-zone>America/Cordoba</time-zone>
+    <time-zone>America/Cuiaba</time-zone>
+    <time-zone>America/Dawson</time-zone>
+    <time-zone>America/Detroit</time-zone>
+    <time-zone>America/Eirunepe</time-zone>
+    <time-zone>America/Fort_Wayne</time-zone>
+    <time-zone>America/Godthab</time-zone>
+    <time-zone>America/Grenada</time-zone>
+    <time-zone>America/Guayaquil</time-zone>
+    <time-zone>America/Havana</time-zone>
+    <time-zone>America/Indiana/Knox</time-zone>
+    <time-zone>America/Indiana/Tell_City</time-zone>
+    <time-zone>America/Indiana/Winamac</time-zone>
+    <time-zone>America/Iqaluit</time-zone>
+    <time-zone>America/Juneau</time-zone>
+    <time-zone>America/Knox_IN</time-zone>
+    <time-zone>America/Lima</time-zone>
+    <time-zone>America/Lower_Princes</time-zone>
+    <time-zone>America/Manaus</time-zone>
+    <time-zone>America/Matamoros</time-zone>
+    <time-zone>America/Menominee</time-zone>
+    <time-zone>America/Mexico_City</time-zone>
+    <time-zone>America/Monterrey</time-zone>
+    <time-zone>America/Montserrat</time-zone>
+    <time-zone>America/Nipigon</time-zone>
+    <time-zone>America/North_Dakota/Beulah</time-zone>
+    <time-zone>America/Ojinaga</time-zone>
+    <time-zone>America/Paramaribo</time-zone>
+    <time-zone>America/Port_of_Spain</time-zone>
+    <time-zone>America/Puerto_Rico</time-zone>
+    <time-zone>America/Recife</time-zone>
+    <time-zone>America/Rio_Branco</time-zone>
+    <time-zone>America/Santarem</time-zone>
+    <time-zone>America/Sao_Paulo</time-zone>
+    <time-zone>America/Sitka</time-zone>
+    <time-zone>America/St_Kitts</time-zone>
+    <time-zone>America/St_Vincent</time-zone>
+    <time-zone>America/Thule</time-zone>
+    <time-zone>America/Toronto</time-zone>
+    <time-zone>America/Virgin</time-zone>
+    <time-zone>America/Yakutat</time-zone>
+    <time-zone>America/Anchorage</time-zone>
+    <time-zone>America/Araguaina</time-zone>
+    <time-zone>America/Argentina/ComodRivadavia</time-zone>
+    <time-zone>America/Argentina/La_Rioja</time-zone>
+    <time-zone>America/Argentina/Salta</time-zone>
+    <time-zone>America/Argentina/Tucuman</time-zone>
+    <time-zone>America/Asuncion</time-zone>
+    <time-zone>America/Bahia</time-zone>
+    <time-zone>America/Belem</time-zone>
+    <time-zone>America/Boa_Vista</time-zone>
+    <time-zone>America/Buenos_Aires</time-zone>
+    <time-zone>America/Cancun</time-zone>
+    <time-zone>America/Cayenne</time-zone>
+    <time-zone>America/Chihuahua</time-zone>
+    <time-zone>America/Costa_Rica</time-zone>
+    <time-zone>America/Curacao</time-zone>
+    <time-zone>America/Dawson_Creek</time-zone>
+    <time-zone>America/Dominica</time-zone>
+    <time-zone>America/El_Salvador</time-zone>
+    <time-zone>America/Fortaleza</time-zone>
+    <time-zone>America/Goose_Bay</time-zone>
+    <time-zone>America/Guadeloupe</time-zone>
+    <time-zone>America/Guyana</time-zone>
+    <time-zone>America/Hermosillo</time-zone>
+    <time-zone>America/Indiana/Marengo</time-zone>
+    <time-zone>America/Indiana/Vevay</time-zone>
+    <time-zone>America/Indianapolis</time-zone>
+    <time-zone>America/Jamaica</time-zone>
+    <time-zone>America/Kentucky/Louisville</time-zone>
+    <time-zone>America/Kralendijk</time-zone>
+    <time-zone>America/Los_Angeles</time-zone>
+    <time-zone>America/Maceio</time-zone>
+    <time-zone>America/Marigot</time-zone>
+    <time-zone>America/Mazatlan</time-zone>
+    <time-zone>America/Merida</time-zone>
+    <time-zone>America/Miquelon</time-zone>
+    <time-zone>America/Montevideo</time-zone>
+    <time-zone>America/Nassau</time-zone>
+    <time-zone>America/Nome</time-zone>
+    <time-zone>America/North_Dakota/Center</time-zone>
+    <time-zone>America/Panama</time-zone>
+    <time-zone>America/Phoenix</time-zone>
+    <time-zone>America/Porto_Acre</time-zone>
+    <time-zone>America/Rainy_River</time-zone>
+    <time-zone>America/Regina</time-zone>
+    <time-zone>America/Rosario</time-zone>
+    <time-zone>America/Santiago</time-zone>
+    <time-zone>America/Scoresbysund</time-zone>
+    <time-zone>America/St_Barthelemy</time-zone>
+    <time-zone>America/St_Lucia</time-zone>
+    <time-zone>America/Swift_Current</time-zone>
+    <time-zone>America/Thunder_Bay</time-zone>
+    <time-zone>America/Tortola</time-zone>
+    <time-zone>America/Whitehorse</time-zone>
+    <time-zone>America/Yellowknife</time-zone>
+    <time-zone>America/Anguilla</time-zone>
+    <time-zone>America/Argentina/Buenos_Aires</time-zone>
+    <time-zone>America/Argentina/Cordoba</time-zone>
+    <time-zone>America/Argentina/Mendoza</time-zone>
+    <time-zone>America/Argentina/San_Juan</time-zone>
+    <time-zone>America/Argentina/Ushuaia</time-zone>
+    <time-zone>America/Atikokan</time-zone>
+    <time-zone>America/Bahia_Banderas</time-zone>
+    <time-zone>America/Belize</time-zone>
+    <time-zone>America/Bogota</time-zone>
+    <time-zone>America/Cambridge_Bay</time-zone>
+    <time-zone>America/Caracas</time-zone>
+    <time-zone>America/Cayman</time-zone>
+    <time-zone>America/Coral_Harbour</time-zone>
+    <time-zone>America/Creston</time-zone>
+    <time-zone>America/Danmarkshavn</time-zone>
+    <time-zone>America/Denver</time-zone>
+    <time-zone>America/Edmonton</time-zone>
+    <time-zone>America/Ensenada</time-zone>
+    <time-zone>America/Glace_Bay</time-zone>
+    <time-zone>America/Grand_Turk</time-zone>
+    <time-zone>America/Guatemala</time-zone>
+    <time-zone>America/Halifax</time-zone>
+    <time-zone>America/Indiana/Indianapolis</time-zone>
+    <time-zone>America/Indiana/Petersburg</time-zone>
+    <time-zone>America/Indiana/Vincennes</time-zone>
+    <time-zone>America/Inuvik</time-zone>
+    <time-zone>America/Jujuy</time-zone>
+    <time-zone>America/Kentucky/Monticello</time-zone>
+    <time-zone>America/La_Paz</time-zone>
+    <time-zone>America/Louisville</time-zone>
+    <time-zone>America/Managua</time-zone>
+    <time-zone>America/Martinique</time-zone>
+    <time-zone>America/Mendoza</time-zone>
+    <time-zone>America/Metlakatla</time-zone>
+    <time-zone>America/Moncton</time-zone>
+    <time-zone>America/Montreal</time-zone>
+    <time-zone>America/New_York</time-zone>
+    <time-zone>America/Noronha</time-zone>
+    <time-zone>America/North_Dakota/New_Salem</time-zone>
+    <time-zone>America/Pangnirtung</time-zone>
+    <time-zone>America/Port-au-Prince</time-zone>
+    <time-zone>America/Porto_Velho</time-zone>
+    <time-zone>America/Rankin_Inlet</time-zone>
+    <time-zone>America/Resolute</time-zone>
+    <time-zone>America/Santa_Isabel</time-zone>
+    <time-zone>America/Santo_Domingo</time-zone>
+    <time-zone>America/Shiprock</time-zone>
+    <time-zone>America/St_Johns</time-zone>
+    <time-zone>America/St_Thomas</time-zone>
+    <time-zone>America/Tegucigalpa</time-zone>
+    <time-zone>America/Tijuana</time-zone>
+    <time-zone>America/Vancouver</time-zone>
+    <time-zone>America/Winnipeg</time-zone>
+    <time-zone>Antarctica/Casey</time-zone>
+    <time-zone>Antarctica/McMurdo</time-zone>
+    <time-zone>Antarctica/Vostok</time-zone>
+    <time-zone>Antarctica/Davis</time-zone>
+    <time-zone>Antarctica/Palmer</time-zone>
+    <time-zone>Antarctica/DumontDUrville</time-zone>
+    <time-zone>Antarctica/Rothera</time-zone>
+    <time-zone>Antarctica/Macquarie</time-zone>
+    <time-zone>Antarctica/South_Pole</time-zone>
+    <time-zone>Antarctica/Mawson</time-zone>
+    <time-zone>Antarctica/Syowa</time-zone>
+    <time-zone>Arctic/Longyearbyen</time-zone>
+    <time-zone>Asia/Aden</time-zone>
+    <time-zone>Asia/Aqtobe</time-zone>
+    <time-zone>Asia/Baku</time-zone>
+    <time-zone>Asia/Calcutta</time-zone>
+    <time-zone>Asia/Dacca</time-zone>
+    <time-zone>Asia/Dushanbe</time-zone>
+    <time-zone>Asia/Hong_Kong</time-zone>
+    <time-zone>Asia/Jayapura</time-zone>
+    <time-zone>Asia/Kashgar</time-zone>
+    <time-zone>Asia/Krasnoyarsk</time-zone>
+    <time-zone>Asia/Macau</time-zone>
+    <time-zone>Asia/Nicosia</time-zone>
+    <time-zone>Asia/Phnom_Penh</time-zone>
+    <time-zone>Asia/Rangoon</time-zone>
+    <time-zone>Asia/Seoul</time-zone>
+    <time-zone>Asia/Tbilisi</time-zone>
+    <time-zone>Asia/Tokyo</time-zone>
+    <time-zone>Asia/Ust-Nera</time-zone>
+    <time-zone>Asia/Yerevan</time-zone>
+    <time-zone>Asia/Almaty</time-zone>
+    <time-zone>Asia/Ashgabat</time-zone>
+    <time-zone>Asia/Bangkok</time-zone>
+    <time-zone>Asia/Choibalsan</time-zone>
+    <time-zone>Asia/Damascus</time-zone>
+    <time-zone>Asia/Gaza</time-zone>
+    <time-zone>Asia/Hovd</time-zone>
+    <time-zone>Asia/Jerusalem</time-zone>
+    <time-zone>Asia/Kathmandu</time-zone>
+    <time-zone>Asia/Kuala_Lumpur</time-zone>
+    <time-zone>Asia/Magadan</time-zone>
+    <time-zone>Asia/Novokuznetsk</time-zone>
+    <time-zone>Asia/Pontianak</time-zone>
+    <time-zone>Asia/Riyadh</time-zone>
+    <time-zone>Asia/Shanghai</time-zone>
+    <time-zone>Asia/Tehran</time-zone>
+    <time-zone>Asia/Ujung_Pandang</time-zone>
+    <time-zone>Asia/Vientiane</time-zone>
+    <time-zone>Asia/Amman</time-zone>
+    <time-zone>Asia/Ashkhabad</time-zone>
+    <time-zone>Asia/Beirut</time-zone>
+    <time-zone>Asia/Chongqing</time-zone>
+    <time-zone>Asia/Dhaka</time-zone>
+    <time-zone>Asia/Harbin</time-zone>
+    <time-zone>Asia/Irkutsk</time-zone>
+    <time-zone>Asia/Kabul</time-zone>
+    <time-zone>Asia/Katmandu</time-zone>
+    <time-zone>Asia/Kuching</time-zone>
+    <time-zone>Asia/Makassar</time-zone>
+    <time-zone>Asia/Novosibirsk</time-zone>
+    <time-zone>Asia/Pyongyang</time-zone>
+    <time-zone>Asia/Saigon</time-zone>
+    <time-zone>Asia/Singapore</time-zone>
+    <time-zone>Asia/Tel_Aviv</time-zone>
+    <time-zone>Asia/Ulaanbaatar</time-zone>
+    <time-zone>Asia/Vladivostok</time-zone>
+    <time-zone>Asia/Anadyr</time-zone>
+    <time-zone>Asia/Baghdad</time-zone>
+    <time-zone>Asia/Bishkek</time-zone>
+    <time-zone>Asia/Chungking</time-zone>
+    <time-zone>Asia/Dili</time-zone>
+    <time-zone>Asia/Hebron</time-zone>
+    <time-zone>Asia/Istanbul</time-zone>
+    <time-zone>Asia/Kamchatka</time-zone>
+    <time-zone>Asia/Khandyga</time-zone>
+    <time-zone>Asia/Kuwait</time-zone>
+    <time-zone>Asia/Manila</time-zone>
+    <time-zone>Asia/Omsk</time-zone>
+    <time-zone>Asia/Qatar</time-zone>
+    <time-zone>Asia/Sakhalin</time-zone>
+    <time-zone>Asia/Taipei</time-zone>
+    <time-zone>Asia/Thimbu</time-zone>
+    <time-zone>Asia/Ulan_Bator</time-zone>
+    <time-zone>Asia/Yakutsk</time-zone>
+    <time-zone>Asia/Aqtau</time-zone>
+    <time-zone>Asia/Bahrain</time-zone>
+    <time-zone>Asia/Brunei</time-zone>
+    <time-zone>Asia/Colombo</time-zone>
+    <time-zone>Asia/Dubai</time-zone>
+    <time-zone>Asia/Ho_Chi_Minh</time-zone>
+    <time-zone>Asia/Jakarta</time-zone>
+    <time-zone>Asia/Karachi</time-zone>
+    <time-zone>Asia/Kolkata</time-zone>
+    <time-zone>Asia/Macao</time-zone>
+    <time-zone>Asia/Muscat</time-zone>
+    <time-zone>Asia/Oral</time-zone>
+    <time-zone>Asia/Qyzylorda</time-zone>
+    <time-zone>Asia/Samarkand</time-zone>
+    <time-zone>Asia/Tashkent</time-zone>
+    <time-zone>Asia/Thimphu</time-zone>
+    <time-zone>Asia/Urumqi</time-zone>
+    <time-zone>Asia/Yekaterinburg</time-zone>
+    <time-zone>Atlantic/Azores</time-zone>
+    <time-zone>Atlantic/Faroe</time-zone>
+    <time-zone>Atlantic/St_Helena</time-zone>
+    <time-zone>Atlantic/Bermuda</time-zone>
+    <time-zone>Atlantic/Jan_Mayen</time-zone>
+    <time-zone>Atlantic/Stanley</time-zone>
+    <time-zone>Atlantic/Canary</time-zone>
+    <time-zone>Atlantic/Madeira</time-zone>
+    <time-zone>Atlantic/Cape_Verde</time-zone>
+    <time-zone>Atlantic/Reykjavik</time-zone>
+    <time-zone>Atlantic/Faeroe</time-zone>
+    <time-zone>Atlantic/South_Georgia</time-zone>
+    <time-zone>Australia/ACT</time-zone>
+    <time-zone>Australia/Currie</time-zone>
+    <time-zone>Australia/Lindeman</time-zone>
+    <time-zone>Australia/Perth</time-zone>
+    <time-zone>Australia/Victoria</time-zone>
+    <time-zone>Australia/Adelaide</time-zone>
+    <time-zone>Australia/Darwin</time-zone>
+    <time-zone>Australia/Lord_Howe</time-zone>
+    <time-zone>Australia/Queensland</time-zone>
+    <time-zone>Australia/West</time-zone>
+    <time-zone>Australia/Brisbane</time-zone>
+    <time-zone>Australia/Eucla</time-zone>
+    <time-zone>Australia/Melbourne</time-zone>
+    <time-zone>Australia/South</time-zone>
+    <time-zone>Australia/Yancowinna</time-zone>
+    <time-zone>Australia/Broken_Hill</time-zone>
+    <time-zone>Australia/Hobart</time-zone>
+    <time-zone>Australia/North</time-zone>
+    <time-zone>Australia/Sydney</time-zone>
+    <time-zone>Australia/Canberra</time-zone>
+    <time-zone>Australia/LHI</time-zone>
+    <time-zone>Australia/NSW</time-zone>
+    <time-zone>Australia/Tasmania</time-zone>
+    <time-zone>Europe/Amsterdam</time-zone>
+    <time-zone>Europe/Berlin</time-zone>
+    <time-zone>Europe/Busingen</time-zone>
+    <time-zone>Europe/Guernsey</time-zone>
+    <time-zone>Europe/Kaliningrad</time-zone>
+    <time-zone>Europe/Luxembourg</time-zone>
+    <time-zone>Europe/Monaco</time-zone>
+    <time-zone>Europe/Podgorica</time-zone>
+    <time-zone>Europe/San_Marino</time-zone>
+    <time-zone>Europe/Stockholm</time-zone>
+    <time-zone>Europe/Vaduz</time-zone>
+    <time-zone>Europe/Warsaw</time-zone>
+    <time-zone>Europe/Andorra</time-zone>
+    <time-zone>Europe/Bratislava</time-zone>
+    <time-zone>Europe/Chisinau</time-zone>
+    <time-zone>Europe/Helsinki</time-zone>
+    <time-zone>Europe/Kiev</time-zone>
+    <time-zone>Europe/Madrid</time-zone>
+    <time-zone>Europe/Moscow</time-zone>
+    <time-zone>Europe/Prague</time-zone>
+    <time-zone>Europe/Sarajevo</time-zone>
+    <time-zone>Europe/Tallinn</time-zone>
+    <time-zone>Europe/Vatican</time-zone>
+    <time-zone>Europe/Zagreb</time-zone>
+    <time-zone>Europe/Athens</time-zone>
+    <time-zone>Europe/Brussels</time-zone>
+    <time-zone>Europe/Copenhagen</time-zone>
+    <time-zone>Europe/Isle_of_Man</time-zone>
+    <time-zone>Europe/Lisbon</time-zone>
+    <time-zone>Europe/Malta</time-zone>
+    <time-zone>Europe/Nicosia</time-zone>
+    <time-zone>Europe/Riga</time-zone>
+    <time-zone>Europe/Simferopol</time-zone>
+    <time-zone>Europe/Tirane</time-zone>
+    <time-zone>Europe/Vienna</time-zone>
+    <time-zone>Europe/Zaporozhye</time-zone>
+    <time-zone>Europe/Belfast</time-zone>
+    <time-zone>Europe/Bucharest</time-zone>
+    <time-zone>Europe/Dublin</time-zone>
+    <time-zone>Europe/Istanbul</time-zone>
+    <time-zone>Europe/Ljubljana</time-zone>
+    <time-zone>Europe/Mariehamn</time-zone>
+    <time-zone>Europe/Oslo</time-zone>
+    <time-zone>Europe/Rome</time-zone>
+    <time-zone>Europe/Skopje</time-zone>
+    <time-zone>Europe/Tiraspol</time-zone>
+    <time-zone>Europe/Vilnius</time-zone>
+    <time-zone>Europe/Zurich</time-zone>
+    <time-zone>Europe/Belgrade</time-zone>
+    <time-zone>Europe/Budapest</time-zone>
+    <time-zone>Europe/Gibraltar</time-zone>
+    <time-zone>Europe/Jersey</time-zone>
+    <time-zone>Europe/London</time-zone>
+    <time-zone>Europe/Minsk</time-zone>
+    <time-zone>Europe/Paris</time-zone>
+    <time-zone>Europe/Samara</time-zone>
+    <time-zone>Europe/Sofia</time-zone>
+    <time-zone>Europe/Uzhgorod</time-zone>
+    <time-zone>Europe/Volgograd</time-zone>
+    <time-zone>Indian/Antananarivo</time-zone>
+    <time-zone>Indian/Kerguelen</time-zone>
+    <time-zone>Indian/Reunion</time-zone>
+    <time-zone>Indian/Chagos</time-zone>
+    <time-zone>Indian/Mahe</time-zone>
+    <time-zone>Indian/Christmas</time-zone>
+    <time-zone>Indian/Maldives</time-zone>
+    <time-zone>Indian/Cocos</time-zone>
+    <time-zone>Indian/Mauritius</time-zone>
+    <time-zone>Indian/Comoro</time-zone>
+    <time-zone>Indian/Mayotte</time-zone>
+    <time-zone>Pacific/Apia</time-zone>
+    <time-zone>Pacific/Efate</time-zone>
+    <time-zone>Pacific/Galapagos</time-zone>
+    <time-zone>Pacific/Johnston</time-zone>
+    <time-zone>Pacific/Marquesas</time-zone>
+    <time-zone>Pacific/Noumea</time-zone>
+    <time-zone>Pacific/Ponape</time-zone>
+    <time-zone>Pacific/Tahiti</time-zone>
+    <time-zone>Pacific/Wallis</time-zone>
+    <time-zone>Pacific/Auckland</time-zone>
+    <time-zone>Pacific/Enderbury</time-zone>
+    <time-zone>Pacific/Gambier</time-zone>
+    <time-zone>Pacific/Kiritimati</time-zone>
+    <time-zone>Pacific/Midway</time-zone>
+    <time-zone>Pacific/Pago_Pago</time-zone>
+    <time-zone>Pacific/Port_Moresby</time-zone>
+    <time-zone>Pacific/Tarawa</time-zone>
+    <time-zone>Pacific/Yap</time-zone>
+    <time-zone>Pacific/Chatham</time-zone>
+    <time-zone>Pacific/Fakaofo</time-zone>
+    <time-zone>Pacific/Guadalcanal</time-zone>
+    <time-zone>Pacific/Kosrae</time-zone>
+    <time-zone>Pacific/Nauru</time-zone>
+    <time-zone>Pacific/Palau</time-zone>
+    <time-zone>Pacific/Rarotonga</time-zone>
+    <time-zone>Pacific/Tongatapu</time-zone>
+    <time-zone>Pacific/Chuuk</time-zone>
+    <time-zone>Pacific/Fiji</time-zone>
+    <time-zone>Pacific/Guam</time-zone>
+    <time-zone>Pacific/Kwajalein</time-zone>
+    <time-zone>Pacific/Niue</time-zone>
+    <time-zone>Pacific/Pitcairn</time-zone>
+    <time-zone>Pacific/Saipan</time-zone>
+    <time-zone>Pacific/Truk</time-zone>
+    <time-zone>Pacific/Easter</time-zone>
+    <time-zone>Pacific/Funafuti</time-zone>
+    <time-zone>Pacific/Honolulu</time-zone>
+    <time-zone>Pacific/Majuro</time-zone>
+    <time-zone>Pacific/Norfolk</time-zone>
+    <time-zone>Pacific/Pohnpei</time-zone>
+    <time-zone>Pacific/Samoa</time-zone>
+    <time-zone>Pacific/Wake</time-zone>
+  </time-zones>
+</countries>

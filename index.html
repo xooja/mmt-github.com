@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en" manifest="mani/first.appcache">
+<head>
+<?php
+  require "myphp.php";
+  $file = "users.xml";
+  if(!isset($_COOKIE["username"])) {
+    $username = "";
+  } else {
+    $username = $_COOKIE["username"];
+  }
+
+  $userdoc = new DOMDocument();
+  $userdoc->preserveWhiteSpace = false;
+  $userdoc->formatOutput = true;
+
+  if(isset($_COOKIE["username"])){
+    if(file_exists($file)){
+      $userdoc->load($file);
+
+      $xpath = new DOMXPath($userdoc);
+      $getuser = $xpath->query("user[@username='".$username."']")[0];
+      $startup = $getuser->getElementsByTagName("startup")[0]->nodeValue;
+      $shopname = $getuser->getElementsByTagName("name")[0]->nodeValue;
+      $shopnumber = $getuser->getElementsByTagName("num")[0]->nodeValue;
+      $shopaddress = $getuser->getElementsByTagName("address")[0]->nodeValue;
+      $userdir = $getuser->getElementsByTagName("dir")[0]->nodeValue;
+      $logostatus = $getuser->getElementsByTagName("logo")[0]->getAttributeNode("status")->nodeValue;
+      $config = 'Database/'.$userdir.'/config.xml';
+      if(!file_exists($config)){
+        $invoice = "inv/Default.html";
+      }else{
+        $configdoc = new newDoc();
+        $configfile = $configdoc->main($config);
+        $invtag = getTag($configfile,"invstyle");
+        if($invtag[0] == null){
+         $invoice = "inv/Default.html";
+        }else{
+         $invoice = $invtag[0]->nodeValue;
+        }
+      }
+    }
+  }
+?>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-control" content="No-Cache">
+    <title>Make Me Trader</title>
+    <link rel="stylesheet" href="this.css">
+    <script src="lib\table2excel.js"></script>
+    <style type="text/css" media="print">
+      .noprint{display: none;}
+      @page{
+        margin: 0 !important;
+        size:  A4 Portrait;
+      }
+    </style>
+</head>
+<body>
+  <div class="topnav" id='nav' style="visibility: hidden;">
+    <a class="collapse" title="Collapse"><img src="/pngs/bar.png"></a>
+    <a class="logo-holder" href="/" title="Reload"><img src="/pngs/home.png" alt="Home"><span class="logo-text">MMT</span></a>
+    <?php
+    if($username != ""){
+      echo '<a id="login" class="right">Logout</a>';
+      echo '<div id="loginForm" class="loginForm" style="display :none;">';
+      echo '<div style="padding: 0px 10px;display:grid;justify-content: center;">
+      <p id="error1" class="notify">Are you sure to logout</p>
+      <button id="submit" class="btn_2">OK</button>
+      </div>';
+    }
+    ?>
+  </div>
+</div>
+
+<!-- notification -->
+<div id="notifyhandler" class="noprint"></div>
+</div>
+
+<!-- loading -->
+<div class="loading-container">
+  <p>Loading...</p>
+  <div class="loader">
+    <div><div><div>
+      <div><div>
+        <div></div>
+      </div></div>
+    </div></div></div>
+  </div>
+</div>
+
+<!-- home -->
+  <div class="home" id="home" style="z-index:-2" style="visibility: hidden;">
+    <div class="sidebar" id="main">
+    <div class="g-signin2" data-onsuccess="onSignIn()" data-onfailure="onFailure"></div>
+      <a id="dashboard" class=" sidebar-active">
+        <span class="icon"><img src="/pngs/dashboard.png"></span>
+        <span class="content-text">Dashboard</span>
+      </a>
+      <div id="sidebar-block1" class="total-sidebar">
+        <a id="invoice">
+          <span class="icon"><img src="/pngs/bill.png"></span>
+          <span class="content-text">New Invoice</span>
+        </a>
+        <a id="purchaseInvoice">
+          <span class="icon"><img src="/pngs/pbill.png" alt=""></span>
+          <span class="content-text">Purchase Invoice</span>
+        </a>
+        <a id="returns">
+          <span class="icon"><img src="/pngs/return.png" alt=""></span>
+          <span class="content-text">Returns</span>
+        </a>
+        <a id="payments">
+          <span class="icon"><img src="/pngs/money.png" alt=""></span>
+          <span class="content-text">Payments</span>
+        </a>
+        <a id="itemsList">
+          <span class="icon"><img src="/pngs/itesms.png" alt=""></span>
+          <span class="content-text">Stack - Add Stack</span>
+        </a>
+        <a id="RCustomer">
+          <span class="icon"><img src="/pngs/cus.png" alt=""></span>
+          <span class="content-text">Customer - Companies</span>
+        </a>
+        <a id="employ">
+          <span class="icon"><img src="/pngs/employ.png" alt=""></span>
+          <span class="content-text">Employees</span>
+        </a>
+        <a id="records">
+          <span class="icon"><img src="/pngs/records.png" alt=""></span>
+          <span class="content-text">Records</span>
+        </a>
+        <a id="yourId">
+          <span class="icon"><img src="/pngs/profile.png" alt=""></span>
+          <span class="content-text">Profile</span>
+        </a>
+      </div>
+      <div id="sidebar-block2">
+      <a id="Settingtab">
+          <span class="icon"><img src="/pngs/setting.png" alt=""></span>
+          <span class="content-text">Setting</span>
+        </a>
+        <a id="helpPage">
+          <span class="icon"><img src="/pngs/help.png" alt=""></span>
+          <span class="content-text">Help</span>
+        </a>
+        <a>
+          <span class="icon"><img src="/pngs/info.png" alt=""></span>
+          <span class="content-text">About</span>
+        </a>
+        <a>
+          <span class="icon"><img src="/pngs/contact.png" alt=""></span>
+          <span class="content-text">Contact</span>
+        </a>
+      </div>
+    </div>
+    
+  <div class="window" id="window" style="visibility: hidden;">
+    <div id = "window_main" style="float: left;">
+        <a id="winTitle" style="display: none;">INVOICE No ###</a>
+      <div class="billBody printable" id="billBody" day="5" mon="5" year="10"> 
+        <h1>Hi Every One</h1>
+        <p id="demo">My name is Mudassar and i an full time web develper</p>
+      </div>
+    </div>
+    <div class="Rsidebar" style="float: left;">
+      
+    </div>
+  </div>
+  
+  <div class="noprint additional additional-less additional-mimi" style="visibility: hidden;">
+    <div class="grab">...<span>-</span></div>
+    <div class="iconholder">
+      <img src="/pngs/bill.png">
+      <img src="/pngs/pbill.png">
+      <img src="/pngs/itesms.png">
+      <img src="/pngs/records.png">
+    </div>
+    <div class="calculater">
+      <div class="displayer">
+          <input type="text" id="calculated" class="firstline" disabled value="0">
+          <input type="text" id="calculaterInput" class="secondline">
+      </div>
+      <div class="btnbody hidebtn">
+        <table>
+          <tr>
+            <td>/</td>
+            <td>*</td>
+            <td>-</td>
+            <td style="padding:0;">Bs</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+            <td rowspan="2">+</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td rowspan="2">=</td>
+          </tr>
+          <tr>
+            <td class="AC">AC</td>
+            <td>0</td>
+            <td>.</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div class="fold"><span>^</span></div>
+    <script>
+      
+    </script>
+  </div>
+  <div class="cowindow" id="popup" style="display: none;visibility: hidden;">
+    <div class="popup">
+      <a class="right C_Btn">&times;</a>
+      <div class="massageBox" id="alertBox" style="padding:15px">
+        <p>this is massage</p>
+      </div>
+      <div class ="popup_footer">
+        <a id = "OK" class="btn_2 circle" style="background:red;">OK</a>
+        <button id="Cancel" class="btn_2 circle">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div id = "menustrip" class="contextmenustrip">
+  <div class="para">Eidt</div>
+  <div class="para">Delete</div>
+</div>
+<div id="printHandle" class="prthan" style="display: none; background-color:white">
+  <?php 
+    if(isset($_COOKIE["username"])){
+      if(file_exists($file)){
+      require $invoice;
+      }
+    }
+  ?>
+</div>
+<style>
+  .sheading{
+    font-weight: 600;
+  }
+  .Btnleft, .Btnright, .sheading{
+    text-align: center;
+  }
+  .Btnleft, .Btnright{
+    padding: 15px 0;
+    cursor: pointer;
+    border-top: 1px solid lightgray;
+    background-color: white;
+    color: #333;
+    user-select: none;
+  }
+  .Btnright{
+    background-color: red;
+    color: white;
+  }
+  .Btnleft:hover, .Btnright:hover{
+    opacity: .5;
+  }
+  .Btnleft:active, .Btnright:active{
+    opacity: .0;
+  }
+  .alertbody .hand{
+    text-align: center;
+    padding: 5px 0;
+  }
+  .alertbody .time{
+    color: white;
+    text-align: left;
+    padding: 5px 0;
+    text-align: center;
+  }
+  
+</style>
+
+<div class="cowindow" id="customerDetail" style="display: none;">
+  <div class="cowincontent" style="background-color:#333;color:white; width: 400px;--name : cowindow2;border-color:black">
+    <div class="btopnav" style="text-align: center;padding:10px 0;">
+        Time Alert
+    </div>
+    <div class="hand alertbody" style="padding:10px 0;">
+      <div class="sheading">Wellcome again <?php echo $name; ?></div>
+      <div class="hand">Are your sure you are using the app after <strong id="dayscount"></strong> days</div>
+      <div class="hand">
+        <div class="subcon time">App close time : <strong id="lastclose"></strong></div>
+        <div class="subcon time">And time now : <strong id="timenow"></strong></div>
+      </div>
+    </div>
+    <div class="hand">
+      <div class="subcon Btnleft">Cancel</div>
+      <div class="subcon Btnright" id="timeok">OK</div>
+    </div>
+</div>
+
+</body>
+<script src="this.js"></script>
+<script src="sw/main.js"></script>
+</html>

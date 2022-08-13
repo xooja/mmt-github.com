@@ -1,0 +1,151 @@
+<style>
+.items{
+    width: 98%;
+}
+.itemshead{
+    background:white;
+    color: #333;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 1px 2px 10px #b7b7b7;
+}
+.items h3 {
+     display: inline-block;
+     text-align: center;
+     margin: 0px;
+ }
+ #searchitems{
+    float: right;
+    background-image: url(check.png);
+    background-color: #00000000;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: none;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+ }
+ #searchitems:focus{
+     width: 200px;
+     background-color: white;
+     background-image: none;
+     border: 1px solid rgba(0, 204, 255, 0.63);
+     outline: none;
+     cursor: text;
+     transition: 0.3s;
+ }
+ .subtabbtn{
+     width: 50%;
+ }
+ .purchase td input{
+        width: 100%;
+    }
+.purchase td button{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: -10px;
+    border: none;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+}
+.purchase td button:active{
+    color: black;
+    background-color: white;
+    border: 1px solid #333;
+}
+.topnav-for-inner-button{
+    width: 49.99%;
+}
+</style>
+<div class="items" id="items">
+    <div class="heading">
+        Total items in Shop <input type="text" id='searchitems' tabindex="1" class="search-input">
+    </div>
+    
+    <div class="hand topnav-for-inner">
+        <div class="topnav-for-inner-button subactive" id="itemlistbtn">Items list</div>
+        <div class="topnav-for-inner-button" id="additembtn">Add items</div>
+    </div>
+    <div class="hand"><button class="btn_2" id="saveiteminexcel">Save to execl</button></div>
+    <div class="hand" id="itemslist">
+        <table>
+            <tbody id="itemstable">
+                <tr>
+                <th class="left"></th>
+                <th>Last update</th>
+                <th>Item Name</th>
+                <th>Quantity</th>
+                <th>Qun left</th>
+                <th>Sale Rate</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="hand" id="additems" style="display:none;">
+        <div class="danger">
+            <strong>Note!</strong> Please don't add items here if you purchase new. Here add only missing items if you could not add in startup page otherwise create a new purchase invoice check on home page.
+        </div>
+        <div class="purchase">
+            <table>
+                <tbody id="updatetable">
+                    <tr>
+                    <th class="left"></th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>Amount</th>
+                    </tr>
+                </tbody>
+                </table>
+    
+            <div class="header noprint">
+                <div class="suggest_input" style="margin: 0px;">
+                    <input type="text" id="Item_name" placeholder="Item name..." autocomplete="off" tabindex="1">
+                    <div id="autosuggest_list">
+                    </div>
+                </div>
+                <table>
+                    <tr>
+                        <td>Quantity</td>
+                        <td>Unit</td>
+                        <td>Purchase Rate</td>
+                        <td>Hole Sale Rate</td>
+                        <td>Normal Rate</td>
+                        <td rowspan="2">
+                            <button id="action" tabindex="7">Add</button>
+                            <button id="actionupdate" style="display: none;" tabindex="7">Update</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input type="number" id="quantity" tabindex="2"></td>
+                        <td><input type="text" id="quantityunit" list="unitlist" tabindex="3">
+                            <datalist id="unitlist">
+                                <option value="KG"></option>
+                                <option value="Gram"></option>
+                                <option value="Pack"></option>
+                                <option value="Liter"></option>
+                                <option value="Bundle"></option>
+                                <option value="Dozen"></option>
+                            </datalist>
+                        </td>
+                        <td><input type="number" id="PurchaseRate" tabindex="4"></td>
+                        <td><input type="number" id="HoleSaleRate" tabindex="5"></td>
+                        <td><input type="number" id="NormalRate" tabindex="6"></td>          
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="hand">
+            <div class="subcon"></div>
+            <div class="subcon placeholder">
+                <input type="text" id="totalAmount" placeholder="Total" disabled>
+            </div>
+        </div>
+        <div class="hand">
+            <button id="updateitems" class="btn_2" tabindex="8">Update List</button>
+        </div>
+    </div>
+</div>

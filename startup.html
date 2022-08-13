@@ -1,0 +1,273 @@
+<style>
+    .startup{
+        width: 100%;
+        margin: auto;
+    }
+    .purchase td input{
+        width: 100%;
+    }
+    .purchase td button{
+        width: 60px;
+        height: 50px;
+        border-radius: 10px;
+        margin-bottom: -10px;
+        border: none;
+        cursor: pointer;
+        background-color: #333;
+        color: white;
+    }
+    .purchase td button:active{
+        color: black;
+        background-color: white;
+        border: 1px solid #333;
+    }
+
+</style>
+
+<div class="startup">
+    <div class="heading">
+       Business startup setting <input type="text" id='searchitems' class='searchitems search-input'>
+    </div>
+    <div class="para">
+        Add some items for start your business recording
+    </div>
+    <div class="purchase">
+        <table>
+            <tbody id="itemstable">
+                <tr>
+                <th class="left"></th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Amount</th>
+                </tr>
+            </tbody>
+            </table>
+
+        <div class="margin10px header noprint">
+            <div class="suggest_input" style="margin: 0px;">
+                <input type="text" id="Item_name" placeholder="Item name..." tabindex="1" autocomplete="off" autofocus>
+                <div id="autosuggest_list">
+                </div>
+            </div>
+            <table>
+                <tr>
+                    <td>Quantity</td>
+                    <td>Unit</td>
+                    <td>Purchase Rate</td>
+                    <td>Hole Sale Rate</td>
+                    <td>Normal Rate</td>
+                    <td rowspan="2">
+                        <button id="action" tabindex="7">Add</button>
+                        <button id="actionupdate" style="display: none;" tabindex="7">Update</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="number" id="quantity" tabindex="2"></td>
+                    <td><input type="text" id="quantityunit" list="unitlist" tabindex="3">
+                        <datalist id="unitlist">
+                            <option value="KG"></option>
+                            <option value="Gram"></option>
+                            <option value="Pack"></option>
+                            <option value="Liter"></option>
+                            <option value="Bundle"></option>
+                            <option value="Dozen"></option>
+                        </datalist>
+                    </td>
+                    <td><input type="number" id="PurchaseRate" tabindex="4"></td>
+                    <td><input type="number" id="HoleSaleRate" tabindex="5"></td>
+                    <td><input type="number" id="NormalRate" tabindex="6"></td>          
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="hand">
+        <div class="subcon"></div>
+        <div class="subcon placeholder">
+            <input type="text" id="totalAmount" disabled><span class="before">Total</span>
+        </div>
+    </div>
+    <div class="para">
+        Add assets details if you have.For example (rack,vehical etc)
+        <input type="text" id='searchast' class='searchitems search-input'>
+    </div>
+    <div class="purchase">
+        <table>
+            <tbody id="assettable">
+                <tr>
+                <th class="left"></th>
+                <th>Asset Detail</th>
+                <th>Amount</th>
+                </tr>
+            </tbody>
+            </table>
+
+        <div class="header noprint">
+            <div class="suggest_input" style="margin: 0px;">
+                <input type="text" id="ast_name" placeholder="Asset detail" autocomplete="off" tabindex="8">
+            </div>
+            <table>
+                <tr>
+                    <td>Purchase Rate</td>
+                    <td rowspan="2">
+                        <button id="addast" tabindex="10">Add</button>
+                        <button id="updateast" style="display: none;" tabindex="10">Update</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="number" id="astPurRate" tabindex="9"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    
+    <div class="hand">
+        <div class="subcon"></div>
+        <div class="subcon placeholder">
+            <input type="text" id="totalastAmount" disabled><span class="before">Total</span>
+        </div>
+    </div>
+
+    <div class="para">
+        Please add some of your net cash details that you have right now
+    </div>
+    <div class="hand">
+        <div class="subcon"></div>
+        <div class="subcon placeholder">
+            <input type="number" id="TNC" value=""><span class="before">Total net cash</span>
+        </div>
+    </div>
+
+    <div class="para">
+        Check the box and add some credit details if you have in market or customers right now 
+        <input type="checkbox" id="Creditinmarket">
+    </div>
+    <div id="cwcm" style="display: none;">
+        <div class="CCtabCon w100" id="customerTab">
+            <div class="subcon"></div>
+            <div class="subcon"><button class="btn_2" id="Addcus">Add Customer</button></div>
+            <table>
+                <tbody id="custable">
+                  <tr>
+                    <th class="left"></th>
+                    <th>Last update</th>
+                    <th>Name</th>
+                    <th>Number</th>
+                    <th>Credit Amount</th>
+                    <th>Limit</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="hand">
+            <div class="subcon"></div>
+            <div class="subcon placeholder">
+                <input type="number" id="totalCreditCustomers" value="0" disabled><span class="before">Total</span>
+            </div>
+        </div>
+    </div>
+    <div class="para">
+        Check the box and add some credit details if you have with Companies or sellers right now 
+        <input type="checkbox" id="Creditwithsellers">
+    </div>
+    <div id="cwcs" style="display: none;">
+        <div class="CCtabCon w100" id="companiesTab">
+            <div class="subcon"></div>
+            <div class="subcon"><button class="btn_2" id="Addcom">Add Company</button></div>
+            <table>
+                <tbody id="Comtable">
+                  <tr>
+                    <th class="left"></th>
+                    <th>Last update</th>
+                    <th>Name</th>
+                    <th>Number</th>
+                    <th>Payable Amount</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="hand">
+            <div class="subcon"></div>
+            <div class="subcon placeholder">
+                <input type="number" id="totalCreditCompanies" value="0" disabled><span class="before">Total</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="hand">
+        <button id="letstart" class="btn_2">Let start</button>
+    </div>
+</div>
+
+<div class="cowindow" id="customerDetail" style="display: none;">
+    <div class="cowincontent">
+        <div class="btopnav">
+            <a>Add Customer Details</a>
+            <a class="close right">&times;</a>
+        </div>
+            <div class="content">
+                <div class="hand">
+                    <div class="subcon placeholder">
+                        <input type="text" id="CusName" value=""><span class="before">Customer name</span>
+                    </div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="CusNum"><span class="before">Customer Number</span>
+                    </div>
+                </div>
+                <div class="hand">
+                    <div class="subcon placeholder">
+                        <input type="text" id="Cusadd"><span class="before">Customer Address</span>
+                    </div>
+                    <div class="subcon placeholder">
+                        <input type="number" id="Cuslimit"><span class="before">Credit Limit</span>
+                    </div>
+                </div>
+                <div class="hand">
+                    <div class="subcon placeholder">
+                        <input type="number" id="CusCredit"><span class="before">Current Credit</span>
+                    </div>
+                </div>
+            <div class="subcon"></div>
+            <div class="subcon">
+                <button class="btn_2" id="addCustomer">Add</button>
+                <button class="btn_2" id="updCustomer" style="display: none;">Update</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="cowindow" id="companyDetail" style="display: none;">
+    <div class="cowincontent">
+        <div class="btopnav">
+            <a>Add Company Details</a>
+            <a class="close right">&times;</a>
+        </div>
+            <div class="content">
+                <div class="hand">
+                    <div class="subcon placeholder">
+                        <input type="text" id="ComName"><span class="before">Company name</span>
+                    </div>
+                    <div class="subcon placeholder">
+                        <input type="text" id="ComNum"><span class="before">Company Number</span>
+                    </div>
+                </div>
+                <div class="hand">
+                    <div class="subcon placeholder">
+                        <input type="text" id="Comadd"><span class="before">Company Address</span>
+                    </div>
+                    <div class="subcon placeholder">
+                        <input type="number" id="ComCredit"><span class="before">Current Credit</span>
+                    </div>
+                </div>
+            
+            <div class="subcon"></div>
+            <div class="subcon">
+                <button class="btn_2" id="addCompany">Add</button>
+                <button class="btn_2" id="updCompany" style="display: none;">Update</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+
+</script>

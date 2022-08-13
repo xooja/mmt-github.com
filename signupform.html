@@ -1,0 +1,201 @@
+<style>
+.top-verse {
+    overflow: hidden;
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin: 0 0 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    font-family: system-ui;
+    z-index: 5;
+}
+.gender{
+    margin: 5px 10px;
+    padding: 10px 10px 15px;
+    border-radius: 5px;
+    background: #ededed;
+    border: 1px solid lightgray;
+}
+.signupform hr {
+    margin: 15px 15px 5px;
+    border: 2px dotted #333333;
+}
+.step-0 span{
+    font-size: xx-large;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-top: 25px;
+    color: #fb3737;
+}
+
+</style>
+<div class="WinMain">
+    <div class="top-verse">
+        <urdu style="font-size: 24px;">
+            جو تاجر قیمتیں بڑھانے کے لیے مال روک رکھے وہ ملعون ہے۔(القران)
+        </urdu>
+        <div class="hand">A bussiness man who's withhold goods to rise prices is cursed (Al Quran)</div>
+    </div>
+    <div class="background-image">
+        <div id="loginform" class="loginform">
+            <Form>
+                <label-heading>Login to your account</label-heading>
+                <div class=" placeholder" reqr>
+                    <input type="text" id="username">
+                    <span class="before">User Name</span>
+                </div>
+                <div class=" placeholder" reqr>
+                    <input type="Password" id="password" title = "Presss F2 to show password">
+                    <span class="before">Password</span>
+                </div>
+            </Form>
+            <div class="subcon">
+            </div>
+            <div class="subcon">
+                <button id="submit" class="btn right">Login</button>
+            </div>
+        </div>
+    </div>
+    <div id="signupform" class="cowindow" id="popup" style="display: non;overflow: auto;">
+        <div class="hand" style="height: 30px;">
+            <a id="closeSignup" class="right C_Btn" style="font-size: 50px;">&times;</a>
+        </div>
+        <div class="signupform">
+            <div class="myloader" id="signloader"></div>
+            <form id="formsignup">
+                <div class="acctype-radio">
+                    <fieldset>
+                        <legend>Select Account Type</legend>
+                        <br>
+                        <input type="radio" name="accountType" id="tdrAcc">
+                        <label for="tdrAcc">Trader Account</label>
+                        <input type="radio" name="accountType" id="manuAcc">
+                        <label for="manuAcc">Manufacturer Account</label>
+                        <input type="radio" name="accountType" id="serAcc">
+                        <label for="serAcc">Servicer Account</label>
+                    </fieldset>
+                </div>
+                <hr>
+                <div class="hand step-0" style="display: none;">
+                    <span class="middel-massage">This account is not available yet</span>
+                </div>
+                <div class="hand step-1" style="display: none;">
+                    <div class="hand">
+                        <div class="subcon placeholder suggest_input_mini" reqr>
+                            <input type="text" id="country" name="country">
+                            <span class="before">Country</span>
+                            <div id="suggestCountry">
+                            </div>
+                        </div>
+                        <div class="subcon placeholder suggest_input_mini" reqr>
+                            <input type="text" id="currency" name="currency">
+                            <span class="before">Currency</span>
+                            <div id="suggestCurrency">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder suggest_input_mini" reqr>
+                            <input type="text" id="timeZone" name="timeZone">
+                            <span class="before">Time Zone</span>
+                            <div id="suggestZone">
+                            </div>
+                        </div>
+                        <div class="subcon">
+                            <select name="accLevel" id="accLevel">
+                                <option disabled selected>Select business level</option>
+                                <option value="International">International level</option>
+                                <option value="Country">Country level</option>
+                                <option value="State">State level</option>
+                                <option value="City">City level</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="hand step-2" style="display: none;">
+                        <div class="hand" style="overflow:hidden;height: 60px;width: 100%;">
+                            <div class="subcon placeholder" reqr>
+                                <input type="text" id="Bname" name="Bname">
+                                <span class="before">Business Name</span>
+                            </div>
+                            <div class="subcon placeholder" reqr>
+                                <input type="text" id="Yname" name="name">
+                                <span class="before">Your Name</span>
+                            </div>
+                        </div>
+                        <fieldset class="gender">
+                            <legend>Select gender</legend>
+                            <input type="radio" name="gender" id="male">
+                            <label for="male">Male</label>
+                            <input type="radio" name="gender" id="female">
+                            <label for="female">Female</label>
+                            <input type="radio" name="gender" id="other">
+                            <label for="other">Other</label>
+                        </fieldset>
+                        <div class="hand">
+                            <div class="subcon placeholder">
+                                <input type="text" id="Email" name="email">
+                                <span class="before">Email</span>
+                            </div>
+                            <div class="subcon placeholder" reqr>
+                                <input type="text" id="PhNo" name="num">
+                                <span class="before">Phone Number</span>
+                            </div>
+                        </div>
+                        <div class="hand">
+                            <div class="subcon placeholder" reqr>
+                                <input type="text" id="address" name="address">
+                                <span class="before">Full Business Address</span>
+                            </div>
+                            <div class="subcon placeholder" reqr>
+                                <input type="text" id="Uname" name="Uname">
+                                <span class="before">User Name</span>
+                            </div>
+                        </div>
+                        <div class="hand">
+                            <div class="subcon placeholder" reqr>
+                                <input type="password" id="password1" name="pass" title = "Presss F2 to show password">
+                                <span class="before">Password</span>
+                            </div>
+                            <div class="subcon placeholder" reqr>
+                                <input type="password" id="password2" title = "Presss F2 to show password">
+                                <span class="before">Rewrite Password</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>        
+            </form>
+            <div class="hand step-3" style="display: none;">
+                <div class="subcon">
+                </div>
+                <div class="subcon">
+                    <button id="createIdinform" class="btn right">Sign up</button>
+                    <button id="submitinform" class="btn right">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hand">
+        <div class="s-subcon">
+            <div class="s-heading">Trader Account</div>
+            <div class="s-para">
+                &nbsp;&nbsp;&nbsp; lets start with trader account for a better business record purchase and sale histry and your bussiness analytics
+            </div>
+            <button id="createId" class="s-btn">Sign up with trader account</button>
+        </div>
+        <div class="s-subcon">
+            <div class="s-heading">Manufacturer Account</div>
+            <div class="s-para">
+                &nbsp;&nbsp;&nbsp;lets start with manufacturer account for a better bussiness record manufacture and sale histry and your bussiness analytics                
+            </div>
+            <button id="createIdManu" class="s-btn">Sign up manufacturer account</button>
+        </div>
+        <div class="s-subcon">
+            <div class="s-heading">Servicer Account</div>
+            <div class="s-para">
+                &nbsp;&nbsp;&nbsp;lets start with service bussiness account for record customers services histry and your services analytics                
+            </div>
+            <button id="createIdManu" class="s-btn">Sign up service bussiness account</button>
+        </div>
+    </div>
+</div>

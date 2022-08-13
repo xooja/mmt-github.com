@@ -1,0 +1,68 @@
+<div class="w100">
+    <div class="w100">
+        <div class="subcon"></div>
+        <div class="subcon">
+            <button class="btn_2" id="AddEmp">Add Employ</button>
+        </div>
+        <table>
+            <tbody id="custable">
+            <tr>
+                <th class="left"></th>
+                <th>Joined</th>
+                <th>Name</th>
+                <th>Destination</th>
+                <th>W-Hours</th>
+                <th>Contact</th>
+                <th>Address</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="cowindow" id="EmpDetail" style="display: none;">
+        <div class="cowincontent" style="--name : cowindow">
+            <div class="btopnav">
+                <a>Add Employ Details</a>
+                <a class="close right C_Btn">&times;</a>
+            </div>
+                <div class="content">
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="EmpName" value="">
+                            <span class="before">Employ name</span>
+                        </div>
+                        <div class="subcon placeholder">
+                            <input type="text" id="EmpNum">
+                            <span class="before">Employ contact number</span>
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="text" id="Empadd">
+                            <span class="before">Employ address</span>
+                        </div>
+                        <div class="subcon">
+                            <select id="selectDest" style="color: black;">
+                                <option selected disabled>Select Destination</option>
+                                <option value="orderTaker">Order Taker</option>
+                                <option value="custom">Custom</option>
+                            </select>
+                        </div>
+                        <div class="subcon placeholder" style="display: none;">
+                            <input type="text" id="inputDest">
+                            <span class="before">Destination</span>
+                        </div>
+                    </div>
+                    <div class="hand">
+                        <div class="subcon placeholder">
+                            <input type="number" id="CusCredit" placeholder="Current Credit">
+                        </div>
+                    </div>
+                <div class="subcon"></div>
+                <div class="subcon">
+                    <button class="btn_2" id="addCustomer">Add</button>
+                    <button class="btn_2" id="updCustomer" style="display: none;">Update</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
